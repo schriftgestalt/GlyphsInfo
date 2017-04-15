@@ -66,12 +66,17 @@ def writeDataHeader(File):
 <!ATTLIST glyph\n\
 	unicode			CDATA		#IMPLIED\n\
 	name			CDATA		#REQUIRED\n\
+	sortName		CDATA		#IMPLIED\n\
+	sortNameKeep	CDATA		#IMPLIED\n\
 	category		CDATA		#REQUIRED\n\
 	subCategory		CDATA		#IMPLIED\n\
 	script			CDATA		#IMPLIED\n\
 	description		CDATA		#REQUIRED\n\
 	production		CDATA		#IMPLIED\n\
 	altNames		CDATA		#IMPLIED\n\
+	decompose		CDATA		#IMPLIED\n\
+	anchors			CDATA		#IMPLIED\n\
+	accents			CDATA		#IMPLIED>\n\
 ]>\n\
 <glyphData>\n')
 
