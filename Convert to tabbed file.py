@@ -15,19 +15,19 @@ if not os.path.isfile(inputFilePath):
 	print "Could not find file at path:", inputFilePath
 	exit()
 
-# This list defineds the columns and ordering in the tabbed file
-fields = ["name",
-		"unicode",
+# This list defineds the columns and ordering in the tabbed file.
+fields = ["unicode",
+		"name",
 		#"unicode2",
 		"sortName",
 		"sortNameKeep",
+		"decompose",
 		"category",
 		"subCategory",
 		"script",
-		"description",
 		"production",
 		"altNames",
-		"decompose",
+		"description",
 		"anchors",
 		"accents"]
 
