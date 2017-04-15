@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-inputFilePath = "/Users/georg/Programmierung/Glyphs/GlyphsCore/GlyphsCore/GlyphData.txt"
+inputFilePath = "/Path/To/File/GlyphData.txt"
 
 import sys, os
 
