@@ -68,7 +68,7 @@ count = 0
 for info in infos:
 	if info.script == "han":
 		fIdeo.write(printInfo(info))
-	elif (info.name in disabledGlyphs or (info.script == "arabic" and info.unicode is None)) and (info.name not in forcedGlyphs):
+	elif (info.name in disabledGlyphs or info.name.endswith(".case") or (info.script == "arabic" and info.unicode is None)) and (info.name not in forcedGlyphs):
 		continue
 	else:
 		f.write(printInfo(info))
