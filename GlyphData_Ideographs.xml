@@ -28,6 +28,18 @@
 	<glyph unicode="3000" name="space-han" category="Separator" subCategory="Space" script="han" production="uni3000" altNames="ideographicspace" description="IDEOGRAPHIC SPACE" />
 	<glyph unicode="3002" name="period-han" category="Punctuation" script="han" production="uni3002" altNames="ideographicperiod" description="IDEOGRAPHIC FULL STOP" />
 	<glyph unicode="3005" name="iterationmark-han" category="Letter" subCategory="Modifier" script="han" production="uni3005" altNames="ideographiciterationmark" description="IDEOGRAPHIC ITERATION MARK" />
+	<glyph unicode="3021" name="one-hangzhou" category="Number" script="han" production="uni3021" altNames="onehangzhou" description="HANGZHOU NUMERAL ONE" />
+	<glyph unicode="3022" name="two-hangzhou" category="Number" script="han" production="uni3022" altNames="twohangzhou" description="HANGZHOU NUMERAL TWO" />
+	<glyph unicode="3023" name="three-hangzhou" category="Number" script="han" production="uni3023" altNames="threehangzhou" description="HANGZHOU NUMERAL THREE" />
+	<glyph unicode="3024" name="four-hangzhou" category="Number" script="han" production="uni3024" altNames="fourhangzhou" description="HANGZHOU NUMERAL FOUR" />
+	<glyph unicode="3025" name="five-hangzhou" category="Number" script="han" production="uni3025" altNames="fivehangzhou" description="HANGZHOU NUMERAL FIVE" />
+	<glyph unicode="3026" name="six-hangzhou" category="Number" script="han" production="uni3026" altNames="sixhangzhou" description="HANGZHOU NUMERAL SIX" />
+	<glyph unicode="3027" name="seven-hangzhou" category="Number" script="han" production="uni3027" altNames="sevenhangzhou" description="HANGZHOU NUMERAL SEVEN" />
+	<glyph unicode="3028" name="eight-hangzhou" category="Number" script="han" production="uni3028" altNames="eighthangzhou" description="HANGZHOU NUMERAL EIGHT" />
+	<glyph unicode="3029" name="nine-hangzhou" category="Number" script="han" production="uni3029" altNames="ninehangzhou" description="HANGZHOU NUMERAL NINE" />
+	<glyph unicode="3038" name="ten-hangzhou" category="Number" script="han" production="uni3038" description="HANGZHOU NUMERAL TEN" />
+	<glyph unicode="3039" name="twenty-hangzhou" category="Number" script="han" production="uni3039" description="HANGZHOU NUMERAL TWENTY" />
+	<glyph unicode="303A" name="thirty-hangzhou" category="Number" script="han" production="uni303A" description="HANGZHOU NUMERAL THIRTY" />
 	<glyph unicode="3220" name="one-han.paren" category="Number" script="han" production="uni3220" altNames="oneideographicparen" description="PARENTHESIZED IDEOGRAPH ONE" />
 	<glyph unicode="3221" name="two-han.paren" category="Number" script="han" production="uni3221" altNames="twoideographicparen" description="PARENTHESIZED IDEOGRAPH TWO" />
 	<glyph unicode="3222" name="three-han.paren" category="Number" script="han" production="uni3222" altNames="threeideographicparen" description="PARENTHESIZED IDEOGRAPH THREE" />
