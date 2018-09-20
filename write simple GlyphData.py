@@ -66,7 +66,16 @@ def printInfo(info):
 	
 count = 0
 for info in infos:
-	if info.script == "han":
+	name = info.name;
+	isUniName = False
+	try:
+		if name.startswith("uni"):
+			isUniName = True
+		elif name.startswith("u") and int(name[1:], 16) > 0:
+			isUniName = True
+	except:
+		pass
+	if info.script == "han" and isUniName:
 		fIdeo.write(printInfo(info))
 	elif (info.name in disabledGlyphs or info.name.endswith(".case") or (info.script == "arabic" and info.unicode is None)) and (info.name not in forcedGlyphs):
 		continue
