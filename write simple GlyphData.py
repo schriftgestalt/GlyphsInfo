@@ -1,12 +1,14 @@
 #MenuTitle: write simple GlyphData
 # -*- coding: utf-8 -*-
 
+import codecs
+
 infos = GSGlyphsInfo.sharedManager().glyphInfos()
 # or:
 # infos = GSGlyphsInfo.alloc().initWithLocalFile_(NSURL.fileURLWithPath_("path to custom GlyphData.xml file"))
 
-f = open("GlyphData.xml", "w")
-fIdeo = open("GlyphData_Ideographs.xml", "w")
+f = codecs.open("GlyphData.xml", "w", "utf-8")
+fIdeo = codecs.open("GlyphData_Ideographs.xml", "w", "utf-8")
 
 def writeHeader(f):
 	f.write('<?xml version="1.0" encoding="UTF-8" ?>\n\
@@ -18,6 +20,7 @@ def writeHeader(f):
 	name			CDATA		#REQUIRED\n\
 	category		CDATA		#REQUIRED\n\
 	subCategory		CDATA		#IMPLIED\n\
+	case			CDATA		#IMPLIED\n\
 	script			CDATA		#IMPLIED\n\
 	description		CDATA		#REQUIRED\n\
 	production		CDATA		#IMPLIED\n\
@@ -52,6 +55,8 @@ def printInfo(info):
 		string += 'category="' + info.category + '" '
 	if info.subCategory and info.subCategory != "Other":
 		string += 'subCategory="' + info.subCategory + '" '
+	if info.case > 0:
+		string += 'case="'+GSGlyphInfo.stringFromCase_(info.case) + '" '
 	if info.script:
 		string += 'script="' + info.script + '" '
 	if info.productionName:
@@ -83,7 +88,7 @@ for info in infos:
 		f.write(printInfo(info))
 	count += 1
 
-print "Written %d entries" % count
+print("Written %d entries" % count)
 f.write('</glyphData>\n')
 fIdeo.write('</glyphData>\n')
 
