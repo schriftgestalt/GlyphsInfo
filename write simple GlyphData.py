@@ -78,6 +78,8 @@ for info in infos:
 			isUniName = True
 		elif name.startswith("u") and int(name[1:], 16) > 0:
 			isUniName = True
+		if "." in name:
+			isUniName = False
 	except:
 		pass
 	if info.script == "han" and isUniName:
