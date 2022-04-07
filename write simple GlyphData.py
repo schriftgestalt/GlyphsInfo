@@ -63,6 +63,8 @@ def printInfo(info):
 		string += 'production="' + info.productionName + '" '
 	if info.altNames:
 		string += 'altNames="' + ", ".join(info.altNames) + '" '
+	if info.direction == GSRTL:
+		string += 'direction="%s" ' % info.directionString()
 	if info.desc:
 		string += 'description="' + info.desc + '" '
 	
