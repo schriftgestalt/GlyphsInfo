@@ -9,8 +9,9 @@
 	subCategory		CDATA		#IMPLIED
 	case			CDATA		#IMPLIED
 	script			CDATA		#IMPLIED
-	description		CDATA		#REQUIRED
+	description		CDATA		#IMPLIED
 	production		CDATA		#IMPLIED
+	direction		CDATA		#IMPLIED
 	altNames		CDATA		#IMPLIED>
 ]>
 <glyphData>
