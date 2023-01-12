@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import codecs
-
+print(">>Start")
 infos = GSGlyphsInfo.sharedManager().glyphInfos()
 # or:
 # infos = GSGlyphsInfo.alloc().initWithLocalFile_(NSURL.fileURLWithPath_("path to custom GlyphData.xml file"))
@@ -14,15 +14,19 @@ def writeHeader(f):
 	f.write('<?xml version="1.0" encoding="UTF-8" ?>\n\
 <!DOCTYPE glyphData [\n\
 <!ELEMENT glyphData (glyph)+>\n\
+<!ATTLIST glyphData\n\
+	format			CDATA		#IMPLIED>\n\
 <!ELEMENT glyph EMPTY>\n\
 <!ATTLIST glyph\n\
 	unicode			CDATA		#IMPLIED\n\
+	unicodeLegacy	CDATA		#IMPLIED\n\
 	name			CDATA		#REQUIRED\n\
 	category		CDATA		#REQUIRED\n\
 	subCategory		CDATA		#IMPLIED\n\
 	case			CDATA		#IMPLIED\n\
+	direction		CDATA		#IMPLIED\n\
 	script			CDATA		#IMPLIED\n\
-	description		CDATA		#REQUIRED\n\
+	description		CDATA		#IMPLIED\n\
 	production		CDATA		#IMPLIED\n\
 	altNames		CDATA		#IMPLIED>\n\
 ]>\n\
@@ -48,6 +52,8 @@ def printInfo(info):
 	string = '	<glyph '
 	if info.unicode:
 		string += 'unicode="' + info.unicode + '" '
+	elif info.unicodeLegacy():
+		string += 'unicodeLegacy="' + info.unicodeLegacy() + '" '
 	string += 'name="' + info.name + '" '
 # 	if info.sortName:
 # 		string += 'sortName="' + info.sortName + '" '
@@ -61,10 +67,10 @@ def printInfo(info):
 		string += 'script="' + info.script + '" '
 	if info.productionName:
 		string += 'production="' + info.productionName + '" '
+	if info.direction == GSRTL:
+		string += 'direction="%s" ' % GSGlyphInfo.stringFromDirection_(info.direction)
 	if info.altNames:
 		string += 'altNames="' + ", ".join(info.altNames) + '" '
-	if info.direction == GSRTL:
-		string += 'direction="%s" ' % info.directionString()
 	if info.desc:
 		string += 'description="' + info.desc + '" '
 	
@@ -86,7 +92,7 @@ for info in infos:
 		pass
 	if info.script == "han" and isUniName:
 		fIdeo.write(printInfo(info))
-	elif (info.name in disabledGlyphs or info.name.endswith(".case") or (info.script == "arabic" and info.unicode is None)) and (info.name not in forcedGlyphs):
+	elif (info.name in disabledGlyphs or info.name.endswith(".case")) and (info.name not in forcedGlyphs):
 		continue
 	else:
 		f.write(printInfo(info))

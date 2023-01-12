@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE glyphData [
 <!ELEMENT glyphData (glyph)+>
+<!ATTLIST glyphData
+	format			CDATA		#IMPLIED>
 <!ELEMENT glyph EMPTY>
 <!ATTLIST glyph
 	unicode			CDATA		#IMPLIED
+	unicodeLegacy	CDATA		#IMPLIED
 	name			CDATA		#REQUIRED
 	category		CDATA		#REQUIRED
 	subCategory		CDATA		#IMPLIED
 	case			CDATA		#IMPLIED
+	direction		CDATA		#IMPLIED
 	script			CDATA		#IMPLIED
 	description		CDATA		#IMPLIED
 	production		CDATA		#IMPLIED
-	direction		CDATA		#IMPLIED
 	altNames		CDATA		#IMPLIED>
 ]>
 <glyphData>
