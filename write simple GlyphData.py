@@ -76,7 +76,7 @@ def printInfo(info):
 	
 	string += '/>\n'
 	return string
-	
+ideoInfos = []
 count = 0
 for info in infos:
 	name = info.name;
@@ -91,13 +91,16 @@ for info in infos:
 	except:
 		pass
 	if info.script == "han" and isUniName:
-		fIdeo.write(printInfo(info))
+		ideoInfos.append(info)
 	elif (info.name in disabledGlyphs or info.name.endswith(".case")) and (info.name not in forcedGlyphs):
 		continue
 	else:
 		f.write(printInfo(info))
 	count += 1
 
+ideoInfos.sort(key=lambda info: int(info.unicode, 16))
+for info in ideoInfos:
+	fIdeo.write(printInfo(info))
 print("Written %d entries" % count)
 f.write('</glyphData>\n')
 fIdeo.write('</glyphData>\n')
