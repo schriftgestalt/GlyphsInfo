@@ -4356,7 +4356,18 @@
 	<glyph unicode="AB5D" name="lsinvertedlazymod" category="Letter" subCategory="Modifier" script="latin" production="uniAB5D" description="MODIFIER LETTER SMALL L WITH INVERTED LAZY S" />
 	<glyph unicode="AB5E" name="lmiddletildemod" category="Letter" subCategory="Modifier" script="latin" production="uniAB5E" description="MODIFIER LETTER SMALL L WITH MIDDLE TILDE" />
 	<glyph unicode="AB5F" name="ulefthookmod" category="Letter" subCategory="Modifier" script="latin" production="uniAB5F" description="MODIFIER LETTER SMALL U WITH LEFT HOOK" />
+	<glyph unicode="AB60" name="yatsakha" category="Letter" case="lower" script="latin" production="uniAB60" description="LATIN SMALL LETTER SAKHA YAT" />
+	<glyph unicode="AB61" name="eiotified" category="Letter" case="lower" script="latin" production="uniAB61" description="LATIN SMALL LETTER IOTIFIED E" />
+	<glyph unicode="AB62" name="oeopen" category="Letter" case="lower" script="latin" production="uniAB62" description="LATIN SMALL LETTER OPEN OE" />
+	<glyph unicode="AB63" name="uo" category="Letter" case="lower" script="latin" production="uniAB63" description="LATIN SMALL LETTER UO" />
 	<glyph unicode="AB64" name="alphainverted-latin" category="Letter" case="lower" script="latin" production="uniAB64" description="LATIN SMALL LETTER INVERTED ALPHA" />
+	<glyph unicode="AB65" name="Omegasmall" category="Letter" case="lower" script="latin" production="uniAB65" description="GREEK LETTER SMALL CAPITAL OMEGA" />
+	<glyph unicode="AB66" name="dzretroflexhook" category="Letter" case="lower" script="latin" production="uniAB66" description="LATIN SMALL LETTER DZ DIGRAPH WITH RETROFLEX HOOK" />
+	<glyph unicode="AB67" name="tsretroflexhook" category="Letter" case="lower" script="latin" production="uniAB67" description="LATIN SMALL LETTER TS DIGRAPH WITH RETROFLEX HOOK" />
+	<glyph unicode="AB68" name="rmiddletildeturned" category="Letter" case="lower" script="latin" production="uniAB68" description="LATIN SMALL LETTER TURNED R WITH MIDDLE TILDE" />
+	<glyph unicode="AB69" name="wturnedmod" category="Letter" subCategory="Modifier" script="latin" production="uniAB69" description="MODIFIER LETTER SMALL TURNED W" />
+	<glyph unicode="AB6A" name="tackleftmod" category="Letter" subCategory="Modifier" script="latin" production="uniAB6A" description="MODIFIER LETTER LEFT TACK" />
+	<glyph unicode="AB6B" name="tackrightmod" category="Letter" subCategory="Modifier" script="latin" production="uniAB6B" description="MODIFIER LETTER RIGHT TACK" />
 	<glyph unicode="05D0" name="alef-hb" category="Letter" script="hebrew" production="uni05D0" direction="RTL" altNames="afii57664, alef, alefhebrew" description="HEBREW LETTER ALEF" />
 	<glyph unicode="05D1" name="bet-hb" category="Letter" script="hebrew" production="uni05D1" direction="RTL" altNames="afii57665, bet, bethebrew" description="HEBREW LETTER BET" />
 	<glyph unicode="05D2" name="gimel-hb" category="Letter" script="hebrew" production="uni05D2" direction="RTL" altNames="afii57666, gimel, gimelhebrew" description="HEBREW LETTER GIMEL" />
@@ -25722,6 +25733,7 @@
 	<glyph unicode="A7AB" name="Eopenreversed" category="Letter" case="upper" script="latin" production="uniA7AB" altNames="EreversedOpen" description="LATIN CAPITAL LETTER REVERSED OPEN E" />
 	<glyph unicode="A7AC" name="Gsingle" category="Letter" case="upper" script="latin" production="uniA7AC" altNames="Gscript" description="LATIN CAPITAL LETTER SCRIPT G" />
 	<glyph unicode="A7AD" name="Lbelt" category="Letter" case="upper" script="latin" production="uniA7AD" description="LATIN CAPITAL LETTER L WITH BELT" />
+	<glyph unicode="A7AF" name="Qsmall" category="Letter" case="lower" script="latin" production="uniA7AF" description="LATIN LETTER SMALL CAPITAL Q" />
 	<glyph unicode="A7B0" name="Kturned" category="Letter" case="upper" script="latin" production="uniA7B0" description="LATIN CAPITAL LETTER TURNED K" />
 	<glyph unicode="A7B1" name="Tturned" category="Letter" case="upper" script="latin" production="uniA7B1" description="LATIN CAPITAL LETTER TURNED T" />
 	<glyph unicode="A7B2" name="Jcrossedtail" category="Letter" case="upper" script="latin" production="uniA7B2" description="LATIN CAPITAL LETTER J WITH CROSSED-TAIL" />
@@ -25730,6 +25742,38 @@
 	<glyph unicode="A7B5" name="beta-latin" category="Letter" case="lower" script="latin" production="uniA7B5" description="LATIN SMALL LETTER BETA" />
 	<glyph unicode="A7B6" name="Omega-latin" category="Letter" case="upper" script="latin" production="uniA7B6" description="LATIN CAPITAL LETTER OMEGA" />
 	<glyph unicode="A7B7" name="omega-latin" category="Letter" case="lower" script="latin" production="uniA7B7" description="LATIN SMALL LETTER OMEGA" />
+	<glyph unicode="A7B8" name="Ustroke" category="Letter" case="upper" script="latin" production="uniA7B8" description="LATIN CAPITAL LETTER U WITH STROKE" />
+	<glyph unicode="A7B9" name="ustroke" category="Letter" case="lower" script="latin" production="uniA7B9" description="LATIN SMALL LETTER U WITH STROKE" />
+	<glyph unicode="A7BA" name="Aglottal" category="Letter" case="upper" script="latin" production="uniA7BA" description="LATIN CAPITAL LETTER GLOTTAL A" />
+	<glyph unicode="A7BB" name="aglottal" category="Letter" case="lower" script="latin" production="uniA7BB" description="LATIN SMALL LETTER GLOTTAL A" />
+	<glyph unicode="A7BC" name="Iglottal" category="Letter" case="upper" script="latin" production="uniA7BC" description="LATIN CAPITAL LETTER GLOTTAL I" />
+	<glyph unicode="A7BD" name="iglottal" category="Letter" case="lower" script="latin" production="uniA7BD" description="LATIN SMALL LETTER GLOTTAL I" />
+	<glyph unicode="A7BE" name="Uglottal" category="Letter" case="upper" script="latin" production="uniA7BE" description="LATIN CAPITAL LETTER GLOTTAL U" />
+	<glyph unicode="A7BF" name="uglottal" category="Letter" case="lower" script="latin" production="uniA7BF" description="LATIN SMALL LETTER GLOTTAL U" />
+	<glyph unicode="A7C0" name="Ooldpolish" category="Letter" case="upper" script="latin" production="uniA7C0" description="LATIN CAPITAL LETTER OLD POLISH O" />
+	<glyph unicode="A7C1" name="ooldpolish" category="Letter" case="lower" script="latin" production="uniA7C1" description="LATIN SMALL LETTER OLD POLISH O" />
+	<glyph unicode="A7C2" name="Wanglicana" category="Letter" case="upper" script="latin" production="uniA7C2" description="LATIN CAPITAL LETTER W ANGLICANA" />
+	<glyph unicode="A7C3" name="wanglicana" category="Letter" case="lower" script="latin" production="uniA7C3" description="LATIN SMALL LETTER W ANGLICANA" />
+	<glyph unicode="A7C4" name="CPalatalhook" category="Letter" case="upper" script="latin" production="uniA7C4" description="LATIN CAPITAL LETTER C WITH PALATAL HOOK" />
+	<glyph unicode="A7C5" name="Shook" category="Letter" case="upper" script="latin" production="uniA7C5" description="LATIN CAPITAL LETTER S WITH HOOK" />
+	<glyph unicode="A7C6" name="ZPalatalhook" category="Letter" case="upper" script="latin" production="uniA7C6" description="LATIN CAPITAL LETTER Z WITH PALATAL HOOK" />
+	<glyph unicode="A7C7" name="Dshortstrokeoverlay" category="Letter" case="upper" script="latin" production="uniA7C7" description="LATIN CAPITAL LETTER D WITH SHORT STROKE OVERLAY" />
+	<glyph unicode="A7C8" name="dshortstrokeoverlay" category="Letter" case="lower" script="latin" production="uniA7C8" description="LATIN SMALL LETTER D WITH SHORT STROKE OVERLAY" />
+	<glyph unicode="A7C9" name="Sshortstrokeoverlay" category="Letter" case="upper" script="latin" production="uniA7C9" description="LATIN CAPITAL LETTER S WITH SHORT STROKE OVERLAY" />
+	<glyph unicode="A7CA" name="sshortstrokeoverlay" category="Letter" case="lower" script="latin" production="uniA7CA" description="LATIN SMALL LETTER S WITH SHORT STROKE OVERLAY" />
+	<glyph unicode="A7D0" name="Gclosedinsular" category="Letter" case="upper" script="latin" production="uniA7D0" description="LATIN CAPITAL LETTER CLOSED INSULAR G" />
+	<glyph unicode="A7D1" name="gclosedinsular" category="Letter" case="lower" script="latin" production="uniA7D1" description="LATIN SMALL LETTER CLOSED INSULAR G" />
+	<glyph unicode="A7D3" name="thorndouble" category="Letter" case="lower" script="latin" production="uniA7D3" description="LATIN SMALL LETTER DOUBLE THORN" />
+	<glyph unicode="A7D5" name="wynndouble" category="Letter" case="lower" script="latin" production="uniA7D5" description="LATIN SMALL LETTER DOUBLE WYNN" />
+	<glyph unicode="A7D5" name="Smiddlescots" category="Letter" case="upper" script="latin" production="uniA7D6" description="LATIN CAPITAL LETTER MIDDLE SCOTS S" />
+	<glyph unicode="A7D7" name="smiddlescots" category="Letter" case="lower" script="latin" production="uniA7D7" description="LATIN SMALL LETTER MIDDLE SCOTS S" />
+	<glyph unicode="A7D8" name="Ssigmoid" category="Letter" case="upper" script="latin" production="uniA7D8" description="LATIN CAPITAL LETTER SIGMOID S" />
+	<glyph unicode="A7D9" name="ssigmoid" category="Letter" case="lower" script="latin" production="uniA7D9" description="LATIN SMALL LETTER SIGMOID S" />
+	<glyph unicode="A7F2" name="Cmod" category="Letter" subCategory="Modifier" production="uniA7F2" description="MODIFIER LETTER CAPITAL C" />
+	<glyph unicode="A7F3" name="Fmod" category="Letter" subCategory="Modifier" production="uniA7F3" description="MODIFIER LETTER CAPITAL F" />
+	<glyph unicode="A7F4" name="Qmod" category="Letter" subCategory="Modifier" production="uniA7F4" description="MODIFIER LETTER CAPITAL Q" />
+	<glyph unicode="A7F5" name="Halfhreversed" category="Letter" case="upper" script="latin" production="uniA7F5" description="LATIN CAPITAL LETTER REVERSED HALF H" />
+	<glyph unicode="A7F6" name="halfhreversed" category="Letter" case="lower" script="latin" production="uniA7F6" description="LATIN SMALL LETTER REVERSED HALF H" />
 	<glyph unicode="A7F7" name="Iepigraphicsideways" category="Letter" script="latin" production="uniA7F7" description="LATIN EPIGRAPHIC LETTER SIDEWAYS I" />
 	<glyph unicode="A7F8" name="Hbarmod" category="Letter" subCategory="Modifier" production="uniA7F8" description="MODIFIER LETTER CAPITAL H WITH STROKE" />
 	<glyph unicode="A7F9" name="oemod" category="Letter" subCategory="Modifier" production="uniA7F9" description="MODIFIER LETTER SMALL LIGATURE OE" />
