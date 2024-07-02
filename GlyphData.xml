@@ -25852,8 +25852,11 @@
 	<glyph unicode="A7C6" name="ZPalatalhook" category="Letter" case="upper" script="latin" production="uniA7C6" description="LATIN CAPITAL LETTER Z WITH PALATAL HOOK" />
 	<glyph unicode="A7C7" name="Dshortstrokeoverlay" category="Letter" case="upper" script="latin" production="uniA7C7" description="LATIN CAPITAL LETTER D WITH SHORT STROKE OVERLAY" />
 	<glyph unicode="A7C8" name="dshortstrokeoverlay" category="Letter" case="lower" script="latin" production="uniA7C8" description="LATIN SMALL LETTER D WITH SHORT STROKE OVERLAY" />
-	<glyph unicode="A7C9" name="Sshortstrokeoverlay" category="Letter" case="upper" script="latin" production="uniA7C9" description="LATIN CAPITAL LETTER S WITH SHORT STROKE OVERLAY" />
-	<glyph unicode="A7CA" name="sshortstrokeoverlay" category="Letter" case="lower" script="latin" production="uniA7CA" description="LATIN SMALL LETTER S WITH SHORT STROKE OVERLAY" />
+	<glyph unicode="A7C9" name="Sbar" category="Letter" case="upper" script="latin" production="uniA7C9" description="LATIN CAPITAL LETTER S WITH SHORT STROKE OVERLAY" />
+	<glyph unicode="A7CA" name="sbar" category="Letter" case="lower" script="latin" production="uniA7CA" description="LATIN SMALL LETTER S WITH SHORT STROKE OVERLAY" />
+	<glyph unicode="A7CB" name="Ramshorn" category="Letter" case="upper" script="latin" production="uniA7CB" description="LATIN CAPITAL LETTER RAMS HORN" />
+	<glyph unicode="A7CC" name="Sslash" category="Letter" case="upper" script="latin" production="uniA7CC" description="LATIN CAPITAL LETTER S WITH DIAGONAL STROKE" />
+	<glyph unicode="A7CD" name="sslash" category="Letter" case="lower" script="latin" production="uniA7CD" description="LATIN SMALL LETTER S WITH DIAGONAL STROKE" />
 	<glyph unicode="A7D0" name="Gclosedinsular" category="Letter" case="upper" script="latin" production="uniA7D0" description="LATIN CAPITAL LETTER CLOSED INSULAR G" />
 	<glyph unicode="A7D1" name="gclosedinsular" category="Letter" case="lower" script="latin" production="uniA7D1" description="LATIN SMALL LETTER CLOSED INSULAR G" />
 	<glyph unicode="A7D3" name="thorndouble" category="Letter" case="lower" script="latin" production="uniA7D3" description="LATIN SMALL LETTER DOUBLE THORN" />
@@ -25862,6 +25865,9 @@
 	<glyph unicode="A7D7" name="smiddlescots" category="Letter" case="lower" script="latin" production="uniA7D7" description="LATIN SMALL LETTER MIDDLE SCOTS S" />
 	<glyph unicode="A7D8" name="Ssigmoid" category="Letter" case="upper" script="latin" production="uniA7D8" description="LATIN CAPITAL LETTER SIGMOID S" />
 	<glyph unicode="A7D9" name="ssigmoid" category="Letter" case="lower" script="latin" production="uniA7D9" description="LATIN SMALL LETTER SIGMOID S" />
+	<glyph unicode="A7DA" name="Lambda-latin" category="Letter" case="upper" script="latin" production="uniA7DA" description="LATIN CAPITAL LETTER LAMBDA" />
+	<glyph unicode="A7DB" name="lambda-latin" category="Letter" case="lower" script="latin" production="uniA7DB" description="LATIN SMALL LETTER LAMBDA" />
+	<glyph unicode="A7DC" name="Lambdastroke" category="Letter" case="upper" script="latin" production="uniA7DC" description="LATIN CAPITAL LETTER LAMBDA WITH STROKE" />
 	<glyph unicode="A7F2" name="Cmod" category="Letter" subCategory="Modifier" production="uniA7F2" description="MODIFIER LETTER CAPITAL C" />
 	<glyph unicode="A7F3" name="Fmod" category="Letter" subCategory="Modifier" production="uniA7F3" description="MODIFIER LETTER CAPITAL F" />
 	<glyph unicode="A7F4" name="Qmod" category="Letter" subCategory="Modifier" production="uniA7F4" description="MODIFIER LETTER CAPITAL Q" />
