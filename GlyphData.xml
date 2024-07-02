@@ -25733,6 +25733,7 @@
 	<glyph unicode="A7AB" name="Eopenreversed" category="Letter" case="upper" script="latin" production="uniA7AB" altNames="EreversedOpen" description="LATIN CAPITAL LETTER REVERSED OPEN E" />
 	<glyph unicode="A7AC" name="Gsingle" category="Letter" case="upper" script="latin" production="uniA7AC" altNames="Gscript" description="LATIN CAPITAL LETTER SCRIPT G" />
 	<glyph unicode="A7AD" name="Lbelt" category="Letter" case="upper" script="latin" production="uniA7AD" description="LATIN CAPITAL LETTER L WITH BELT" />
+	<glyph unicode="A7AE" name="Icapitalsmall" category="Letter" case="upper" script="latin" production="uniA7AE" description="LATIN CAPITAL LETTER SMALL CAPITAL I" />
 	<glyph unicode="A7AF" name="Qsmall" category="Letter" case="lower" script="latin" production="uniA7AF" description="LATIN LETTER SMALL CAPITAL Q" />
 	<glyph unicode="A7B0" name="Kturned" category="Letter" case="upper" script="latin" production="uniA7B0" description="LATIN CAPITAL LETTER TURNED K" />
 	<glyph unicode="A7B1" name="Tturned" category="Letter" case="upper" script="latin" production="uniA7B1" description="LATIN CAPITAL LETTER TURNED T" />
