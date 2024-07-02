@@ -1954,6 +1954,8 @@
 	<glyph unicode="1C86" name="hardsigntall-cy" category="Letter" case="lower" script="latin" production="uni1C86" description="CYRILLIC SMALL LETTER TALL HARD SIGN" />
 	<glyph unicode="1C87" name="yattall-cy" category="Letter" case="lower" script="latin" production="uni1C87" description="CYRILLIC SMALL LETTER TALL YAT" />
 	<glyph unicode="1C88" name="ukunblended-cy" category="Letter" case="lower" script="latin" production="uni1C88" description="CYRILLIC SMALL LETTER UNBLENDED UK" />
+	<glyph unicode="1C89" name="Tje-cy" category="Letter" case="upper" script="latin" production="uni1C89" description="CYRILLIC CAPITAL LETTER TJE" />
+	<glyph unicode="1C8A" name="tje-cy" category="Letter" case="lower" script="latin" production="uni1C8A" description="CYRILLIC SMALL LETTER TJE" />
 	<glyph unicode="1E030" name="amod-cy" category="Letter" subCategory="Modifier" script="cyrillic" production="u1E030" description="MODIFIER LETTER CYRILLIC SMALL A" />
 	<glyph unicode="1E031" name="bemod-cy" category="Letter" subCategory="Modifier" script="cyrillic" production="u1E031" description="MODIFIER LETTER CYRILLIC SMALL BE" />
 	<glyph unicode="1E032" name="vemod-cy" category="Letter" subCategory="Modifier" script="cyrillic" production="u1E032" description="MODIFIER LETTER CYRILLIC SMALL VE" />
