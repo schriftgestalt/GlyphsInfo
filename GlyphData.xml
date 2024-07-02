@@ -715,7 +715,7 @@
 	<glyph unicode="024E" name="Ystroke" category="Letter" case="upper" script="latin" production="uni024E" description="LATIN CAPITAL LETTER Y WITH STROKE" />
 	<glyph unicode="024F" name="ystroke" category="Letter" case="lower" script="latin" production="uni024F" description="LATIN SMALL LETTER Y WITH STROKE" />
 	<glyph unicode="0262" name="Gsmall" category="Letter" case="lower" script="latin" production="uni0262" description="LATIN LETTER SMALL CAPITAL G" />
-	<glyph unicode="026A" name="Ismall" category="Letter" case="lower" script="latin" production="uni026A" description="LATIN LETTER SMALL CAPITAL I" />
+	<glyph unicode="026A" name="icapitalsmall" category="Letter" case="lower" script="latin" production="uni026A" altNames="Ismall" description="LATIN LETTER SMALL CAPITAL I" />
 	<glyph unicode="0274" name="Nsmall" category="Letter" case="lower" script="latin" production="uni0274" description="LATIN LETTER SMALL CAPITAL N" />
 	<glyph unicode="0276" name="OEsmall" category="Letter" case="lower" script="latin" production="uni0276" description="LATIN LETTER SMALL CAPITAL OE" />
 	<glyph unicode="0280" name="Rsmall" category="Letter" case="lower" script="latin" production="uni0280" description="LATIN LETTER SMALL CAPITAL R" />
