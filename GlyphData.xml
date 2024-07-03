@@ -1945,6 +1945,17 @@
 	<glyph unicode="A69D" name="modifiersoftsign-cy" category="Letter" subCategory="Modifier" script="cyrillic" production="uniA69D" description="MODIFIER LETTER CYRILLIC SOFT SIGN" />
 	<glyph unicode="A69E" name="efcomb-cy" category="Mark" subCategory="Nonspacing" script="cyrillic" production="uniA69E" description="COMBINING CYRILLIC LETTER EF" />
 	<glyph unicode="A69F" name="iotifiedecomb-cy" category="Mark" subCategory="Nonspacing" script="cyrillic" production="uniA69F" description="COMBINING CYRILLIC LETTER IOTIFIED E" />
+	<glyph unicode="1C80" name="verounded-cy" category="Letter" case="lower" script="latin" production="uni1C80" description="CYRILLIC SMALL LETTER ROUNDED VE" />
+	<glyph unicode="1C81" name="delonglegged" category="Letter" case="lower" script="latin" production="uni1C81" description="CYRILLIC SMALL LETTER LONG-LEGGED DE" />
+	<glyph unicode="1C82" name="onarrow-cy" category="Letter" case="lower" script="latin" production="uni1C82" description="CYRILLIC SMALL LETTER NARROW O" />
+	<glyph unicode="1C83" name="eswide-cy" category="Letter" case="lower" script="latin" production="uni1C83" description="CYRILLIC SMALL LETTER WIDE ES" />
+	<glyph unicode="1C84" name="tetall-cy" category="Letter" case="lower" script="latin" production="uni1C84" description="CYRILLIC SMALL LETTER TALL TE" />
+	<glyph unicode="1C85" name="tethreelegged-cy" category="Letter" case="lower" script="latin" production="uni1C85" description="CYRILLIC SMALL LETTER THREE-LEGGED TE" />
+	<glyph unicode="1C86" name="hardsigntall-cy" category="Letter" case="lower" script="latin" production="uni1C86" description="CYRILLIC SMALL LETTER TALL HARD SIGN" />
+	<glyph unicode="1C87" name="yattall-cy" category="Letter" case="lower" script="latin" production="uni1C87" description="CYRILLIC SMALL LETTER TALL YAT" />
+	<glyph unicode="1C88" name="ukunblended-cy" category="Letter" case="lower" script="latin" production="uni1C88" description="CYRILLIC SMALL LETTER UNBLENDED UK" />
+	<glyph unicode="1C89" name="Tje-cy" category="Letter" case="upper" script="latin" production="uni1C89" description="CYRILLIC CAPITAL LETTER TJE" />
+	<glyph unicode="1C8A" name="tje-cy" category="Letter" case="lower" script="latin" production="uni1C8A" description="CYRILLIC SMALL LETTER TJE" />
 	<glyph unicode="1E030" name="amod-cy" category="Letter" subCategory="Modifier" script="cyrillic" production="u1E030" description="MODIFIER LETTER CYRILLIC SMALL A" />
 	<glyph unicode="1E031" name="bemod-cy" category="Letter" subCategory="Modifier" script="cyrillic" production="u1E031" description="MODIFIER LETTER CYRILLIC SMALL BE" />
 	<glyph unicode="1E032" name="vemod-cy" category="Letter" subCategory="Modifier" script="cyrillic" production="u1E032" description="MODIFIER LETTER CYRILLIC SMALL VE" />
