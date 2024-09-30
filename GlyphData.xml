@@ -524,7 +524,7 @@
 	<glyph unicode="018F" name="Schwa" category="Letter" case="upper" script="latin" production="uni018F" description="LATIN CAPITAL LETTER SCHWA" />
 	<glyph unicode="0190" name="Eopen" category="Letter" case="upper" script="latin" production="uni0190" description="LATIN CAPITAL LETTER OPEN E" />
 	<glyph unicode="0191" name="Fhook" category="Letter" case="upper" script="latin" production="uni0191" description="LATIN CAPITAL LETTER F WITH HOOK" />
-	<glyph unicode="0192" name="florin" category="Symbol" subCategory="Currency" script="latin" description="LATIN SMALL LETTER F WITH HOOK" />
+	<glyph unicode="0192" name="fhook" category="Letter" case="lower" script="latin" production="florin" altNames="florin" description="LATIN SMALL LETTER F WITH HOOK" />
 	<glyph unicode="0193" name="Ghook" category="Letter" case="upper" script="latin" production="uni0193" description="LATIN CAPITAL LETTER G WITH HOOK" />
 	<glyph unicode="0194" name="Gamma-latin" category="Letter" case="upper" script="latin" production="uni0194" altNames="Gammaafrican" description="LATIN CAPITAL LETTER GAMMA" />
 	<glyph unicode="0195" name="hwair" category="Letter" case="lower" script="latin" production="uni0195" altNames="hv" description="LATIN SMALL LETTER HV" />
