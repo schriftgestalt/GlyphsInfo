@@ -533,7 +533,7 @@
 	<glyph unicode="0198" name="Khook" category="Letter" case="upper" script="latin" production="uni0198" description="LATIN CAPITAL LETTER K WITH HOOK" />
 	<glyph unicode="0199" name="khook" category="Letter" case="lower" script="latin" production="uni0199" description="LATIN SMALL LETTER K WITH HOOK" />
 	<glyph unicode="019A" name="lbar" category="Letter" case="lower" script="latin" production="uni019A" description="LATIN SMALL LETTER L WITH BAR" />
-	<glyph unicode="019B" name="lambdastroke" category="Letter" case="lower" script="latin" production="uni019B" description="LATIN SMALL LETTER LAMBDA WITH STROKE" />
+	<glyph unicode="019B" name="lambdastroke-latin" category="Letter" case="lower" script="latin" production="uni019B" altNames="lambdastroke" description="LATIN SMALL LETTER LAMBDA WITH STROKE" />
 	<glyph unicode="019C" name="Mturned" category="Letter" case="upper" script="latin" production="uni019C" description="LATIN CAPITAL LETTER TURNED M" />
 	<glyph unicode="019D" name="Nhookleft" category="Letter" case="upper" script="latin" production="uni019D" description="LATIN CAPITAL LETTER N WITH LEFT HOOK" />
 	<glyph unicode="019E" name="nlongrightleg" category="Letter" case="lower" script="latin" production="uni019E" altNames="nlegrightlong" description="LATIN SMALL LETTER N WITH LONG RIGHT LEG" />
@@ -25878,7 +25878,7 @@
 	<glyph unicode="A7D9" name="ssigmoid" category="Letter" case="lower" script="latin" production="uniA7D9" description="LATIN SMALL LETTER SIGMOID S" />
 	<glyph unicode="A7DA" name="Lambda-latin" category="Letter" case="upper" script="latin" production="uniA7DA" description="LATIN CAPITAL LETTER LAMBDA" />
 	<glyph unicode="A7DB" name="lambda-latin" category="Letter" case="lower" script="latin" production="uniA7DB" description="LATIN SMALL LETTER LAMBDA" />
-	<glyph unicode="A7DC" name="Lambdastroke" category="Letter" case="upper" script="latin" production="uniA7DC" description="LATIN CAPITAL LETTER LAMBDA WITH STROKE" />
+	<glyph unicode="A7DC" name="Lambdastroke-latin" category="Letter" case="upper" script="latin" production="uniA7DC" description="LATIN CAPITAL LETTER LAMBDA WITH STROKE" />
 	<glyph unicode="A7F2" name="Cmod" category="Letter" subCategory="Modifier" production="uniA7F2" description="MODIFIER LETTER CAPITAL C" />
 	<glyph unicode="A7F3" name="Fmod" category="Letter" subCategory="Modifier" production="uniA7F3" description="MODIFIER LETTER CAPITAL F" />
 	<glyph unicode="A7F4" name="Qmod" category="Letter" subCategory="Modifier" production="uniA7F4" description="MODIFIER LETTER CAPITAL Q" />
