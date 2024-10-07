@@ -6640,6 +6640,9 @@
 	<glyph unicode="09F9" name="sixteenDnom-beng" category="Number" script="bengali" production="uni09F9" altNames="sixteencurrencydenominatorbengali, sixteencurrencydenominator-bengali" description="BENGALI CURRENCY DENOMINATOR SIXTEEN" />
 	<glyph unicode="09FA" name="isshar-beng" category="Symbol" script="bengali" production="uni09FA" altNames="issharbengali, isshar-bengali" description="BENGALI ISSHAR" />
 	<glyph unicode="09FB" name="ganda-beng" category="Symbol" script="bengali" production="uni09FB" altNames="ganda-bengali" description="BENGALI GANDA MARK" />
+	<glyph unicode="09FC" name="anusvaraVedic-beng" category="Letter" script="bengali" production="uni09FC" description="BENGALI LETTER VEDIC ANUSVARA" />
+	<glyph unicode="09FD" name="abbreviation-beng" category="Punctuation" script="bengali" production="uni09FD" description="BENGALI ABBREVIATION SIGN" />
+	<glyph unicode="09FE" name="sandhi-beng" category="Mark" subCategory="Nonspacing" script="bengali" production="uni09FE" description="BENGALI SANDHI MARK" />
 	<glyph unicode="0A05" name="a-gurmukhi" category="Letter" script="gurmukhi" production="uni0A05" altNames="agurmukhi" description="GURMUKHI LETTER A" />
 	<glyph unicode="0A06" name="aa-gurmukhi" category="Letter" script="gurmukhi" production="uni0A06" altNames="aagurmukhi" description="GURMUKHI LETTER AA" />
 	<glyph unicode="0A07" name="i-gurmukhi" category="Letter" script="gurmukhi" production="uni0A07" altNames="igurmukhi" description="GURMUKHI LETTER I" />
@@ -7113,6 +7116,7 @@
 	<glyph unicode="0C01" name="candraBindu-telugu" category="Mark" subCategory="Spacing Combining" script="telugu" production="uni0C01" description="TELUGU SIGN CANDRABINDU" />
 	<glyph unicode="0C02" name="anusvara-telugu" category="Mark" subCategory="Spacing Combining" script="telugu" production="uni0C02" description="TELUGU SIGN ANUSVARA" />
 	<glyph unicode="0C03" name="visarga-telugu" category="Mark" subCategory="Spacing Combining" script="telugu" production="uni0C03" description="TELUGU SIGN VISARGA" />
+	<glyph unicode="0C04" name="anusvaraabove-telugu" category="Mark" subCategory="Nonspacing" script="telugu" production="uni0C04" description="TELUGU SIGN COMBINING ANUSVARA ABOVE" />
 	<glyph unicode="0C05" name="a-telugu" category="Letter" script="telugu" production="uni0C05" description="TELUGU LETTER A" />
 	<glyph unicode="0C06" name="aa-telugu" category="Letter" script="telugu" production="uni0C06" description="TELUGU LETTER AA" />
 	<glyph unicode="0C07" name="i-telugu" category="Letter" script="telugu" production="uni0C07" description="TELUGU LETTER I" />
@@ -7234,6 +7238,7 @@
 	<glyph unicode="0C6D" name="seven-telugu" category="Number" subCategory="Decimal Digit" script="telugu" production="uni0C6D" description="TELUGU DIGIT SEVEN" />
 	<glyph unicode="0C6E" name="eight-telugu" category="Number" subCategory="Decimal Digit" script="telugu" production="uni0C6E" description="TELUGU DIGIT EIGHT" />
 	<glyph unicode="0C6F" name="nine-telugu" category="Number" subCategory="Decimal Digit" script="telugu" production="uni0C6F" description="TELUGU DIGIT NINE" />
+	<glyph unicode="0C77" name="siddham-telugu" category="Punctuation" script="telugu" production="uni0C77" description="TELUGU SIGN SIDDHAM" />
 	<glyph unicode="0C78" name="fractionzeroforoddpowersoffour-telugu" category="Number" script="telugu" production="uni0C78" description="TELUGU FRACTION DIGIT ZERO FOR ODD POWERS OF FOUR" />
 	<glyph unicode="0C79" name="fractiononeforoddpowersoffour-telugu" category="Number" script="telugu" production="uni0C79" description="TELUGU FRACTION DIGIT ONE FOR ODD POWERS OF FOUR" />
 	<glyph unicode="0C7A" name="fractiontwoforoddpowersoffour-telugu" category="Number" script="telugu" production="uni0C7A" description="TELUGU FRACTION DIGIT TWO FOR ODD POWERS OF FOUR" />
@@ -8230,13 +8235,10 @@
 	<glyph unicode="1009" name="nya-myanmar" category="Letter" script="myanmar" production="uni1009" description="MYANMAR LETTER NYA" />
 	<glyph unicode="100A" name="nnya-myanmar" category="Letter" script="myanmar" production="uni100A" description="MYANMAR LETTER NNYA" />
 	<glyph unicode="100B" name="tta-myanmar" category="Letter" script="myanmar" production="uni100B" description="MYANMAR LETTER TTA" />
-	<glyph name="tt-myanmar" category="Letter" subCategory="Halfform" script="myanmar" production="uni100B1039" description="MYANMAR LETTER TT" />
 	<glyph unicode="100C" name="ttha-myanmar" category="Letter" script="myanmar" production="uni100C" description="MYANMAR LETTER TTHA" />
 	<glyph unicode="100D" name="dda-myanmar" category="Letter" script="myanmar" production="uni100D" description="MYANMAR LETTER DDA" />
-	<glyph name="dd-myanmar" category="Letter" subCategory="Halfform" script="myanmar" production="uni100D1039" description="MYANMAR LETTER DD" />
 	<glyph unicode="100E" name="ddha-myanmar" category="Letter" script="myanmar" production="uni100E" description="MYANMAR LETTER DDHA" />
 	<glyph unicode="100F" name="nna-myanmar" category="Letter" script="myanmar" production="uni100F" description="MYANMAR LETTER NNA" />
-	<glyph name="nn-myanmar" category="Letter" subCategory="Halfform" script="myanmar" production="uni100F1039" description="MYANMAR LETTER NN" />
 	<glyph unicode="1010" name="ta-myanmar" category="Letter" script="myanmar" production="uni1010" description="MYANMAR LETTER TA" />
 	<glyph unicode="1011" name="tha-myanmar" category="Letter" script="myanmar" production="uni1011" description="MYANMAR LETTER THA" />
 	<glyph unicode="1012" name="da-myanmar" category="Letter" script="myanmar" production="uni1012" description="MYANMAR LETTER DA" />
@@ -8254,10 +8256,8 @@
 	<glyph unicode="101E" name="sa-myanmar" category="Letter" script="myanmar" production="uni101E" description="MYANMAR LETTER SA" />
 	<glyph unicode="101F" name="ha-myanmar" category="Letter" script="myanmar" production="uni101F" description="MYANMAR LETTER HA" />
 	<glyph unicode="1020" name="lla-myanmar" category="Letter" script="myanmar" production="uni1020" description="MYANMAR LETTER LLA" />
-	<glyph name="ll-myanmar" category="Letter" subCategory="Halfform" script="myanmar" production="uni10201039" description="MYANMAR LETTER LL" />
 	<glyph unicode="1050" name="sha-myanmar" category="Letter" script="myanmar" production="uni1050" description="MYANMAR LETTER SHA" />
 	<glyph unicode="1051" name="ssa-myanmar" category="Letter" script="myanmar" production="uni1051" description="MYANMAR LETTER SSA" />
-	<glyph name="ss-myanmar" category="Letter" subCategory="Halfform" script="myanmar" production="uni10511039" description="MYANMAR LETTER SSA" />
 	<glyph unicode="1021" name="a-myanmar" category="Letter" script="myanmar" production="uni1021" description="MYANMAR LETTER A" />
 	<glyph unicode="1022" name="a-shan" category="Letter" script="myanmar" production="uni1022" description="MYANMAR LETTER SHAN A" />
 	<glyph unicode="1023" name="i-myanmar" category="Letter" script="myanmar" production="uni1023" description="MYANMAR LETTER I" />
@@ -8270,6 +8270,46 @@
 	<glyph unicode="105A" name="nga-mon" category="Letter" script="myanmar" production="uni105A" description="MYANMAR LETTER MON NGA" />
 	<glyph unicode="105B" name="jha-mon" category="Letter" script="myanmar" production="uni105B" description="MYANMAR LETTER MON JHA" />
 	<glyph unicode="105C" name="bba-mon" category="Letter" script="myanmar" production="uni105C" description="MYANMAR LETTER MON BBA" />
+	<glyph name="tt-myanmar" category="Letter" subCategory="Halfform" script="myanmar" production="uni100B1039" description="MYANMAR LETTER TT" />
+	<glyph name="dd-myanmar" category="Letter" subCategory="Halfform" script="myanmar" production="uni100D1039" description="MYANMAR LETTER DD" />
+	<glyph name="nn-myanmar" category="Letter" subCategory="Halfform" script="myanmar" production="uni100F1039" description="MYANMAR LETTER NN" />
+	<glyph name="ll-myanmar" category="Letter" subCategory="Halfform" script="myanmar" production="uni10201039" description="MYANMAR LETTER LL" />
+	<glyph name="ss-myanmar" category="Letter" subCategory="Halfform" script="myanmar" production="uni10511039" description="MYANMAR LETTER SSA" />
+	<glyph name="ka-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1000.below" description="MYANMAR LETTER KA BELOW" />
+	<glyph name="kha-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1001.below" description="MYANMAR LETTER KHA BELOW" />
+	<glyph name="ga-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1002.below" description="MYANMAR LETTER GA BELOW" />
+	<glyph name="gha-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1003.below" description="MYANMAR LETTER GHA BELOW" />
+	<glyph name="nga-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1004.below" description="MYANMAR LETTER NGA BELOW" />
+	<glyph name="ca-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1005.below" description="MYANMAR LETTER CA BELOW" />
+	<glyph name="cha-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1006.below" description="MYANMAR LETTER CHA BELOW" />
+	<glyph name="ja-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1007.below" description="MYANMAR LETTER JA BELOW" />
+	<glyph name="nya-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1009.below" description="MYANMAR LETTER NYA BELOW" />
+	<glyph name="nnya-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni100A.below" description="MYANMAR LETTER NNYA BELOW" />
+	<glyph name="tta-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni100B.below" description="MYANMAR LETTER TTA BELOW" />
+	<glyph name="ttha-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni100C.below" description="MYANMAR LETTER TTHA BELOW" />
+	<glyph name="dda-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni100D.below" description="MYANMAR LETTER DDA BELOW" />
+	<glyph name="ddha-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni100E.below" description="MYANMAR LETTER DDHA BELOW" />
+	<glyph name="nna-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni100F.below" description="MYANMAR LETTER NNA BELOW" />
+	<glyph name="ta-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1010.below" description="MYANMAR LETTER TA BELOW" />
+	<glyph name="tha-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1011.below" description="MYANMAR LETTER THA BELOW" />
+	<glyph name="da-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1012.below" description="MYANMAR LETTER DA BELOW" />
+	<glyph name="dha-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1013.below" description="MYANMAR LETTER DHA BELOW" />
+	<glyph name="na-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1014.below" description="MYANMAR LETTER NA BELOW" />
+	<glyph name="pa-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1015.below" description="MYANMAR LETTER PA BELOW" />
+	<glyph name="pha-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1016.below" description="MYANMAR LETTER PHA BELOW" />
+	<glyph name="ba-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1017.below" description="MYANMAR LETTER BA BELOW" />
+	<glyph name="bha-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1018.below" description="MYANMAR LETTER BHA BELOW" />
+	<glyph name="ma-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1019.below" description="MYANMAR LETTER MA BELOW" />
+	<glyph name="ya-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni101A.below" description="MYANMAR LETTER YA BELOW" />
+	<glyph name="la-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni101C.below" description="MYANMAR LETTER LA BELOW" />
+	<glyph name="sa-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni101E.below" description="MYANMAR LETTER SA BELOW" />
+	<glyph name="ha-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni101F.below" description="MYANMAR LETTER HA BELOW" />
+	<glyph name="lla-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1020.below" description="MYANMAR LETTER LLA BELOW" />
+	<glyph name="sha-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1050.below" description="MYANMAR LETTER SHA BELOW" />
+	<glyph name="ssa-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1051.below" description="MYANMAR LETTER SSA BELOW" />
+	<glyph name="a-myanmar.below" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni1021.below" description="MYANMAR LETTER A BELOW" />
+	<glyph name="nga-mon.below" category="Mark" script="myanmar" production="uni105A.below" description="MYANMAR LETTER MON NGA BELOW" />
+	<glyph name="bba-mon.below" category="Mark" script="myanmar" production="uni105C.below" description="MYANMAR LETTER MON BBA BELOW" />
 	<glyph unicode="105D" name="bbe-mon" category="Letter" script="myanmar" production="uni105D" description="MYANMAR LETTER MON BBE" />
 	<glyph unicode="102B" name="aaTall-myanmar" category="Letter" script="myanmar" production="uni102B" description="MYANMAR VOWEL SIGN TALL AA" />
 	<glyph unicode="102C" name="aaSign-myanmar" category="Letter" script="myanmar" production="uni102C" altNames="aa-myanmar" description="MYANMAR VOWEL SIGN AA" />
@@ -26389,8 +26429,8 @@
 	<glyph unicode="2042" name="asterism" category="Punctuation" production="uni2042" description="ASTERISM" />
 	<glyph unicode="2043" name="hyphenbullet" category="Punctuation" production="uni2043" description="HYPHEN BULLET" />
 	<glyph unicode="2044" name="fraction" category="Number" subCategory="Fraction" description="FRACTION SLASH" />
-	<glyph unicode="2045" name="bracketleftwithquill" category="Punctuation" production="uni2045" description="LEFT SQUARE BRACKET WITH QUILL" />
-	<glyph unicode="2046" name="bracketrightwithquill" category="Punctuation" production="uni2046" description="RIGHT SQUARE BRACKET WITH QUILL" />
+	<glyph unicode="2045" name="bracketleftquill" category="Punctuation" production="uni2045" altNames="bracketleftwithquill" description="LEFT SQUARE BRACKET WITH QUILL" />
+	<glyph unicode="2046" name="bracketrightquill" category="Punctuation" production="uni2046" altNames="bracketrightwithquill" description="RIGHT SQUARE BRACKET WITH QUILL" />
 	<glyph unicode="2047" name="doublequestion" category="Punctuation" production="uni2047" description="DOUBLE QUESTION MARK" />
 	<glyph unicode="2048" name="questionexclamation" category="Punctuation" production="uni2048" description="QUESTION EXCLAMATION MARK" />
 	<glyph unicode="2049" name="exclamationquestion" category="Punctuation" production="uni2049" description="EXCLAMATION QUESTION MARK" />
@@ -26515,8 +26555,8 @@
 	<glyph unicode="20E9" name="widebridgeabovecomb" category="Mark" subCategory="Nonspacing" production="uni20E9" description="COMBINING WIDE BRIDGE ABOVE" />
 	<glyph unicode="20EA" name="leftarrowoverlaycomb" category="Mark" subCategory="Nonspacing" production="uni20EA" description="COMBINING LEFTWARDS ARROW OVERLAY" />
 	<glyph unicode="20EB" name="longdoublesolidusoverlaycomb" category="Mark" subCategory="Nonspacing" production="uni20EB" description="COMBINING LONG DOUBLE SOLIDUS OVERLAY" />
-	<glyph unicode="20EC" name="rightharpoonwithbarbdowncomb" category="Mark" subCategory="Nonspacing" production="uni20EC" description="COMBINING RIGHTWARDS HARPOON WITH BARB DOWNWARDS" />
-	<glyph unicode="20ED" name="leftharpoonwithbarbdowncomb" category="Mark" subCategory="Nonspacing" production="uni20ED" description="COMBINING LEFTWARDS HARPOON WITH BARB DOWNWARDS" />
+	<glyph unicode="20EC" name="rightharpoonbarbdowncomb" category="Mark" subCategory="Nonspacing" production="uni20EC" altNames="rightharpoonwithbarbdowncomb" description="COMBINING RIGHTWARDS HARPOON WITH BARB DOWNWARDS" />
+	<glyph unicode="20ED" name="leftharpoonbarbdowncomb" category="Mark" subCategory="Nonspacing" production="uni20ED" altNames="leftharpoonwithbarbdowncomb" description="COMBINING LEFTWARDS HARPOON WITH BARB DOWNWARDS" />
 	<glyph unicode="20EE" name="leftarrowbelowcomb" category="Mark" subCategory="Nonspacing" production="uni20EE" description="COMBINING LEFT ARROW BELOW" />
 	<glyph unicode="20EF" name="rightarrowbelowcomb" category="Mark" subCategory="Nonspacing" production="uni20EF" description="COMBINING RIGHT ARROW BELOW" />
 	<glyph unicode="20F0" name="asteriskabovecomb" category="Mark" subCategory="Nonspacing" production="uni20F0" description="COMBINING ASTERISK ABOVE" />
@@ -27871,14 +27911,14 @@
 	<glyph unicode="2229" name="intersection" category="Symbol" subCategory="Math" description="INTERSECTION" />
 	<glyph unicode="222A" name="union" category="Symbol" subCategory="Math" description="UNION" />
 	<glyph unicode="222B" name="integral" category="Symbol" subCategory="Math" description="INTEGRAL" />
-	<glyph unicode="222C" name="dblintegral" category="Symbol" subCategory="Math" production="uni222C" description="DOUBLE INTEGRAL" />
-	<glyph unicode="222D" name="tripleintegral" category="Symbol" subCategory="Math" production="uni222D" description="TRIPLE INTEGRAL" />
-	<glyph unicode="222E" name="contourintegral" category="Symbol" subCategory="Math" production="uni222E" description="CONTOUR INTEGRAL" />
-	<glyph unicode="222F" name="surfaceintegral" category="Symbol" subCategory="Math" production="uni222F" description="SURFACE INTEGRAL" />
-	<glyph unicode="2230" name="volumeintegral" category="Symbol" subCategory="Math" production="uni2230" description="VOLUME INTEGRAL" />
-	<glyph unicode="2231" name="clockwiseintegral" category="Symbol" subCategory="Math" production="uni2231" description="CLOCKWISE INTEGRAL" />
-	<glyph unicode="2232" name="clockwisecontourintegral" category="Symbol" subCategory="Math" production="uni2232" description="CLOCKWISE CONTOUR INTEGRAL" />
-	<glyph unicode="2233" name="anticlockwisecontourintegral" category="Symbol" subCategory="Math" production="uni2233" description="ANTICLOCKWISE CONTOUR INTEGRAL" />
+	<glyph unicode="222C" name="dblIntegral" category="Symbol" subCategory="Math" production="uni222C" altNames="dblintegral" description="DOUBLE INTEGRAL" />
+	<glyph unicode="222D" name="tripleIntegral" category="Symbol" subCategory="Math" production="uni222D" altNames="tripleintegral" description="TRIPLE INTEGRAL" />
+	<glyph unicode="222E" name="contourIntegral" category="Symbol" subCategory="Math" production="uni222E" altNames="contourintegral" description="CONTOUR INTEGRAL" />
+	<glyph unicode="222F" name="surfaceIntegral" category="Symbol" subCategory="Math" production="uni222F" altNames="surfaceintegral" description="SURFACE INTEGRAL" />
+	<glyph unicode="2230" name="volumeIntegral" category="Symbol" subCategory="Math" production="uni2230" altNames="volumeintegral" description="VOLUME INTEGRAL" />
+	<glyph unicode="2231" name="clockwiseIntegral" category="Symbol" subCategory="Math" production="uni2231" altNames="clockwiseintegral" description="CLOCKWISE INTEGRAL" />
+	<glyph unicode="2232" name="clockwiseContourIntegral" category="Symbol" subCategory="Math" production="uni2232" altNames="clockwisecontourintegral" description="CLOCKWISE CONTOUR INTEGRAL" />
+	<glyph unicode="2233" name="anticlockwiseContourIntegral" category="Symbol" subCategory="Math" production="uni2233" altNames="anticlockwisecontourintegral" description="ANTICLOCKWISE CONTOUR INTEGRAL" />
 	<glyph unicode="2234" name="therefore" category="Symbol" subCategory="Math" description="THEREFORE" />
 	<glyph unicode="2235" name="because" category="Symbol" subCategory="Math" production="uni2235" description="BECAUSE" />
 	<glyph unicode="2236" name="ratio" category="Symbol" subCategory="Math" production="uni2236" description="RATIO" />
@@ -28111,7 +28151,7 @@
 	<glyph unicode="231A" name="watch" category="Symbol" production="uni231A" description="WATCH" />
 	<glyph unicode="231B" name="hourglass" category="Symbol" production="uni231B" description="HOURGLASS" />
 	<glyph unicode="231C" name="topLeftCorner" category="Symbol" production="uni231C" description="TOP LEFT CORNER" />
-	<glyph unicode="231D" name="topRightcorner" category="Symbol" production="uni231D" description="TOP RIGHT CORNER" />
+	<glyph unicode="231D" name="topRightCorner" category="Symbol" production="uni231D" altNames="topRightcorner" description="TOP RIGHT CORNER" />
 	<glyph unicode="231E" name="bottomLeftCorner" category="Symbol" production="uni231E" description="BOTTOM LEFT CORNER" />
 	<glyph unicode="231F" name="bottomRightCorner" category="Symbol" production="uni231F" description="BOTTOM RIGHT CORNER" />
 	<glyph unicode="2320" name="integraltp" category="Symbol" subCategory="Math" altNames="integraltop" description="TOP HALF INTEGRAL" />
@@ -29695,7 +29735,7 @@
 	<glyph unicode="29A8" name="measuredAngleWithOpenArmEndingInArrowPointingUpAndRight" category="Symbol" subCategory="Math" production="uni29A8" description="MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND RIGHT" />
 	<glyph unicode="29A9" name="measuredAngleWithOpenArmEndingInArrowPointingUpAndLeft" category="Symbol" subCategory="Math" production="uni29A9" description="MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND LEFT" />
 	<glyph unicode="29AA" name="measuredAngleWithOpenArmEndingInArrowPointingDownAndRight" category="Symbol" subCategory="Math" production="uni29AA" description="MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND RIGHT" />
-	<glyph unicode="29AB" name="measuredAngleWithOpenArmEndingInArrowPointingDownAndLeft" category="Symbol" subCategory="Math" production="uni29AB" description="MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND LEFT" />
+	<glyph unicode="29AB" name="measuredAngleOpenArmArrowPointingDownAndLeft" category="Symbol" subCategory="Math" production="uni29AB" altNames="measuredAngleWithOpenArmEndingInArrowPointingDownAndLeft" description="MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND LEFT" />
 	<glyph unicode="29AC" name="measuredAngleWithOpenArmEndingInArrowPointingRightAndUp" category="Symbol" subCategory="Math" production="uni29AC" description="MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND UP" />
 	<glyph unicode="29AD" name="measuredAngleWithOpenArmEndingInArrowPointingLeftAndUp" category="Symbol" subCategory="Math" production="uni29AD" description="MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND UP" />
 	<glyph unicode="29AE" name="measuredAngleWithOpenArmEndingInArrowPointingRightAndDown" category="Symbol" subCategory="Math" production="uni29AE" description="MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND DOWN" />
@@ -29792,20 +29832,20 @@
 	<glyph unicode="2A09" name="nAryTimesOperator" category="Symbol" subCategory="Math" production="uni2A09" description="N-ARY TIMES OPERATOR" />
 	<glyph unicode="2A0A" name="moduloTwoSum" category="Symbol" subCategory="Math" production="uni2A0A" description="MODULO TWO SUM" />
 	<glyph unicode="2A0B" name="summationWithIntegral" category="Symbol" subCategory="Math" production="uni2A0B" description="SUMMATION WITH INTEGRAL" />
-	<glyph unicode="2A0C" name="quadrupleIntegralOperator" category="Symbol" subCategory="Math" production="uni2A0C" description="QUADRUPLE INTEGRAL OPERATOR" />
+	<glyph unicode="2A0C" name="quadrupleIntegral" category="Symbol" subCategory="Math" production="uni2A0C" altNames="quadrupleIntegralOperator" description="QUADRUPLE INTEGRAL OPERATOR" />
 	<glyph unicode="2A0D" name="finitePartIntegral" category="Symbol" subCategory="Math" production="uni2A0D" description="FINITE PART INTEGRAL" />
-	<glyph unicode="2A0E" name="integralWithDoubleStroke" category="Symbol" subCategory="Math" production="uni2A0E" description="INTEGRAL WITH DOUBLE STROKE" />
-	<glyph unicode="2A0F" name="integralAverageWithSlash" category="Symbol" subCategory="Math" production="uni2A0F" description="INTEGRAL AVERAGE WITH SLASH" />
+	<glyph unicode="2A0E" name="doubleStrokeIntegral" category="Symbol" subCategory="Math" production="uni2A0E" altNames="integralWithDoubleStroke" description="INTEGRAL WITH DOUBLE STROKE" />
+	<glyph unicode="2A0F" name="averageSlashIntegral" category="Symbol" subCategory="Math" production="uni2A0F" altNames="integralAverageWithSlash" description="INTEGRAL AVERAGE WITH SLASH" />
 	<glyph unicode="2A10" name="circulationFunction" category="Symbol" subCategory="Math" production="uni2A10" description="CIRCULATION FUNCTION" />
-	<glyph unicode="2A11" name="anticlockwiseIntegration" category="Symbol" subCategory="Math" production="uni2A11" description="ANTICLOCKWISE INTEGRATION" />
-	<glyph unicode="2A12" name="lineIntegrationWithRectangularPathAroundPole" category="Symbol" subCategory="Math" production="uni2A12" description="LINE INTEGRATION WITH RECTANGULAR PATH AROUND POLE" />
-	<glyph unicode="2A13" name="lineIntegrationWithSemicircularPathAroundPole" category="Symbol" subCategory="Math" production="uni2A13" description="LINE INTEGRATION WITH SEMICIRCULAR PATH AROUND POLE" />
-	<glyph unicode="2A14" name="lineIntegrationNotIncludingThePole" category="Symbol" subCategory="Math" production="uni2A14" description="LINE INTEGRATION NOT INCLUDING THE POLE" />
-	<glyph unicode="2A15" name="integralAroundAPointOperator" category="Symbol" subCategory="Math" production="uni2A15" description="INTEGRAL AROUND A POINT OPERATOR" />
-	<glyph unicode="2A16" name="quaternionIntegralOperator" category="Symbol" subCategory="Math" production="uni2A16" description="QUATERNION INTEGRAL OPERATOR" />
-	<glyph unicode="2A17" name="integralWithLeftArrowWithHook" category="Symbol" subCategory="Math" production="uni2A17" description="INTEGRAL WITH LEFTWARDS ARROW WITH HOOK" />
-	<glyph unicode="2A18" name="integralWithTimesSign" category="Symbol" subCategory="Math" production="uni2A18" description="INTEGRAL WITH TIMES SIGN" />
-	<glyph unicode="2A19" name="integralWithIntersection" category="Symbol" subCategory="Math" production="uni2A19" description="INTEGRAL WITH INTERSECTION" />
+	<glyph unicode="2A11" name="anticlockwiseIntegral" category="Symbol" subCategory="Math" production="uni2A11" altNames="anticlockwiseIntegration" description="ANTICLOCKWISE INTEGRATION" />
+	<glyph unicode="2A12" name="rectangularLineIntegral" category="Symbol" subCategory="Math" production="uni2A12" altNames="lineIntegrationWithRectangularPathAroundPole" description="LINE INTEGRATION WITH RECTANGULAR PATH AROUND POLE" />
+	<glyph unicode="2A13" name="semicircularLineIntegral" category="Symbol" subCategory="Math" production="uni2A13" altNames="lineIntegrationWithSemicircularPathAroundPole" description="LINE INTEGRATION WITH SEMICIRCULAR PATH AROUND POLE" />
+	<glyph unicode="2A14" name="nopoleLineIntegral" category="Symbol" subCategory="Math" production="uni2A14" altNames="lineIntegrationNotIncludingThePole" description="LINE INTEGRATION NOT INCLUDING THE POLE" />
+	<glyph unicode="2A15" name="pointIntegral" category="Symbol" subCategory="Math" production="uni2A15" altNames="integralAroundAPointOperator" description="INTEGRAL AROUND A POINT OPERATOR" />
+	<glyph unicode="2A16" name="quaternionIntegral" category="Symbol" subCategory="Math" production="uni2A16" altNames="quaternionIntegralOperator" description="QUATERNION INTEGRAL OPERATOR" />
+	<glyph unicode="2A17" name="leftarrowHookIntegral" category="Symbol" subCategory="Math" production="uni2A17" altNames="integralWithLeftArrowWithHook" description="INTEGRAL WITH LEFTWARDS ARROW WITH HOOK" />
+	<glyph unicode="2A18" name="timesIntegral" category="Symbol" subCategory="Math" production="uni2A18" altNames="integralWithTimesSign" description="INTEGRAL WITH TIMES SIGN" />
+	<glyph unicode="2A19" name="intersectionIntegral" category="Symbol" subCategory="Math" production="uni2A19" altNames="integralWithIntersection" description="INTEGRAL WITH INTERSECTION" />
 	<glyph unicode="2A1A" name="integralWithUnion" category="Symbol" subCategory="Math" production="uni2A1A" description="INTEGRAL WITH UNION" />
 	<glyph unicode="2A1B" name="integralWithOverbar" category="Symbol" subCategory="Math" production="uni2A1B" description="INTEGRAL WITH OVERBAR" />
 	<glyph unicode="2A1C" name="integralWithUnderbar" category="Symbol" subCategory="Math" production="uni2A1C" description="INTEGRAL WITH UNDERBAR" />
@@ -29952,7 +29992,7 @@
 	<glyph unicode="2AA9" name="greaterThanClosedByCurveAboveSlantedEqual" category="Symbol" subCategory="Math" production="uni2AA9" description="GREATER-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL" />
 	<glyph unicode="2AAA" name="erthan" category="Symbol" subCategory="Math" production="uni2AAA" description="SMALLER THAN" />
 	<glyph unicode="2AAB" name="largerThan" category="Symbol" subCategory="Math" production="uni2AAB" description="LARGER THAN" />
-	<glyph unicode="2AAC" name="erthanorequalto" category="Symbol" subCategory="Math" production="uni2AAC" description="SMALLER THAN OR EQUAL TO" />
+	<glyph unicode="2AAC" name="smallerthanorequalto" category="Symbol" subCategory="Math" production="uni2AAC" altNames="erthanorequalto" description="SMALLER THAN OR EQUAL TO" />
 	<glyph unicode="2AAD" name="largerThanOrEqualTo" category="Symbol" subCategory="Math" production="uni2AAD" description="LARGER THAN OR EQUAL TO" />
 	<glyph unicode="2AAE" name="equalsSignWithBumpyAbove" category="Symbol" subCategory="Math" production="uni2AAE" description="EQUALS SIGN WITH BUMPY ABOVE" />
 	<glyph unicode="2AAF" name="precedesAboveSingleLineEqualsSign" category="Symbol" subCategory="Math" production="uni2AAF" description="PRECEDES ABOVE SINGLE-LINE EQUALS SIGN" />
@@ -30061,7 +30101,7 @@
 	<glyph unicode="2B2D" name="whiteHorizontalEllipse" category="Symbol" production="uni2B2D" description="WHITE HORIZONTAL ELLIPSE" />
 	<glyph unicode="2B2E" name="blackVerticalEllipse" category="Symbol" production="uni2B2E" description="BLACK VERTICAL ELLIPSE" />
 	<glyph unicode="2B2F" name="whiteVerticalEllipse" category="Symbol" production="uni2B2F" description="WHITE VERTICAL ELLIPSE" />
-	<glyph unicode="2B30" name="leftarrowwithcircle" category="Symbol" subCategory="Math" production="uni2B30" description="LEFT ARROW WITH SMALL CIRCLE" />
+	<glyph unicode="2B30" name="leftarrowcircle" category="Symbol" subCategory="Math" production="uni2B30" altNames="leftarrowwithcircle" description="LEFT ARROW WITH SMALL CIRCLE" />
 	<glyph unicode="2B31" name="threeLeftArrows" category="Symbol" subCategory="Math" production="uni2B31" description="THREE LEFTWARDS ARROWS" />
 	<glyph unicode="2B32" name="leftArrowWithCircledPlus" category="Symbol" subCategory="Math" production="uni2B32" description="LEFT ARROW WITH CIRCLED PLUS" />
 	<glyph unicode="2B33" name="longLeftSquiggleArrow" category="Symbol" subCategory="Math" production="uni2B33" description="LONG LEFTWARDS SQUIGGLE ARROW" />
@@ -30244,8 +30284,8 @@
 	<glyph unicode="2E1D" name="rightlowparaphrasebracket" category="Punctuation" production="uni2E1D" description="RIGHT LOW PARAPHRASE BRACKET" />
 	<glyph unicode="2E1E" name="tildedotabove" category="Punctuation" production="uni2E1E" description="TILDE WITH DOT ABOVE" />
 	<glyph unicode="2E1F" name="tildedotbelow" category="Punctuation" production="uni2E1F" description="TILDE WITH DOT BELOW" />
-	<glyph unicode="2E20" name="leftverticalbarwithquill" category="Punctuation" production="uni2E20" description="LEFT VERTICAL BAR WITH QUILL" />
-	<glyph unicode="2E21" name="rightverticalbarwithquill" category="Punctuation" production="uni2E21" description="RIGHT VERTICAL BAR WITH QUILL" />
+	<glyph unicode="2E20" name="leftverticalbarquill" category="Punctuation" production="uni2E20" altNames="leftverticalbarwithquill" description="LEFT VERTICAL BAR WITH QUILL" />
+	<glyph unicode="2E21" name="rightverticalbarquill" category="Punctuation" production="uni2E21" altNames="rightverticalbarwithquill" description="RIGHT VERTICAL BAR WITH QUILL" />
 	<glyph unicode="2E22" name="topleftHalfBracket" category="Punctuation" subCategory="Parenthesis" production="uni2E22" description="TOP LEFT HALF BRACKET" />
 	<glyph unicode="2E23" name="toprightHalfBracket" category="Punctuation" subCategory="Parenthesis" production="uni2E23" description="TOP RIGHT HALF BRACKET" />
 	<glyph unicode="2E24" name="bottomleftHalfBracket" category="Punctuation" subCategory="Parenthesis" production="uni2E24" description="BOTTOM LEFT HALF BRACKET" />
@@ -30266,8 +30306,8 @@
 	<glyph unicode="2E33" name="raiseddot" category="Punctuation" production="uni2E33" description="RAISED DOT" />
 	<glyph unicode="2E34" name="raisedcomma" category="Punctuation" production="uni2E34" description="RAISED COMMA" />
 	<glyph unicode="2E35" name="turnedsemicolon" category="Punctuation" production="uni2E35" description="TURNED SEMICOLON" />
-	<glyph unicode="2E36" name="daggerwithleftguard" category="Punctuation" production="uni2E36" description="DAGGER WITH LEFT GUARD" />
-	<glyph unicode="2E37" name="daggerwithrightguard" category="Punctuation" production="uni2E37" description="DAGGER WITH RIGHT GUARD" />
+	<glyph unicode="2E36" name="daggerleftguard" category="Punctuation" production="uni2E36" altNames="daggerwithleftguard" description="DAGGER WITH LEFT GUARD" />
+	<glyph unicode="2E37" name="daggerrightguard" category="Punctuation" production="uni2E37" altNames="daggerwithrightguard" description="DAGGER WITH RIGHT GUARD" />
 	<glyph unicode="2E38" name="turneddagger" category="Punctuation" production="uni2E38" description="TURNED DAGGER" />
 	<glyph unicode="2E39" name="tophalfsectionsign" category="Punctuation" production="uni2E39" description="TOP HALF SECTION SIGN" />
 	<glyph unicode="2E3A" name="twoemdash" category="Punctuation" subCategory="Dash" production="uni2E3A" description="TWO-EM DASH" />
@@ -30902,7 +30942,7 @@
 	<glyph unicode="1F321" name="thermometer" category="Symbol" subCategory="Emoji" production="u1F321" description="THERMOMETER" />
 	<glyph unicode="1F322" name="blackDroplet" category="Symbol" subCategory="Emoji" production="u1F322" description="BLACK DROPLET" />
 	<glyph unicode="1F323" name="whiteSun" category="Symbol" subCategory="Emoji" production="u1F323" description="WHITE SUN" />
-	<glyph unicode="1F324" name="whitesunwithcloud" category="Symbol" subCategory="Emoji" production="u1F324" description="WHITE SUN WITH SMALL CLOUD" />
+	<glyph unicode="1F324" name="whitesuncloud" category="Symbol" subCategory="Emoji" production="u1F324" altNames="whitesunwithcloud" description="WHITE SUN WITH SMALL CLOUD" />
 	<glyph unicode="1F325" name="whiteSunBehindCloud" category="Symbol" subCategory="Emoji" production="u1F325" description="WHITE SUN BEHIND CLOUD" />
 	<glyph unicode="1F326" name="whiteSunBehindCloudRain" category="Symbol" subCategory="Emoji" production="u1F326" description="WHITE SUN BEHIND CLOUD WITH RAIN" />
 	<glyph unicode="1F327" name="cloudRain" category="Symbol" subCategory="Emoji" production="u1F327" description="CLOUD WITH RAIN" />
@@ -32732,7 +32772,7 @@
 	<glyph unicode="1F927" name="sneezingFace" category="Symbol" subCategory="Emoji" production="u1F927" description="SNEEZING FACE" />
 	<glyph unicode="1F928" name="faceWithOneEyebrowRaised" category="Symbol" subCategory="Emoji" production="u1F928" description="FACE WITH ONE EYEBROW RAISED" />
 	<glyph unicode="1F929" name="grinningFaceWithStarEyes" category="Symbol" subCategory="Emoji" production="u1F929" description="GRINNING FACE WITH STAR EYES" />
-	<glyph unicode="1F92A" name="grinningfacewithonelargeandoneeye" category="Symbol" subCategory="Emoji" production="u1F92A" description="GRINNING FACE WITH ONE LARGE AND ONE SMALL EYE" />
+	<glyph unicode="1F92A" name="grinningfaceonelargeandoneeye" category="Symbol" subCategory="Emoji" production="u1F92A" altNames="grinningfacewithonelargeandoneeye" description="GRINNING FACE WITH ONE LARGE AND ONE SMALL EYE" />
 	<glyph unicode="1F92B" name="faceWithFingerCoveringClosedLips" category="Symbol" subCategory="Emoji" production="u1F92B" description="FACE WITH FINGER COVERING CLOSED LIPS" />
 	<glyph unicode="1F92C" name="seriousFaceWithSymbolsCoveringMouth" category="Symbol" subCategory="Emoji" production="u1F92C" description="SERIOUS FACE WITH SYMBOLS COVERING MOUTH" />
 	<glyph unicode="1F92D" name="smilingFaceWithSmilingEyesAndHandCoveringMouth" category="Symbol" subCategory="Emoji" production="u1F92D" description="SMILING FACE WITH SMILING EYES AND HAND COVERING MOUTH" />
