@@ -127,7 +127,7 @@
 	<glyph unicode="00A9" name="copyright" category="Symbol" description="COPYRIGHT SIGN" />
 	<glyph unicode="2117" name="published" category="Symbol" production="uni2117" description="SOUND RECORDING COPYRIGHT" />
 	<glyph unicode="00AE" name="registered" category="Symbol" description="REGISTERED SIGN" />
-	<glyph unicode="00AA" name="ordfeminine" category="Letter" subCategory="Superscript" script="latin" description="FEMININE ORDINAL INDICATOR" />
+	<glyph unicode="00AA" name="ordfeminine" category="Letter" subCategory="Superscript" case="minor" script="latin" description="FEMININE ORDINAL INDICATOR" />
 	<glyph unicode="00AB" name="guillemetleft" category="Punctuation" subCategory="Quote" production="guillemotleft" description="LEFT-POINTING DOUBLE ANGLE QUOTATION MARK" />
 	<glyph unicode="00AC" name="logicalnot" category="Symbol" subCategory="Math" description="NOT SIGN" />
 	<glyph unicode="00AD" name="softhyphen" category="Punctuation" subCategory="Dash" production="uni00AD" altNames="sfthyphen" description="SOFT HYPHEN" />
@@ -137,7 +137,7 @@
 	<glyph unicode="00B5" name="micro" category="Symbol" subCategory="Math" production="uni00B5" altNames="mu1" description="MICRO SIGN" />
 	<glyph unicode="00B6" name="paragraph" category="Symbol" description="PILCROW SIGN" />
 	<glyph unicode="00B7" name="periodcentered" category="Punctuation" altNames="middot" description="MIDDLE DOT" />
-	<glyph unicode="00BA" name="ordmasculine" category="Letter" subCategory="Superscript" script="latin" description="MASCULINE ORDINAL INDICATOR" />
+	<glyph unicode="00BA" name="ordmasculine" category="Letter" subCategory="Superscript" case="minor" script="latin" description="MASCULINE ORDINAL INDICATOR" />
 	<glyph unicode="00BB" name="guillemetright" category="Punctuation" subCategory="Quote" production="guillemotright" description="RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK" />
 	<glyph unicode="2080" name="zeroinferior" category="Number" subCategory="Small" case="minor" production="uni2080" description="SUBSCRIPT ZERO" />
 	<glyph unicode="2081" name="oneinferior" category="Number" subCategory="Small" case="minor" production="uni2081" description="SUBSCRIPT ONE" />
@@ -474,6 +474,13 @@
 	<glyph unicode="015D" name="scircumflex" category="Letter" case="lower" script="latin" description="LATIN SMALL LETTER S WITH CIRCUMFLEX" />
 	<glyph unicode="015E" name="Scedilla" category="Letter" case="upper" script="latin" description="LATIN CAPITAL LETTER S WITH CEDILLA" />
 	<glyph unicode="015F" name="scedilla" category="Letter" case="lower" script="latin" description="LATIN SMALL LETTER S WITH CEDILLA" />
+	<glyph unicode="1DF1E" name="scurl" category="Letter" case="lower" script="latin" production="u1DF1E" description="LATIN SMALL LETTER S WITH CURL" />
+	<glyph unicode="1DF25" name="dleftmidhook" category="Letter" case="lower" script="latin" production="u1DF25" description="LATIN SMALL LETTER D WITH MID-HEIGHT LEFT HOOK" />
+	<glyph unicode="1DF26" name="lleftmidhook" category="Letter" case="lower" script="latin" production="u1DF26" description="LATIN SMALL LETTER L WITH MID-HEIGHT LEFT HOOK" />
+	<glyph unicode="1DF27" name="nleftmidhook" category="Letter" case="lower" script="latin" production="u1DF27" description="LATIN SMALL LETTER N WITH MID-HEIGHT LEFT HOOK" />
+	<glyph unicode="1DF28" name="rleftmidhook" category="Letter" case="lower" script="latin" production="u1DF28" description="LATIN SMALL LETTER R WITH MID-HEIGHT LEFT HOOK" />
+	<glyph unicode="1DF29" name="sleftmidhook" category="Letter" case="lower" script="latin" production="u1DF29" description="LATIN SMALL LETTER S WITH MID-HEIGHT LEFT HOOK" />
+	<glyph unicode="1DF2A" name="tleftmidhook" category="Letter" case="lower" script="latin" production="u1DF2A" description="LATIN SMALL LETTER T WITH MID-HEIGHT LEFT HOOK" />
 	<glyph unicode="0160" name="Scaron" category="Letter" case="upper" script="latin" description="LATIN CAPITAL LETTER S WITH CARON" />
 	<glyph unicode="0161" name="scaron" category="Letter" case="lower" script="latin" description="LATIN SMALL LETTER S WITH CARON" />
 	<glyph unicode="0162" name="Tcedilla" category="Letter" case="upper" script="latin" production="uni0162" description="LATIN CAPITAL LETTER T WITH CEDILLA" />
@@ -1580,8 +1587,8 @@
 	<glyph unicode="040E" name="Ushort-cy" category="Letter" case="upper" script="cyrillic" production="uni040E" altNames="Ushortcyrillic, afii10062" description="CYRILLIC CAPITAL LETTER SHORT U" />
 	<glyph unicode="0424" name="Ef-cy" category="Letter" case="upper" script="cyrillic" production="uni0424" altNames="Efcyrillic, afii10038" description="CYRILLIC CAPITAL LETTER EF" />
 	<glyph unicode="0425" name="Ha-cy" category="Letter" case="upper" script="cyrillic" production="uni0425" altNames="Khacyrillic, afii10039" description="CYRILLIC CAPITAL LETTER HA" />
-	<glyph unicode="0427" name="Che-cy" category="Letter" case="upper" script="cyrillic" production="uni0427" altNames="Checyrillic, afii10041" description="CYRILLIC CAPITAL LETTER CHE" />
 	<glyph unicode="0426" name="Tse-cy" category="Letter" case="upper" script="cyrillic" production="uni0426" altNames="Tsecyrillic, afii10040" description="CYRILLIC CAPITAL LETTER TSE" />
+	<glyph unicode="0427" name="Che-cy" category="Letter" case="upper" script="cyrillic" production="uni0427" altNames="Checyrillic, afii10041" description="CYRILLIC CAPITAL LETTER CHE" />
 	<glyph unicode="0428" name="Sha-cy" category="Letter" case="upper" script="cyrillic" production="uni0428" altNames="Shacyrillic, afii10042" description="CYRILLIC CAPITAL LETTER SHA" />
 	<glyph unicode="0429" name="Shcha-cy" category="Letter" case="upper" script="cyrillic" production="uni0429" altNames="Shchacyrillic, afii10043" description="CYRILLIC CAPITAL LETTER SHCHA" />
 	<glyph unicode="040F" name="Dzhe-cy" category="Letter" case="upper" script="cyrillic" production="uni040F" altNames="Dzhecyrillic, afii10145" description="CYRILLIC CAPITAL LETTER DZHE" />
@@ -1633,8 +1640,8 @@
 	<glyph unicode="045E" name="ushort-cy" category="Letter" case="lower" script="cyrillic" production="uni045E" altNames="afii10110, ushortcyrillic" description="CYRILLIC SMALL LETTER SHORT U" />
 	<glyph unicode="0444" name="ef-cy" category="Letter" case="lower" script="cyrillic" production="uni0444" altNames="afii10086, efcyrillic" description="CYRILLIC SMALL LETTER EF" />
 	<glyph unicode="0445" name="ha-cy" category="Letter" case="lower" script="cyrillic" production="uni0445" altNames="afii10087, khacyrillic" description="CYRILLIC SMALL LETTER HA" />
-	<glyph unicode="0447" name="che-cy" category="Letter" case="lower" script="cyrillic" production="uni0447" altNames="afii10089, checyrillic" description="CYRILLIC SMALL LETTER CHE" />
 	<glyph unicode="0446" name="tse-cy" category="Letter" case="lower" script="cyrillic" production="uni0446" altNames="afii10088, tsecyrillic" description="CYRILLIC SMALL LETTER TSE" />
+	<glyph unicode="0447" name="che-cy" category="Letter" case="lower" script="cyrillic" production="uni0447" altNames="afii10089, checyrillic" description="CYRILLIC SMALL LETTER CHE" />
 	<glyph unicode="0448" name="sha-cy" category="Letter" case="lower" script="cyrillic" production="uni0448" altNames="afii10090, shacyrillic" description="CYRILLIC SMALL LETTER SHA" />
 	<glyph unicode="0449" name="shcha-cy" category="Letter" case="lower" script="cyrillic" production="uni0449" altNames="afii10091, shchacyrillic" description="CYRILLIC SMALL LETTER SHCHA" />
 	<glyph unicode="045F" name="dzhe-cy" category="Letter" case="lower" script="cyrillic" production="uni045F" altNames="afii10193, dzhecyrillic" description="CYRILLIC SMALL LETTER DZHE" />
@@ -1831,6 +1838,12 @@
 	<glyph unicode="0521" name="elmiddlehook-cy" category="Letter" case="lower" script="cyrillic" production="uni0521" description="CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK" />
 	<glyph unicode="0522" name="Enmiddlehook-cy" category="Letter" case="upper" script="cyrillic" production="uni0522" description="CYRILLIC CAPITAL LETTER EN WITH MIDDLE HOOK" />
 	<glyph unicode="0523" name="enmiddlehook-cy" category="Letter" case="lower" script="cyrillic" production="uni0523" description="CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK" />
+	<glyph unicode="047A" name="Omegaround-cy" category="Letter" case="upper" script="cyrillic" production="uni047A" description="CYRILLIC CAPITAL LETTER ROUND OMEGA" />
+	<glyph unicode="047B" name="omegaround-cy" category="Letter" case="lower" script="cyrillic" production="uni047B" description="CYRILLIC SMALL LETTER ROUND OMEGA" />
+	<glyph unicode="047C" name="Omegatitlo-cy" category="Letter" case="upper" script="cyrillic" production="uni047C" description="CYRILLIC CAPITAL LETTER OMEGA WITH TITLO" />
+	<glyph unicode="047D" name="omegatitlo-cy" category="Letter" case="lower" script="cyrillic" production="uni047D" description="CYRILLIC SMALL LETTER OMEGA WITH TITLO" />
+	<glyph unicode="047E" name="Ot-cy" category="Letter" case="upper" script="cyrillic" production="uni047E" description="CYRILLIC CAPITAL LETTER OT" />
+	<glyph unicode="047F" name="ot-cy" category="Letter" case="lower" script="cyrillic" production="uni047F" description="CYRILLIC SMALL LETTER OT" />
 	<glyph unicode="0480" name="Koppa-cy" category="Letter" case="upper" script="cyrillic" production="uni0480" altNames="Koppacyrillic" description="CYRILLIC CAPITAL LETTER KOPPA" />
 	<glyph unicode="0481" name="koppa-cy" category="Letter" case="lower" script="cyrillic" production="uni0481" altNames="koppacyrillic" description="CYRILLIC SMALL LETTER KOPPA" />
 	<glyph unicode="0482" name="thousand-cy" category="Symbol" script="cyrillic" production="uni0482" altNames="thousandcyrillic" description="CYRILLIC THOUSANDS SIGN" />
@@ -1853,8 +1866,8 @@
 	<glyph unicode="A641" name="zemlya-cy" category="Letter" case="lower" script="cyrillic" production="uniA641" description="CYRILLIC SMALL LETTER ZEMLYA" />
 	<glyph unicode="A642" name="Dzelo-cy" category="Letter" case="upper" script="cyrillic" production="uniA642" description="CYRILLIC CAPITAL LETTER DZELO" />
 	<glyph unicode="A643" name="dzelo-cy" category="Letter" case="lower" script="cyrillic" production="uniA643" description="CYRILLIC SMALL LETTER DZELO" />
-	<glyph unicode="A644" name="DzeReversed-cy" category="Letter" case="upper" script="cyrillic" production="uniA644" description="CYRILLIC CAPITAL LETTER REVERSED DZE" />
-	<glyph unicode="A645" name="dzeReversed-cy" category="Letter" case="lower" script="cyrillic" production="uniA645" description="CYRILLIC SMALL LETTER REVERSED DZE" />
+	<glyph unicode="A644" name="Dzereversed-cy" category="Letter" case="upper" script="cyrillic" production="uniA644" altNames="DzeReversed-cy" description="CYRILLIC CAPITAL LETTER REVERSED DZE" />
+	<glyph unicode="A645" name="dzereversed-cy" category="Letter" case="lower" script="cyrillic" production="uniA645" altNames="dzeReversed-cy" description="CYRILLIC SMALL LETTER REVERSED DZE" />
 	<glyph unicode="A646" name="Iota-cy" category="Letter" case="upper" script="cyrillic" production="uniA646" description="CYRILLIC CAPITAL LETTER IOTA" />
 	<glyph unicode="A647" name="iota-cy" category="Letter" case="lower" script="cyrillic" production="uniA647" description="CYRILLIC SMALL LETTER IOTA" />
 	<glyph unicode="A648" name="Djerv-cy" category="Letter" case="upper" script="cyrillic" production="uniA648" description="CYRILLIC CAPITAL LETTER DJERV" />
@@ -1869,8 +1882,8 @@
 	<glyph unicode="A651" name="yeruBackyer-cy" category="Letter" case="lower" script="cyrillic" production="uniA651" description="CYRILLIC SMALL LETTER YERU WITH BACK YER" />
 	<glyph unicode="A652" name="YatIotified-cy" category="Letter" case="upper" script="cyrillic" production="uniA652" description="CYRILLIC CAPITAL LETTER IOTIFIED YAT" />
 	<glyph unicode="A653" name="yatIotified-cy" category="Letter" case="lower" script="cyrillic" production="uniA653" description="CYRILLIC SMALL LETTER IOTIFIED YAT" />
-	<glyph unicode="A654" name="YuReversed-cy" category="Letter" case="upper" script="cyrillic" production="uniA654" description="CYRILLIC CAPITAL LETTER REVERSED YU" />
-	<glyph unicode="A655" name="yuReversed-cy" category="Letter" case="lower" script="cyrillic" production="uniA655" description="CYRILLIC SMALL LETTER REVERSED YU" />
+	<glyph unicode="A654" name="Yureversed-cy" category="Letter" case="upper" script="cyrillic" production="uniA654" altNames="YuReversed-cy" description="CYRILLIC CAPITAL LETTER REVERSED YU" />
+	<glyph unicode="A655" name="yureversed-cy" category="Letter" case="lower" script="cyrillic" production="uniA655" altNames="yuReversed-cy" description="CYRILLIC SMALL LETTER REVERSED YU" />
 	<glyph unicode="A656" name="IotifiedA-cy" category="Letter" case="upper" script="cyrillic" production="uniA656" description="CYRILLIC CAPITAL LETTER IOTIFIED A" />
 	<glyph unicode="A657" name="iotifieda-cy" category="Letter" case="lower" script="cyrillic" production="uniA657" description="CYRILLIC SMALL LETTER IOTIFIED A" />
 	<glyph unicode="A658" name="YusClosedlittle-cy" category="Letter" case="upper" script="cyrillic" production="uniA658" description="CYRILLIC CAPITAL LETTER CLOSED LITTLE YUS" />
@@ -1881,20 +1894,20 @@
 	<glyph unicode="A65D" name="yusiotifiedClosedLittle-cy" category="Letter" case="lower" script="cyrillic" production="uniA65D" description="CYRILLIC SMALL LETTER IOTIFIED CLOSED LITTLE YUS" />
 	<glyph unicode="A65E" name="Yn-cy" category="Letter" case="upper" script="cyrillic" production="uniA65E" description="CYRILLIC CAPITAL LETTER YN" />
 	<glyph unicode="A65F" name="yn-cy" category="Letter" case="lower" script="cyrillic" production="uniA65F" description="CYRILLIC SMALL LETTER YN" />
-	<glyph unicode="A660" name="TseReversed-cy" category="Letter" case="upper" script="cyrillic" production="uniA660" description="CYRILLIC CAPITAL LETTER REVERSED TSE" />
-	<glyph unicode="A661" name="tseReversed-cy" category="Letter" case="lower" script="cyrillic" production="uniA661" description="CYRILLIC SMALL LETTER REVERSED TSE" />
+	<glyph unicode="A660" name="Tsereversed-cy" category="Letter" case="upper" script="cyrillic" production="uniA660" altNames="TseReversed-cy" description="CYRILLIC CAPITAL LETTER REVERSED TSE" />
+	<glyph unicode="A661" name="tsereversed-cy" category="Letter" case="lower" script="cyrillic" production="uniA661" altNames="tseReversed-cy" description="CYRILLIC SMALL LETTER REVERSED TSE" />
 	<glyph unicode="A662" name="DeSoft-cy" category="Letter" case="upper" script="cyrillic" production="uniA662" description="CYRILLIC CAPITAL LETTER SOFT DE" />
 	<glyph unicode="A663" name="deSoft-cy" category="Letter" case="lower" script="cyrillic" production="uniA663" description="CYRILLIC SMALL LETTER SOFT DE" />
 	<glyph unicode="A664" name="ElSoft-cy" category="Letter" case="upper" script="cyrillic" production="uniA664" description="CYRILLIC CAPITAL LETTER SOFT EL" />
 	<glyph unicode="A665" name="elSoft-cy" category="Letter" case="lower" script="cyrillic" production="uniA665" description="CYRILLIC SMALL LETTER SOFT EL" />
 	<glyph unicode="A666" name="EmSoft-cy" category="Letter" case="upper" script="cyrillic" production="uniA666" description="CYRILLIC CAPITAL LETTER SOFT EM" />
 	<glyph unicode="A667" name="emSoft-cy" category="Letter" case="lower" script="cyrillic" production="uniA667" description="CYRILLIC SMALL LETTER SOFT EM" />
-	<glyph unicode="A668" name="OMonocular-cy" category="Letter" case="upper" script="cyrillic" production="uniA668" description="CYRILLIC CAPITAL LETTER MONOCULAR O" />
+	<glyph unicode="A668" name="Omonocular-cy" category="Letter" case="upper" script="cyrillic" production="uniA668" altNames="OMonocular-cy" description="CYRILLIC CAPITAL LETTER MONOCULAR O" />
 	<glyph unicode="A669" name="oMonocular-cy" category="Letter" case="lower" script="cyrillic" production="uniA669" description="CYRILLIC SMALL LETTER MONOCULAR O" />
-	<glyph unicode="A66A" name="OBinocular-cy" category="Letter" case="upper" script="cyrillic" production="uniA66A" description="CYRILLIC CAPITAL LETTER BINOCULAR O" />
-	<glyph unicode="A66B" name="oBinocular-cy" category="Letter" case="lower" script="cyrillic" production="uniA66B" description="CYRILLIC SMALL LETTER BINOCULAR O" />
-	<glyph unicode="A66C" name="ODoubleMonocular-cy" category="Letter" case="upper" script="cyrillic" production="uniA66C" description="CYRILLIC CAPITAL LETTER DOUBLE MONOCULAR O" />
-	<glyph unicode="A66D" name="oDoubleMonocular-cy" category="Letter" case="lower" script="cyrillic" production="uniA66D" description="CYRILLIC SMALL LETTER DOUBLE MONOCULAR O" />
+	<glyph unicode="A66A" name="Obinocular-cy" category="Letter" case="upper" script="cyrillic" production="uniA66A" altNames="OBinocular-cy" description="CYRILLIC CAPITAL LETTER BINOCULAR O" />
+	<glyph unicode="A66B" name="obinocular-cy" category="Letter" case="lower" script="cyrillic" production="uniA66B" altNames="oBinocular-cy" description="CYRILLIC SMALL LETTER BINOCULAR O" />
+	<glyph unicode="A66C" name="Odoublemonocular-cy" category="Letter" case="upper" script="cyrillic" production="uniA66C" altNames="ODoubleMonocular-cy" description="CYRILLIC CAPITAL LETTER DOUBLE MONOCULAR O" />
+	<glyph unicode="A66D" name="odoublemonocular-cy" category="Letter" case="lower" script="cyrillic" production="uniA66D" altNames="oDoubleMonocular-cy" description="CYRILLIC SMALL LETTER DOUBLE MONOCULAR O" />
 	<glyph unicode="A66E" name="omultiocular-cy" category="Letter" script="cyrillic" production="uniA66E" description="CYRILLIC LETTER MULTIOCULAR O" />
 	<glyph unicode="A66F" name="vzmetcomb-cy" category="Mark" subCategory="Nonspacing" script="cyrillic" production="uniA66F" description="COMBINING CYRILLIC VZMET" />
 	<glyph unicode="A670" name="tenmillionscomb-cy" category="Mark" subCategory="Enclosing" script="cyrillic" production="uniA670" description="COMBINING CYRILLIC TEN MILLIONS SIGN" />
@@ -1923,8 +1936,8 @@
 	<glyph unicode="A687" name="cche-cy" category="Letter" case="lower" script="cyrillic" production="uniA687" description="CYRILLIC SMALL LETTER CCHE" />
 	<glyph unicode="A688" name="Dzze-cy" category="Letter" case="upper" script="cyrillic" production="uniA688" description="CYRILLIC CAPITAL LETTER DZZE" />
 	<glyph unicode="A689" name="dzze-cy" category="Letter" case="lower" script="cyrillic" production="uniA689" description="CYRILLIC SMALL LETTER DZZE" />
-	<glyph unicode="A68A" name="TeWithMiddleHook-cy" category="Letter" case="upper" script="cyrillic" production="uniA68A" description="CYRILLIC CAPITAL LETTER TE WITH MIDDLE HOOK" />
-	<glyph unicode="A68B" name="tewithmiddlehook-cy" category="Letter" case="lower" script="cyrillic" production="uniA68B" description="CYRILLIC SMALL LETTER TE WITH MIDDLE HOOK" />
+	<glyph unicode="A68A" name="Temiddlehook-cy" category="Letter" case="upper" script="cyrillic" production="uniA68A" altNames="TeWithMiddleHook-cy" description="CYRILLIC CAPITAL LETTER TE WITH MIDDLE HOOK" />
+	<glyph unicode="A68B" name="temiddlehook-cy" category="Letter" case="lower" script="cyrillic" production="uniA68B" altNames="tewithmiddlehook-cy" description="CYRILLIC SMALL LETTER TE WITH MIDDLE HOOK" />
 	<glyph unicode="A68C" name="Twe-cy" category="Letter" case="upper" script="cyrillic" production="uniA68C" description="CYRILLIC CAPITAL LETTER TWE" />
 	<glyph unicode="A68D" name="twe-cy" category="Letter" case="lower" script="cyrillic" production="uniA68D" description="CYRILLIC SMALL LETTER TWE" />
 	<glyph unicode="A68E" name="Tswe-cy" category="Letter" case="upper" script="cyrillic" production="uniA68E" description="CYRILLIC CAPITAL LETTER TSWE" />
@@ -1937,10 +1950,10 @@
 	<glyph unicode="A695" name="hwe-cy" category="Letter" case="lower" script="cyrillic" production="uniA695" description="CYRILLIC SMALL LETTER HWE" />
 	<glyph unicode="A696" name="Shwe-cy" category="Letter" case="upper" script="cyrillic" production="uniA696" description="CYRILLIC CAPITAL LETTER SHWE" />
 	<glyph unicode="A697" name="shwe-cy" category="Letter" case="lower" script="cyrillic" production="uniA697" description="CYRILLIC SMALL LETTER SHWE" />
-	<glyph unicode="A698" name="DoubleO-cy" category="Letter" case="upper" script="cyrillic" production="uniA698" description="CYRILLIC CAPITAL LETTER DOUBLE O" />
-	<glyph unicode="A699" name="doubleo-cy" category="Letter" case="lower" script="cyrillic" production="uniA699" description="CYRILLIC SMALL LETTER DOUBLE O" />
-	<glyph unicode="A69A" name="CrossedO-cy" category="Letter" case="upper" script="cyrillic" production="uniA69A" description="CYRILLIC CAPITAL LETTER CROSSED O" />
-	<glyph unicode="A69B" name="crossedo-cy" category="Letter" case="lower" script="cyrillic" production="uniA69B" description="CYRILLIC SMALL LETTER CROSSED O" />
+	<glyph unicode="A698" name="Odouble-cy" category="Letter" case="upper" script="cyrillic" production="uniA698" altNames="DoubleO-cy" description="CYRILLIC CAPITAL LETTER DOUBLE O" />
+	<glyph unicode="A699" name="odouble-cy" category="Letter" case="lower" script="cyrillic" production="uniA699" altNames="doubleo-cy" description="CYRILLIC SMALL LETTER DOUBLE O" />
+	<glyph unicode="A69A" name="Ocrossed-cy" category="Letter" case="upper" script="cyrillic" production="uniA69A" altNames="CrossedO-cy" description="CYRILLIC CAPITAL LETTER CROSSED O" />
+	<glyph unicode="A69B" name="ocrossed-cy" category="Letter" case="lower" script="cyrillic" production="uniA69B" altNames="crossedo-cy" description="CYRILLIC SMALL LETTER CROSSED O" />
 	<glyph unicode="A69C" name="modifierhardsign-cy" category="Letter" subCategory="Modifier" script="cyrillic" production="uniA69C" description="MODIFIER LETTER CYRILLIC HARD SIGN" />
 	<glyph unicode="A69D" name="modifiersoftsign-cy" category="Letter" subCategory="Modifier" script="cyrillic" production="uniA69D" description="MODIFIER LETTER CYRILLIC SOFT SIGN" />
 	<glyph unicode="A69E" name="efcomb-cy" category="Mark" subCategory="Nonspacing" script="cyrillic" production="uniA69E" description="COMBINING CYRILLIC LETTER EF" />
@@ -3973,7 +3986,49 @@
 	<glyph unicode="1D9C" name="cmod" category="Letter" subCategory="Modifier" production="uni1D9C" description="MODIFIER LETTER SMALL C" />
 	<glyph unicode="1D9D" name="ccurlmod" category="Letter" subCategory="Modifier" production="uni1D9D" description="MODIFIER LETTER SMALL C WITH CURL" />
 	<glyph unicode="1D9E" name="ethmod" category="Letter" subCategory="Modifier" production="uni1D9E" description="MODIFIER LETTER SMALL ETH" />
-	<glyph unicode="1D9F" name="eReversedopenmod" category="Letter" subCategory="Modifier" production="uni1D9F" description="MODIFIER LETTER SMALL REVERSED OPEN E" />
+	<glyph unicode="1D9F" name="eopenreversedmod" category="Letter" subCategory="Modifier" production="uni1D9F" altNames="eReversedopenmod" description="MODIFIER LETTER SMALL REVERSED OPEN E" />
+	<glyph unicode="10790" name="fengdigraphmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10790" description="MODIFIER LETTER SMALL FENG DIGRAPH" />
+	<glyph unicode="10791" name="ramshornmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10791" description="MODIFIER LETTER SMALL RAMS HORN" />
+	<glyph unicode="10792" name="Gsmallmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10792" description="MODIFIER LETTER SMALL CAPITAL G" />
+	<glyph unicode="10793" name="ghookmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10793" description="MODIFIER LETTER G WITH HOOK" />
+	<glyph unicode="10794" name="Gsmallhookmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10794" description="MODIFIER LETTER SMALL CAPITAL G WITH HOOK" />
+	<glyph unicode="10795" name="hbarmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10795" description="MODIFIER LETTER SMALL H WITH STROKE" />
+	<glyph unicode="10796" name="Hsmallmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10796" description="MODIFIER LETTER SMALL CAPITAL H" />
+	<glyph unicode="10797" name="henghookmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10797" description="MODIFIER LETTER SMALL HENG WITH HOOK" />
+	<glyph unicode="10798" name="jdotlessstrokehookmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10798" description="MODIFIER LETTER SMALL DOTLESS J WITH STROKE AND HOOK" />
+	<glyph unicode="10799" name="lsdigraphmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10799" description="MODIFIER LETTER SMALL LS DIGRAPH" />
+	<glyph unicode="1079A" name="lzdigraphmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u1079A" description="MODIFIER LETTER SMALL LZ DIGRAPH" />
+	<glyph unicode="1079B" name="lbeltmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u1079B" description="MODIFIER LETTER SMALL L WITH BELT" />
+	<glyph unicode="1079C" name="Lsmallbeltmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u1079C" description="MODIFIER LETTER SMALL CAPITAL L WITH BELT" />
+	<glyph unicode="1079D" name="lretroflexhookandbeltmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u1079D" description="MODIFIER LETTER SMALL L WITH RETROFLEX HOOK AND BELT" />
+	<glyph unicode="1079E" name="lezhmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u1079E" description="MODIFIER LETTER SMALL LEZH" />
+	<glyph unicode="1079F" name="lezhhookretroflexmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u1079F" description="MODIFIER LETTER SMALL LEZH WITH RETROFLEX HOOK" />
+	<glyph unicode="107A0" name="yturnedmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107A0" description="MODIFIER LETTER SMALL TURNED Y" />
+	<glyph unicode="107A1" name="yturnedbeltmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107A1" description="MODIFIER LETTER SMALL TURNED Y WITH BELT" />
+	<glyph unicode="107A2" name="oslashmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107A2" description="MODIFIER LETTER SMALL O WITH STROKE" />
+	<glyph unicode="107A3" name="OEsmallmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107A3" description="MODIFIER LETTER SMALL CAPITAL OE" />
+	<glyph unicode="107A4" name="omegaclosedmod-latin" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107A4" description="MODIFIER LETTER SMALL CLOSED OMEGA" />
+	<glyph unicode="107A5" name="qmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107A5" description="MODIFIER LETTER SMALL Q" />
+	<glyph unicode="107A6" name="rlonglegmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107A6" description="MODIFIER LETTER SMALL TURNED R WITH LONG LEG" />
+	<glyph unicode="107A7" name="rlonglegturnedhookretroflexmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107A7" description="MODIFIER LETTER SMALL TURNED R WITH LONG LEG AND RETROFLEX HOOK" />
+	<glyph unicode="107A8" name="rtailmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107A8" description="MODIFIER LETTER SMALL R WITH TAIL" />
+	<glyph unicode="107A9" name="rfishhookmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107A9" description="MODIFIER LETTER SMALL R WITH FISHHOOK" />
+	<glyph unicode="107AA" name="Rsmallmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107AA" description="MODIFIER LETTER SMALL CAPITAL R" />
+	<glyph unicode="107AB" name="tccurlmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107AB" description="MODIFIER LETTER SMALL TC DIGRAPH WITH CURL" />
+	<glyph unicode="107AC" name="tsmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107AC" description="MODIFIER LETTER SMALL TS DIGRAPH" />
+	<glyph unicode="107AD" name="tsretroflexhookmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107AD" description="MODIFIER LETTER SMALL TS DIGRAPH WITH RETROFLEX HOOK" />
+	<glyph unicode="107AE" name="teshmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107AE" description="MODIFIER LETTER SMALL TESH DIGRAPH" />
+	<glyph unicode="107AF" name="tretroflexhookmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107AF" description="MODIFIER LETTER SMALL T WITH RETROFLEX HOOK" />
+	<glyph unicode="107B0" name="vrighthookmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107B0" description="MODIFIER LETTER SMALL V WITH RIGHT HOOK" />
+	<glyph unicode="107B2" name="Ysmallmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107B2" description="MODIFIER LETTER SMALL CAPITAL Y" />
+	<glyph unicode="107B3" name="glottalstopstrokemod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107B3" description="MODIFIER LETTER GLOTTAL STOP WITH STROKE" />
+	<glyph unicode="107B4" name="glottalstopstrokereversedmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107B4" description="MODIFIER LETTER REVERSED GLOTTAL STOP WITH STROKE" />
+	<glyph unicode="107B5" name="bilabialclickmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107B5" description="MODIFIER LETTER BILABIAL CLICK" />
+	<glyph unicode="107B6" name="clickdentalmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107B6" description="MODIFIER LETTER DENTAL CLICK" />
+	<glyph unicode="107B7" name="clicklateralmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107B7" description="MODIFIER LETTER LATERAL CLICK" />
+	<glyph unicode="107B8" name="clickalveolarmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107B8" description="MODIFIER LETTER ALVEOLAR CLICK" />
+	<glyph unicode="107B9" name="clickretroflexhookretroflexmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107B9" description="MODIFIER LETTER RETROFLEX CLICK WITH RETROFLEX HOOK" />
+	<glyph unicode="107BA" name="scurlmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u107BA" description="MODIFIER LETTER SMALL S WITH CURL" />
 	<glyph unicode="1DA0" name="fmod" category="Letter" subCategory="Modifier" production="uni1DA0" description="MODIFIER LETTER SMALL F" />
 	<glyph unicode="1DA1" name="jdotlessstrokemod" category="Letter" subCategory="Modifier" production="uni1DA1" description="MODIFIER LETTER SMALL DOTLESS J WITH STROKE" />
 	<glyph unicode="1DA2" name="scriptgmod" category="Letter" subCategory="Modifier" production="uni1DA2" description="MODIFIER LETTER SMALL SCRIPT G" />
@@ -4337,7 +4392,7 @@
 	<glyph unicode="AB3F" name="oopenstroke-blackletter" category="Letter" case="lower" script="Black Letter" production="uniAB3F" description="LATIN SMALL LETTER OPEN O WITH STROKE" />
 	<glyph unicode="AB40" name="oeinverted" category="Letter" case="lower" script="latin" production="uniAB40" description="LATIN SMALL LETTER INVERTED OE" />
 	<glyph unicode="AB41" name="oeturnedstroke" category="Letter" case="lower" script="latin" production="uniAB41" description="LATIN SMALL LETTER TURNED OE WITH STROKE" />
-	<glyph unicode="AB42" name="oeturnedwithhorizontalstroke" category="Letter" case="lower" script="latin" production="uniAB42" description="LATIN SMALL LETTER TURNED OE WITH HORIZONTAL STROKE" />
+	<glyph unicode="AB42" name="oeturnedhorizontalstroke" category="Letter" case="lower" script="latin" production="uniAB42" altNames="oeturnedwithhorizontalstroke" description="LATIN SMALL LETTER TURNED OE WITH HORIZONTAL STROKE" />
 	<glyph unicode="AB43" name="oopenoturned" category="Letter" case="lower" script="latin" production="uniAB43" description="LATIN SMALL LETTER TURNED O OPEN-O" />
 	<glyph unicode="AB44" name="ostrokeopenoturned" category="Letter" case="lower" script="latin" production="uniAB44" description="LATIN SMALL LETTER TURNED O OPEN-O WITH STROKE" />
 	<glyph unicode="AB45" name="rstirrup" category="Letter" case="lower" script="latin" production="uniAB45" description="LATIN SMALL LETTER STIRRUP R" />
@@ -4375,102 +4430,24 @@
 	<glyph unicode="AB66" name="dzretroflexhook" category="Letter" case="lower" script="latin" production="uniAB66" description="LATIN SMALL LETTER DZ DIGRAPH WITH RETROFLEX HOOK" />
 	<glyph unicode="AB67" name="tsretroflexhook" category="Letter" case="lower" script="latin" production="uniAB67" description="LATIN SMALL LETTER TS DIGRAPH WITH RETROFLEX HOOK" />
 	<glyph unicode="AB68" name="rmiddletildeturned" category="Letter" case="lower" script="latin" production="uniAB68" description="LATIN SMALL LETTER TURNED R WITH MIDDLE TILDE" />
-	<glyph unicode="AB69" name="wturnedmod" category="Letter" subCategory="Modifier" script="latin" production="uniAB69" description="MODIFIER LETTER SMALL TURNED W" />
+	<glyph unicode="AB69" name="wturnedmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="uniAB69" description="MODIFIER LETTER SMALL TURNED W" />
 	<glyph unicode="AB6A" name="tackleftmod" category="Letter" subCategory="Modifier" script="latin" production="uniAB6A" description="MODIFIER LETTER LEFT TACK" />
 	<glyph unicode="AB6B" name="tackrightmod" category="Letter" subCategory="Modifier" script="latin" production="uniAB6B" description="MODIFIER LETTER RIGHT TACK" />
-	<glyph unicode="10780" name="AAmod" category="Letter" subCategory="Modifier" script="latin" production="uni10780" description="MODIFIER LETTER SMALL CAPITAL AA" />
-	<glyph unicode="10781" name="colontriangularsuperior" category="Mark" subCategory="Modifier" production="uni10781" description="MODIFIER LETTER SUPERSCRIPT TRIANGULAR COLON" />
-	<glyph unicode="10782" name="colontriangularhalfsuperior" category="Mark" subCategory="Modifier" production="uni10782" description="MODIFIER LETTER SUPERSCRIPT HALF TRIANGULAR COLON" />
-	<glyph unicode="10783" name="aemod" category="Letter" subCategory="Modifier" script="latin" production="uni10783" description="MODIFIER LETTER SMALL AE" />
-	<glyph unicode="10784" name="Bsmallmod" category="Letter" subCategory="Modifier" script="latin" production="uni10784" description="MODIFIER LETTER SMALL CAPITAL B" />
-	<glyph unicode="10785" name="bhookmod" category="Letter" subCategory="Modifier" script="latin" production="uni10785" description="MODIFIER LETTER B WITH HOOK" />
-	<glyph unicode="10787" name="dzaltonemod" category="Letter" subCategory="Modifier" script="latin" production="uni10787" description="MODIFIER LETTER SMALL DZ DIGRAPH" />
-	<glyph unicode="10788" name="dzretroflexhookmod" category="Letter" subCategory="Modifier" script="latin" production="uni10788" description="MODIFIER LETTER SMALL DZ DIGRAPH WITH RETROFLEX HOOK" />
-	<glyph unicode="10789" name="dzcurlmod" category="Letter" subCategory="Modifier" script="latin" production="uni10789" description="MODIFIER LETTER SMALL DZ DIGRAPH WITH CURL" />
-	<glyph unicode="1078A" name="dezhmod" category="Letter" subCategory="Modifier" script="latin" production="uni1078A" description="MODIFIER LETTER SMALL DEZH DIGRAPH" />
-	<glyph unicode="1078B" name="dtailmod" category="Letter" subCategory="Modifier" script="latin" production="uni1078B" description="MODIFIER LETTER SMALL D WITH TAIL" />
-	<glyph unicode="1078C" name="dhookmod" category="Letter" subCategory="Modifier" script="latin" production="uni1078C" description="MODIFIER LETTER SMALL D WITH HOOK" />
-	<glyph unicode="1078D" name="dhookandtailmod" category="Letter" subCategory="Modifier" script="latin" production="uni1078D" description="MODIFIER LETTER SMALL D WITH HOOK AND TAIL" />
-	<glyph unicode="1078E" name="ereversedmod" category="Letter" subCategory="Modifier" script="latin" production="uni1078E" description="MODIFIER LETTER SMALL REVERSED E" />
-	<glyph unicode="1078F" name="eopenreversedmod" category="Letter" subCategory="Modifier" script="latin" production="uni1078F" description="MODIFIER LETTER SMALL CLOSED REVERSED OPEN E" />
-	<glyph unicode="10790" name="fengdigraphmod" category="Letter" subCategory="Modifier" script="latin" production="uni10790" description="MODIFIER LETTER SMALL FENG DIGRAPH" />
-	<glyph unicode="10791" name="ramshornmod" category="Letter" subCategory="Modifier" script="latin" production="uni10791" description="MODIFIER LETTER SMALL RAMS HORN" />
-	<glyph unicode="10792" name="Gsmallmod" category="Letter" subCategory="Modifier" script="latin" production="uni10792" description="MODIFIER LETTER SMALL CAPITAL G" />
-	<glyph unicode="10793" name="ghookmod" category="Letter" subCategory="Modifier" script="latin" production="uni10793" description="MODIFIER LETTER G WITH HOOK" />
-	<glyph unicode="10794" name="Gsmallhookmod" category="Letter" subCategory="Modifier" script="latin" production="uni10794" description="MODIFIER LETTER SMALL CAPITAL G WITH HOOK" />
-	<glyph unicode="10795" name="hbarmod" category="Letter" subCategory="Modifier" script="latin" production="uni10795" description="MODIFIER LETTER SMALL H WITH STROKE" />
-	<glyph unicode="10796" name="Hsmallmod" category="Letter" subCategory="Modifier" script="latin" production="uni10796" description="MODIFIER LETTER SMALL CAPITAL H" />
-	<glyph unicode="10797" name="henghookmod" category="Letter" subCategory="Modifier" script="latin" production="uni10797" description="MODIFIER LETTER SMALL HENG WITH HOOK" />
-	<glyph unicode="10798" name="jdotlessstrokehookmod" category="Letter" subCategory="Modifier" script="latin" production="uni10798" description="MODIFIER LETTER SMALL DOTLESS J WITH STROKE AND HOOK" />
-	<glyph unicode="10799" name="lsdigraphmod" category="Letter" subCategory="Modifier" script="latin" production="uni10799" description="MODIFIER LETTER SMALL LS DIGRAPH" />
-	<glyph unicode="1079A" name="lzdigraphmod" category="Letter" subCategory="Modifier" script="latin" production="uni1079A" description="MODIFIER LETTER SMALL LZ DIGRAPH" />
-	<glyph unicode="1079B" name="lbeltmod" category="Letter" subCategory="Modifier" script="latin" production="uni1079B" description="MODIFIER LETTER SMALL L WITH BELT" />
-	<glyph unicode="1079C" name="Lsmallbeltmod" category="Letter" subCategory="Modifier" script="latin" production="uni1079C" description="MODIFIER LETTER SMALL CAPITAL L WITH BELT" />
-	<glyph unicode="1079D" name="lretroflexhookandbeltmod" category="Letter" subCategory="Modifier" script="latin" production="uni1079D" description="MODIFIER LETTER SMALL L WITH RETROFLEX HOOK AND BELT" />
-	<glyph unicode="1079E" name="lezhmod" category="Letter" subCategory="Modifier" script="latin" production="uni1079E" description="MODIFIER LETTER SMALL LEZH" />
-	<glyph unicode="1079F" name="lezhhookretroflexmod" category="Letter" subCategory="Modifier" script="latin" production="uni1079F" description="MODIFIER LETTER SMALL LEZH WITH RETROFLEX HOOK" />
-	<glyph unicode="107A0" name="yturnedmod" category="Letter" subCategory="Modifier" script="latin" production="uni107A0" description="MODIFIER LETTER SMALL TURNED Y" />
-	<glyph unicode="107A1" name="yturnedbeltmod" category="Letter" subCategory="Modifier" script="latin" production="uni107A1" description="MODIFIER LETTER SMALL TURNED Y WITH BELT" />
-	<glyph unicode="107A2" name="oslashmod" category="Letter" subCategory="Modifier" script="latin" production="uni107A2" description="MODIFIER LETTER SMALL O WITH STROKE" />
-	<glyph unicode="107A3" name="OEsmallmod" category="Letter" subCategory="Modifier" script="latin" production="uni107A3" description="MODIFIER LETTER SMALL CAPITAL OE" />
-	<glyph unicode="107A4" name="omegaclosedmod-latin" category="Letter" subCategory="Modifier" script="latin" production="uni107A4" description="MODIFIER LETTER SMALL CLOSED OMEGA" />
-	<glyph unicode="107A5" name="qmod" category="Letter" subCategory="Modifier" script="latin" production="uni107A5" description="MODIFIER LETTER SMALL Q" />
-	<glyph unicode="107A6" name="rlonglegmod" category="Letter" subCategory="Modifier" script="latin" production="uni107A6" description="MODIFIER LETTER SMALL TURNED R WITH LONG LEG" />
-	<glyph unicode="107A7" name="rlonglegturnedhookretroflexmod" category="Letter" subCategory="Modifier" script="latin" production="uni107A7" description="MODIFIER LETTER SMALL TURNED R WITH LONG LEG AND RETROFLEX HOOK" />
-	<glyph unicode="107A8" name="rtailmod" category="Letter" subCategory="Modifier" script="latin" production="uni107A8" description="MODIFIER LETTER SMALL R WITH TAIL" />
-	<glyph unicode="107A9" name="rfishhookmod" category="Letter" subCategory="Modifier" script="latin" production="uni107A9" description="MODIFIER LETTER SMALL R WITH FISHHOOK" />
-	<glyph unicode="107AA" name="Rsmallmod" category="Letter" subCategory="Modifier" script="latin" production="uni107AA" description="MODIFIER LETTER SMALL CAPITAL R" />
-	<glyph unicode="107AB" name="tccurlmod" category="Letter" subCategory="Modifier" script="latin" production="uni107AB" description="MODIFIER LETTER SMALL TC DIGRAPH WITH CURL" />
-	<glyph unicode="107AC" name="tsmod" category="Letter" subCategory="Modifier" script="latin" production="uni107AC" description="MODIFIER LETTER SMALL TS DIGRAPH" />
-	<glyph unicode="107AD" name="tsretroflexhookmod" category="Letter" subCategory="Modifier" script="latin" production="uni107AD" description="MODIFIER LETTER SMALL TS DIGRAPH WITH RETROFLEX HOOK" />
-	<glyph unicode="107AE" name="teshmod" category="Letter" subCategory="Modifier" script="latin" production="uni107AE" description="MODIFIER LETTER SMALL TESH DIGRAPH" />
-	<glyph unicode="107AF" name="tretroflexhookmod" category="Letter" subCategory="Modifier" script="latin" production="uni107AF" description="MODIFIER LETTER SMALL T WITH RETROFLEX HOOK" />
-	<glyph unicode="107B0" name="vrighthookmod" category="Letter" subCategory="Modifier" script="latin" production="uni107B0" description="MODIFIER LETTER SMALL V WITH RIGHT HOOK" />
-	<glyph unicode="107B2" name="Ysmallmod" category="Letter" subCategory="Modifier" script="latin" production="uni107B2" description="MODIFIER LETTER SMALL CAPITAL Y" />
-	<glyph unicode="107B3" name="glottalstopstrokemod" category="Letter" subCategory="Modifier" script="latin" production="uni107B3" description="MODIFIER LETTER GLOTTAL STOP WITH STROKE" />
-	<glyph unicode="107B4" name="glottalstopstrokereversedmod" category="Letter" subCategory="Modifier" script="latin" production="uni107B4" description="MODIFIER LETTER REVERSED GLOTTAL STOP WITH STROKE" />
-	<glyph unicode="107B5" name="bilabialclickmod" category="Letter" subCategory="Modifier" script="latin" production="uni107B5" description="MODIFIER LETTER BILABIAL CLICK" />
-	<glyph unicode="107B6" name="clickdentalmod" category="Letter" subCategory="Modifier" script="latin" production="uni107B6" description="MODIFIER LETTER DENTAL CLICK" />
-	<glyph unicode="107B7" name="clicklateralmod" category="Letter" subCategory="Modifier" script="latin" production="uni107B7" description="MODIFIER LETTER LATERAL CLICK" />
-	<glyph unicode="107B8" name="clickalveolarmod" category="Letter" subCategory="Modifier" script="latin" production="uni107B8" description="MODIFIER LETTER ALVEOLAR CLICK" />
-	<glyph unicode="107B9" name="clickretroflexhookretroflexmod" category="Letter" subCategory="Modifier" script="latin" production="uni107B9" description="MODIFIER LETTER RETROFLEX CLICK WITH RETROFLEX HOOK" />
-	<glyph unicode="107BA" name="scurlmod" category="Letter" subCategory="Modifier" script="latin" production="uni107BA" description="MODIFIER LETTER SMALL S WITH CURL" />
-	<glyph unicode="1DF00" name="fengdigraphetrill" category="Letter" case="lower" script="latin" production="uni1DF00" description="LATIN SMALL LETTER FENG DIGRAPH WITH TRILL" />
-	<glyph unicode="1DF01" name="gscriptreversed" category="Letter" case="lower" script="latin" production="uni1DF01" description="LATIN SMALL LETTER REVERSED SCRIPT G" />
-	<glyph unicode="1DF02" name="Gsmallturned" category="Letter" case="lower" script="latin" production="uni1DF02" description="LATIN LETTER SMALL CAPITAL TURNED G" />
-	<glyph unicode="1DF03" name="kreversed" category="Letter" case="lower" script="latin" production="uni1DF03" description="LATIN SMALL LETTER REVERSED K" />
-	<glyph unicode="1DF04" name="Lsmallbelt" category="Letter" case="lower" script="latin" production="uni1DF04" description="LATIN LETTER SMALL CAPITAL L WITH BELT" />
-	<glyph unicode="1DF05" name="lezhhookretroflex" category="Letter" case="lower" script="latin" production="uni1DF05" description="LATIN SMALL LETTER LEZH WITH RETROFLEX HOOK" />
-	<glyph unicode="1DF06" name="yturnedbeld" category="Letter" case="lower" script="latin" production="uni1DF06" description="LATIN SMALL LETTER TURNED Y WITH BELT" />
-	<glyph unicode="1DF07" name="engreversed" category="Letter" case="lower" script="latin" production="uni1DF07" description="LATIN SMALL LETTER REVERSED ENG" />
-	<glyph unicode="1DF08" name="rlonglegturnedhookretroflex" category="Letter" case="lower" script="latin" production="uni1DF08" description="LATIN SMALL LETTER TURNED R WITH LONG LEG AND RETROFLEX HOOK" />
-	<glyph unicode="1DF09" name="thookandhookretroflex" category="Letter" case="lower" script="latin" production="uni1DF09" description="LATIN SMALL LETTER T WITH HOOK AND RETROFLEX HOOK" />
-	<glyph unicode="1DF0A" name="clickretroflexhookretroflex" category="Letter" case="lower" script="latin" production="uni1DF0A" description="LATIN LETTER RETROFLEX CLICK WITH RETROFLEX HOOK" />
-	<glyph unicode="1DF0B" name="eshdoublebar" category="Letter" case="lower" script="latin" production="uni1DF0B" description="LATIN SMALL LETTER ESH WITH DOUBLE BAR" />
-	<glyph unicode="1DF0C" name="eshdoublebarandcurl" category="Letter" case="lower" script="latin" production="uni1DF0C" description="LATIN SMALL LETTER ESH WITH DOUBLE BAR AND CURL" />
-	<glyph unicode="1DF0D" name="tturnedcurl" category="Letter" case="lower" script="latin" production="uni1DF0D" description="LATIN SMALL LETTER TURNED T WITH CURL" />
-	<glyph unicode="1DF0F" name="cstretchedcurl" category="Letter" case="lower" script="latin" production="uni1DF0F" description="LATIN LETTER STRETCHED C WITH CURL" />
-	<glyph unicode="1DF10" name="Ksmallturned" category="Letter" case="lower" script="latin" production="uni1DF10" description="LATIN LETTER SMALL CAPITAL TURNED K" />
-	<glyph unicode="1DF11" name="lfishhook" category="Letter" case="lower" script="latin" production="uni1DF11" description="LATIN SMALL LETTER L WITH FISHHOOK" />
-	<glyph unicode="1DF12" name="dezhpalatalhook" category="Letter" case="lower" script="latin" production="uni1DF12" description="LATIN SMALL LETTER DEZH DIGRAPH WITH PALATAL HOOK" />
-	<glyph unicode="1DF13" name="lbeltpalatalhook" category="Letter" case="lower" script="latin" production="uni1DF13" description="LATIN SMALL LETTER L WITH BELT AND PALATAL HOOK" />
-	<glyph unicode="1DF14" name="engpalatalhook" category="Letter" case="lower" script="latin" production="uni1DF14" description="LATIN SMALL LETTER ENG WITH PALATAL HOOK" />
-	<glyph unicode="1DF15" name="rturnedpalatalhook" category="Letter" case="lower" script="latin" production="uni1DF15" description="LATIN SMALL LETTER TURNED R WITH PALATAL HOOK" />
-	<glyph unicode="1DF16" name="rfishhookpalatalhook" category="Letter" case="lower" script="latin" production="uni1DF16" description="LATIN SMALL LETTER R WITH FISHHOOK AND PALATAL HOOK" />
-	<glyph unicode="1DF17" name="teshpalatalhook" category="Letter" case="lower" script="latin" production="uni1DF17" description="LATIN SMALL LETTER TESH DIGRAPH WITH PALATAL HOOK" />
-	<glyph unicode="1DF18" name="ezhpalatalhook" category="Letter" case="lower" script="latin" production="uni1DF18" description="LATIN SMALL LETTER EZH WITH PALATAL HOOK" />
-	<glyph unicode="1DF19" name="dezhhookretroflex" category="Letter" case="lower" script="latin" production="uni1DF19" description="LATIN SMALL LETTER DEZH DIGRAPH WITH RETROFLEX HOOK" />
-	<glyph unicode="1DF1A" name="istrokehookretroflex" category="Letter" case="lower" script="latin" production="uni1DF1A" description="LATIN SMALL LETTER I WITH STROKE AND RETROFLEX HOOK" />
-	<glyph unicode="1DF1B" name="ohookretroflex" category="Letter" case="lower" script="latin" production="uni1DF1B" description="LATIN SMALL LETTER O WITH RETROFLEX HOOK" />
-	<glyph unicode="1DF1C" name="teshhookretroflex" category="Letter" case="lower" script="latin" production="uni1DF1C" description="LATIN SMALL LETTER TESH DIGRAPH WITH RETROFLEX HOOK" />
-	<glyph unicode="1DF1D" name="chookretroflex" category="Letter" case="lower" script="latin" production="uni1DF1D" description="LATIN SMALL LETTER C WITH RETROFLEX HOOK" />
-	<glyph unicode="1DF1E" name="scurl" category="Letter" case="lower" script="latin" production="uni1DF1E" description="LATIN SMALL LETTER S WITH CURL" />
-	<glyph unicode="1DF25" name="dleftmidhook" category="Letter" case="lower" script="latin" production="uni1DF25" description="LATIN SMALL LETTER D WITH MID-HEIGHT LEFT HOOK" />
-	<glyph unicode="1DF26" name="lleftmidhook" category="Letter" case="lower" script="latin" production="uni1DF26" description="LATIN SMALL LETTER L WITH MID-HEIGHT LEFT HOOK" />
-	<glyph unicode="1DF27" name="nleftmidhook" category="Letter" case="lower" script="latin" production="uni1DF27" description="LATIN SMALL LETTER N WITH MID-HEIGHT LEFT HOOK" />
-	<glyph unicode="1DF28" name="rleftmidhook" category="Letter" case="lower" script="latin" production="uni1DF28" description="LATIN SMALL LETTER R WITH MID-HEIGHT LEFT HOOK" />
-	<glyph unicode="1DF29" name="sleftmidhook" category="Letter" case="lower" script="latin" production="uni1DF29" description="LATIN SMALL LETTER S WITH MID-HEIGHT LEFT HOOK" />
-	<glyph unicode="1DF2A" name="tleftmidhook" category="Letter" case="lower" script="latin" production="uni1DF2A" description="LATIN SMALL LETTER T WITH MID-HEIGHT LEFT HOOK" />
+	<glyph unicode="10780" name="AAmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10780" description="MODIFIER LETTER SMALL CAPITAL AA" />
+	<glyph unicode="10781" name="colontriangularsuperior" category="Mark" subCategory="Modifier" case="minor" production="u10781" description="MODIFIER LETTER SUPERSCRIPT TRIANGULAR COLON" />
+	<glyph unicode="10782" name="colontriangularhalfsuperior" category="Mark" subCategory="Modifier" case="minor" production="u10782" description="MODIFIER LETTER SUPERSCRIPT HALF TRIANGULAR COLON" />
+	<glyph unicode="10783" name="aemod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10783" description="MODIFIER LETTER SMALL AE" />
+	<glyph unicode="10784" name="Bsmallmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10784" description="MODIFIER LETTER SMALL CAPITAL B" />
+	<glyph unicode="10785" name="bhookmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10785" description="MODIFIER LETTER B WITH HOOK" />
+	<glyph unicode="10787" name="dzaltonemod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10787" description="MODIFIER LETTER SMALL DZ DIGRAPH" />
+	<glyph unicode="10788" name="dzretroflexhookmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10788" description="MODIFIER LETTER SMALL DZ DIGRAPH WITH RETROFLEX HOOK" />
+	<glyph unicode="10789" name="dzcurlmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u10789" description="MODIFIER LETTER SMALL DZ DIGRAPH WITH CURL" />
+	<glyph unicode="1078A" name="dezhmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u1078A" description="MODIFIER LETTER SMALL DEZH DIGRAPH" />
+	<glyph unicode="1078B" name="dtailmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u1078B" description="MODIFIER LETTER SMALL D WITH TAIL" />
+	<glyph unicode="1078C" name="dhookmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u1078C" description="MODIFIER LETTER SMALL D WITH HOOK" />
+	<glyph unicode="1078D" name="dhookandtailmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u1078D" description="MODIFIER LETTER SMALL D WITH HOOK AND TAIL" />
+	<glyph unicode="1078E" name="ereversedmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u1078E" description="MODIFIER LETTER SMALL REVERSED E" />
+	<glyph unicode="1078F" name="eopenreversedclosedmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="u1078F" description="MODIFIER LETTER SMALL CLOSED REVERSED OPEN E" />
 	<glyph unicode="05D0" name="alef-hb" category="Letter" script="hebrew" production="uni05D0" direction="RTL" altNames="afii57664, alef, alefhebrew" description="HEBREW LETTER ALEF" />
 	<glyph unicode="05D1" name="bet-hb" category="Letter" script="hebrew" production="uni05D1" direction="RTL" altNames="afii57665, bet, bethebrew" description="HEBREW LETTER BET" />
 	<glyph unicode="05D2" name="gimel-hb" category="Letter" script="hebrew" production="uni05D2" direction="RTL" altNames="afii57666, gimel, gimelhebrew" description="HEBREW LETTER GIMEL" />
@@ -25858,9 +25835,9 @@
 	<glyph unicode="A7C1" name="ooldpolish" category="Letter" case="lower" script="latin" production="uniA7C1" description="LATIN SMALL LETTER OLD POLISH O" />
 	<glyph unicode="A7C2" name="Wanglicana" category="Letter" case="upper" script="latin" production="uniA7C2" description="LATIN CAPITAL LETTER W ANGLICANA" />
 	<glyph unicode="A7C3" name="wanglicana" category="Letter" case="lower" script="latin" production="uniA7C3" description="LATIN SMALL LETTER W ANGLICANA" />
-	<glyph unicode="A7C4" name="CPalatalhook" category="Letter" case="upper" script="latin" production="uniA7C4" description="LATIN CAPITAL LETTER C WITH PALATAL HOOK" />
+	<glyph unicode="A7C4" name="Cpalatalhook" category="Letter" case="upper" script="latin" production="uniA7C4" description="LATIN CAPITAL LETTER C WITH PALATAL HOOK" />
 	<glyph unicode="A7C5" name="Shook" category="Letter" case="upper" script="latin" production="uniA7C5" description="LATIN CAPITAL LETTER S WITH HOOK" />
-	<glyph unicode="A7C6" name="ZPalatalhook" category="Letter" case="upper" script="latin" production="uniA7C6" description="LATIN CAPITAL LETTER Z WITH PALATAL HOOK" />
+	<glyph unicode="A7C6" name="Zpalatalhook" category="Letter" case="upper" script="latin" production="uniA7C6" description="LATIN CAPITAL LETTER Z WITH PALATAL HOOK" />
 	<glyph unicode="A7C7" name="Dshortstrokeoverlay" category="Letter" case="upper" script="latin" production="uniA7C7" description="LATIN CAPITAL LETTER D WITH SHORT STROKE OVERLAY" />
 	<glyph unicode="A7C8" name="dshortstrokeoverlay" category="Letter" case="lower" script="latin" production="uniA7C8" description="LATIN SMALL LETTER D WITH SHORT STROKE OVERLAY" />
 	<glyph unicode="A7C9" name="Sbar" category="Letter" case="upper" script="latin" production="uniA7C9" description="LATIN CAPITAL LETTER S WITH SHORT STROKE OVERLAY" />
@@ -25872,16 +25849,15 @@
 	<glyph unicode="A7D1" name="gclosedinsular" category="Letter" case="lower" script="latin" production="uniA7D1" description="LATIN SMALL LETTER CLOSED INSULAR G" />
 	<glyph unicode="A7D3" name="thorndouble" category="Letter" case="lower" script="latin" production="uniA7D3" description="LATIN SMALL LETTER DOUBLE THORN" />
 	<glyph unicode="A7D5" name="wynndouble" category="Letter" case="lower" script="latin" production="uniA7D5" description="LATIN SMALL LETTER DOUBLE WYNN" />
-	<glyph unicode="A7D5" name="Smiddlescots" category="Letter" case="upper" script="latin" production="uniA7D6" description="LATIN CAPITAL LETTER MIDDLE SCOTS S" />
 	<glyph unicode="A7D7" name="smiddlescots" category="Letter" case="lower" script="latin" production="uniA7D7" description="LATIN SMALL LETTER MIDDLE SCOTS S" />
 	<glyph unicode="A7D8" name="Ssigmoid" category="Letter" case="upper" script="latin" production="uniA7D8" description="LATIN CAPITAL LETTER SIGMOID S" />
 	<glyph unicode="A7D9" name="ssigmoid" category="Letter" case="lower" script="latin" production="uniA7D9" description="LATIN SMALL LETTER SIGMOID S" />
 	<glyph unicode="A7DA" name="Lambda-latin" category="Letter" case="upper" script="latin" production="uniA7DA" description="LATIN CAPITAL LETTER LAMBDA" />
 	<glyph unicode="A7DB" name="lambda-latin" category="Letter" case="lower" script="latin" production="uniA7DB" description="LATIN SMALL LETTER LAMBDA" />
 	<glyph unicode="A7DC" name="Lambdastroke-latin" category="Letter" case="upper" script="latin" production="uniA7DC" description="LATIN CAPITAL LETTER LAMBDA WITH STROKE" />
-	<glyph unicode="A7F2" name="Cmod" category="Letter" subCategory="Modifier" production="uniA7F2" description="MODIFIER LETTER CAPITAL C" />
-	<glyph unicode="A7F3" name="Fmod" category="Letter" subCategory="Modifier" production="uniA7F3" description="MODIFIER LETTER CAPITAL F" />
-	<glyph unicode="A7F4" name="Qmod" category="Letter" subCategory="Modifier" production="uniA7F4" description="MODIFIER LETTER CAPITAL Q" />
+	<glyph unicode="A7F2" name="Cmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="uniA7F2" description="MODIFIER LETTER CAPITAL C" />
+	<glyph unicode="A7F3" name="Fmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="uniA7F3" description="MODIFIER LETTER CAPITAL F" />
+	<glyph unicode="A7F4" name="Qmod" category="Letter" subCategory="Modifier" case="minor" script="latin" production="uniA7F4" description="MODIFIER LETTER CAPITAL Q" />
 	<glyph unicode="A7F5" name="Halfhreversed" category="Letter" case="upper" script="latin" production="uniA7F5" description="LATIN CAPITAL LETTER REVERSED HALF H" />
 	<glyph unicode="A7F6" name="halfhreversed" category="Letter" case="lower" script="latin" production="uniA7F6" description="LATIN SMALL LETTER REVERSED HALF H" />
 	<glyph unicode="A7F7" name="Iepigraphicsideways" category="Letter" script="latin" production="uniA7F7" description="LATIN EPIGRAPHIC LETTER SIDEWAYS I" />
