@@ -6088,6 +6088,95 @@
 	<glyph unicode="1E949" name="gemconsonantmodcomb-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E949" description="ADLAM GERMINATE CONSONANT MODIFIER" />
 	<glyph unicode="1E94A" name="hoortobbhere-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E94A" description="ADLAM HOORTOBBHERE" />
 	<glyph unicode="1E94B" name="lestobbhere-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E94B" description="ADLAM LESTOBBHERE" />
+	<glyph unicode="1E900" name="Alif-adlam" category="Letter" case="upper" script="adlam" production="u1E900" direction="RTL" description="ADLAM CAPITAL LETTER ALIF" />
+	<glyph unicode="1E901" name="Daali-adlam" category="Letter" case="upper" script="adlam" production="u1E901" direction="RTL" description="ADLAM CAPITAL LETTER DAALI" />
+	<glyph unicode="1E902" name="Laam-adlam" category="Letter" case="upper" script="adlam" production="u1E902" direction="RTL" description="ADLAM CAPITAL LETTER LAAM" />
+	<glyph unicode="1E903" name="Miim-adlam" category="Letter" case="upper" script="adlam" production="u1E903" direction="RTL" description="ADLAM CAPITAL LETTER MIIM" />
+	<glyph unicode="1E904" name="Ba-adlam" category="Letter" case="upper" script="adlam" production="u1E904" direction="RTL" description="ADLAM CAPITAL LETTER BA" />
+	<glyph unicode="1E905" name="Sinnyiiyhe-adlam" category="Letter" case="upper" script="adlam" production="u1E905" direction="RTL" description="ADLAM CAPITAL LETTER SINNYIIYHE" />
+	<glyph unicode="1E906" name="Pe-adlam" category="Letter" case="upper" script="adlam" production="u1E906" direction="RTL" description="ADLAM CAPITAL LETTER PE" />
+	<glyph unicode="1E907" name="Bhe-adlam" category="Letter" case="upper" script="adlam" production="u1E907" direction="RTL" description="ADLAM CAPITAL LETTER BHE" />
+	<glyph unicode="1E908" name="Ra-adlam" category="Letter" case="upper" script="adlam" production="u1E908" direction="RTL" description="ADLAM CAPITAL LETTER RA" />
+	<glyph unicode="1E909" name="E-adlam" category="Letter" case="upper" script="adlam" production="u1E909" direction="RTL" description="ADLAM CAPITAL LETTER E" />
+	<glyph unicode="1E90A" name="Fa-adlam" category="Letter" case="upper" script="adlam" production="u1E90A" direction="RTL" description="ADLAM CAPITAL LETTER FA" />
+	<glyph unicode="1E90B" name="I-adlam" category="Letter" case="upper" script="adlam" production="u1E90B" direction="RTL" description="ADLAM CAPITAL LETTER I" />
+	<glyph unicode="1E90C" name="O-adlam" category="Letter" case="upper" script="adlam" production="u1E90C" direction="RTL" description="ADLAM CAPITAL LETTER O" />
+	<glyph unicode="1E90D" name="Dha-adlam" category="Letter" case="upper" script="adlam" production="u1E90D" direction="RTL" description="ADLAM CAPITAL LETTER DHA" />
+	<glyph unicode="1E90E" name="Yhe-adlam" category="Letter" case="upper" script="adlam" production="u1E90E" direction="RTL" description="ADLAM CAPITAL LETTER YHE" />
+	<glyph unicode="1E90F" name="Waw-adlam" category="Letter" case="upper" script="adlam" production="u1E90F" direction="RTL" description="ADLAM CAPITAL LETTER WAW" />
+	<glyph unicode="1E910" name="Nun-adlam" category="Letter" case="upper" script="adlam" production="u1E910" direction="RTL" description="ADLAM CAPITAL LETTER NUN" />
+	<glyph unicode="1E911" name="Kaf-adlam" category="Letter" case="upper" script="adlam" production="u1E911" direction="RTL" description="ADLAM CAPITAL LETTER KAF" />
+	<glyph unicode="1E912" name="Ya-adlam" category="Letter" case="upper" script="adlam" production="u1E912" direction="RTL" description="ADLAM CAPITAL LETTER YA" />
+	<glyph unicode="1E913" name="U-adlam" category="Letter" case="upper" script="adlam" production="u1E913" direction="RTL" description="ADLAM CAPITAL LETTER U" />
+	<glyph unicode="1E914" name="Jiim-adlam" category="Letter" case="upper" script="adlam" production="u1E914" direction="RTL" description="ADLAM CAPITAL LETTER JIIM" />
+	<glyph unicode="1E915" name="Chi-adlam" category="Letter" case="upper" script="adlam" production="u1E915" direction="RTL" description="ADLAM CAPITAL LETTER CHI" />
+	<glyph unicode="1E916" name="Ha-adlam" category="Letter" case="upper" script="adlam" production="u1E916" direction="RTL" description="ADLAM CAPITAL LETTER HA" />
+	<glyph unicode="1E917" name="Qaaf-adlam" category="Letter" case="upper" script="adlam" production="u1E917" direction="RTL" description="ADLAM CAPITAL LETTER QAAF" />
+	<glyph unicode="1E918" name="Ga-adlam" category="Letter" case="upper" script="adlam" production="u1E918" direction="RTL" description="ADLAM CAPITAL LETTER GA" />
+	<glyph unicode="1E919" name="Nya-adlam" category="Letter" case="upper" script="adlam" production="u1E919" direction="RTL" description="ADLAM CAPITAL LETTER NYA" />
+	<glyph unicode="1E91A" name="Tu-adlam" category="Letter" case="upper" script="adlam" production="u1E91A" direction="RTL" description="ADLAM CAPITAL LETTER TU" />
+	<glyph unicode="1E91B" name="Nha-adlam" category="Letter" case="upper" script="adlam" production="u1E91B" direction="RTL" description="ADLAM CAPITAL LETTER NHA" />
+	<glyph unicode="1E91C" name="Va-adlam" category="Letter" case="upper" script="adlam" production="u1E91C" direction="RTL" description="ADLAM CAPITAL LETTER VA" />
+	<glyph unicode="1E91D" name="Kha-adlam" category="Letter" case="upper" script="adlam" production="u1E91D" direction="RTL" description="ADLAM CAPITAL LETTER KHA" />
+	<glyph unicode="1E91E" name="Gbe-adlam" category="Letter" case="upper" script="adlam" production="u1E91E" direction="RTL" description="ADLAM CAPITAL LETTER GBE" />
+	<glyph unicode="1E91F" name="Zal-adlam" category="Letter" case="upper" script="adlam" production="u1E91F" direction="RTL" description="ADLAM CAPITAL LETTER ZAL" />
+	<glyph unicode="1E920" name="Kpo-adlam" category="Letter" case="upper" script="adlam" production="u1E920" direction="RTL" description="ADLAM CAPITAL LETTER KPO" />
+	<glyph unicode="1E921" name="Sha-adlam" category="Letter" case="upper" script="adlam" production="u1E921" direction="RTL" description="ADLAM CAPITAL LETTER SHA" />
+	<glyph unicode="1E922" name="alif-adlam" category="Letter" case="lower" script="adlam" production="u1E922" direction="RTL" description="ADLAM SMALL LETTER ALIF" />
+	<glyph unicode="1E923" name="daali-adlam" category="Letter" case="lower" script="adlam" production="u1E923" direction="RTL" description="ADLAM SMALL LETTER DAALI" />
+	<glyph unicode="1E924" name="laam-adlam" category="Letter" case="lower" script="adlam" production="u1E924" direction="RTL" description="ADLAM SMALL LETTER LAAM" />
+	<glyph unicode="1E925" name="miim-adlam" category="Letter" case="lower" script="adlam" production="u1E925" direction="RTL" description="ADLAM SMALL LETTER MIIM" />
+	<glyph unicode="1E926" name="ba-adlam" category="Letter" case="lower" script="adlam" production="u1E926" direction="RTL" description="ADLAM SMALL LETTER BA" />
+	<glyph unicode="1E927" name="sinnyiiyhe-adlam" category="Letter" case="lower" script="adlam" production="u1E927" direction="RTL" description="ADLAM SMALL LETTER SINNYIIYHE" />
+	<glyph unicode="1E928" name="pe-adlam" category="Letter" case="lower" script="adlam" production="u1E928" direction="RTL" description="ADLAM SMALL LETTER PE" />
+	<glyph unicode="1E929" name="bhe-adlam" category="Letter" case="lower" script="adlam" production="u1E929" direction="RTL" description="ADLAM SMALL LETTER BHE" />
+	<glyph unicode="1E92A" name="ra-adlam" category="Letter" case="lower" script="adlam" production="u1E92A" direction="RTL" description="ADLAM SMALL LETTER RA" />
+	<glyph unicode="1E92B" name="e-adlam" category="Letter" case="lower" script="adlam" production="u1E92B" direction="RTL" description="ADLAM SMALL LETTER E" />
+	<glyph unicode="1E92C" name="fa-adlam" category="Letter" case="lower" script="adlam" production="u1E92C" direction="RTL" description="ADLAM SMALL LETTER FA" />
+	<glyph unicode="1E92D" name="i-adlam" category="Letter" case="lower" script="adlam" production="u1E92D" direction="RTL" description="ADLAM SMALL LETTER I" />
+	<glyph unicode="1E92E" name="o-adlam" category="Letter" case="lower" script="adlam" production="u1E92E" direction="RTL" description="ADLAM SMALL LETTER O" />
+	<glyph unicode="1E92F" name="dha-adlam" category="Letter" case="lower" script="adlam" production="u1E92F" direction="RTL" description="ADLAM SMALL LETTER DHA" />
+	<glyph unicode="1E930" name="yhe-adlam" category="Letter" case="lower" script="adlam" production="u1E930" direction="RTL" description="ADLAM SMALL LETTER YHE" />
+	<glyph unicode="1E931" name="waw-adlam" category="Letter" case="lower" script="adlam" production="u1E931" direction="RTL" description="ADLAM SMALL LETTER WAW" />
+	<glyph unicode="1E932" name="nun-adlam" category="Letter" case="lower" script="adlam" production="u1E932" direction="RTL" description="ADLAM SMALL LETTER NUN" />
+	<glyph unicode="1E933" name="kaf-adlam" category="Letter" case="lower" script="adlam" production="u1E933" direction="RTL" description="ADLAM SMALL LETTER KAF" />
+	<glyph unicode="1E934" name="ya-adlam" category="Letter" case="lower" script="adlam" production="u1E934" direction="RTL" description="ADLAM SMALL LETTER YA" />
+	<glyph unicode="1E935" name="u-adlam" category="Letter" case="lower" script="adlam" production="u1E935" direction="RTL" description="ADLAM SMALL LETTER U" />
+	<glyph unicode="1E936" name="jiim-adlam" category="Letter" case="lower" script="adlam" production="u1E936" direction="RTL" description="ADLAM SMALL LETTER JIIM" />
+	<glyph unicode="1E937" name="chi-adlam" category="Letter" case="lower" script="adlam" production="u1E937" direction="RTL" description="ADLAM SMALL LETTER CHI" />
+	<glyph unicode="1E938" name="ha-adlam" category="Letter" case="lower" script="adlam" production="u1E938" direction="RTL" description="ADLAM SMALL LETTER HA" />
+	<glyph unicode="1E939" name="qaaf-adlam" category="Letter" case="lower" script="adlam" production="u1E939" direction="RTL" description="ADLAM SMALL LETTER QAAF" />
+	<glyph unicode="1E93A" name="ga-adlam" category="Letter" case="lower" script="adlam" production="u1E93A" direction="RTL" description="ADLAM SMALL LETTER GA" />
+	<glyph unicode="1E93B" name="nya-adlam" category="Letter" case="lower" script="adlam" production="u1E93B" direction="RTL" description="ADLAM SMALL LETTER NYA" />
+	<glyph unicode="1E93C" name="tu-adlam" category="Letter" case="lower" script="adlam" production="u1E93C" direction="RTL" description="ADLAM SMALL LETTER TU" />
+	<glyph unicode="1E93D" name="nha-adlam" category="Letter" case="lower" script="adlam" production="u1E93D" direction="RTL" description="ADLAM SMALL LETTER NHA" />
+	<glyph unicode="1E93E" name="va-adlam" category="Letter" case="lower" script="adlam" production="u1E93E" direction="RTL" description="ADLAM SMALL LETTER VA" />
+	<glyph unicode="1E93F" name="kha-adlam" category="Letter" case="lower" script="adlam" production="u1E93F" direction="RTL" description="ADLAM SMALL LETTER KHA" />
+	<glyph unicode="1E940" name="gbe-adlam" category="Letter" case="lower" script="adlam" production="u1E940" direction="RTL" description="ADLAM SMALL LETTER GBE" />
+	<glyph unicode="1E941" name="zal-adlam" category="Letter" case="lower" script="adlam" production="u1E941" direction="RTL" description="ADLAM SMALL LETTER ZAL" />
+	<glyph unicode="1E942" name="kpo-adlam" category="Letter" case="lower" script="adlam" production="u1E942" direction="RTL" description="ADLAM SMALL LETTER KPO" />
+	<glyph unicode="1E943" name="sha-adlam" category="Letter" case="lower" script="adlam" production="u1E943" direction="RTL" description="ADLAM SMALL LETTER SHA" />
+	<glyph unicode="1E950" name="zero-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E950" direction="RTL" description="ADLAM DIGIT ZERO" />
+	<glyph unicode="1E951" name="one-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E951" direction="RTL" description="ADLAM DIGIT ONE" />
+	<glyph unicode="1E952" name="two-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E952" direction="RTL" description="ADLAM DIGIT TWO" />
+	<glyph unicode="1E953" name="three-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E953" direction="RTL" description="ADLAM DIGIT THREE" />
+	<glyph unicode="1E954" name="four-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E954" direction="RTL" description="ADLAM DIGIT FOUR" />
+	<glyph unicode="1E955" name="five-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E955" direction="RTL" description="ADLAM DIGIT FIVE" />
+	<glyph unicode="1E956" name="six-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E956" direction="RTL" description="ADLAM DIGIT SIX" />
+	<glyph unicode="1E957" name="seven-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E957" direction="RTL" description="ADLAM DIGIT SEVEN" />
+	<glyph unicode="1E958" name="eight-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E958" direction="RTL" description="ADLAM DIGIT EIGHT" />
+	<glyph unicode="1E959" name="nine-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E959" direction="RTL" description="ADLAM DIGIT NINE" />
+	<glyph unicode="1E95E" name="exclam-adlam" category="Punctuation" script="adlam" production="u1E95E" direction="RTL" description="ADLAM INITIAL EXCLAMATION MARK" />
+	<glyph unicode="1E95F" name="question-adlam" category="Punctuation" script="adlam" production="u1E95F" direction="RTL" description="ADLAM INITIAL QUESTION MARK" />
+	<glyph unicode="1E944" name="aliflengthencomb-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E944" direction="RTL" description="ADLAM ALIF LENGTHENER" />
+	<glyph unicode="1E945" name="vowellengthencomb-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E945" direction="RTL" description="ADLAM VOWEL LENGTHENER" />
+	<glyph unicode="1E946" name="gemination-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E946" direction="RTL" description="ADLAM GEMINATION MARK" />
+	<glyph unicode="1E947" name="hamza-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E947" direction="RTL" description="ADLAM HAMZA" />
+	<glyph unicode="1E948" name="consonantmodcomb-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E948" direction="RTL" description="ADLAM CONSONANT MODIFIER" />
+	<glyph unicode="1E949" name="gemconsonantmodcomb-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E949" direction="RTL" description="ADLAM GERMINATE CONSONANT MODIFIER" />
+	<glyph unicode="1E94A" name="hoortobbhere-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E94A" direction="RTL" description="ADLAM HOORTOBBHERE" />
+	<glyph name="hoortobbhere-adlam.below" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E94A.below" direction="RTL" description="ADLAM HOORTOBBHERE BELOW FORM" />
+	<glyph unicode="1E94B" name="nasalization-adlam" category="Letter" subCategory="Modifier" script="adlam" production="u1E94B" direction="RTL" description="ADLAM NASALIZATION MARK" />
 	<glyph unicode="0800" name="alaf-samaritan" category="Letter" script="samaritan" production="uni0800" description="SAMARITAN LETTER ALAF" />
 	<glyph unicode="0801" name="bit-samaritan" category="Letter" script="samaritan" production="uni0801" description="SAMARITAN LETTER BIT" />
 	<glyph unicode="0802" name="gaman-samaritan" category="Letter" script="samaritan" production="uni0802" description="SAMARITAN LETTER GAMAN" />
@@ -9117,6 +9206,131 @@
 	<glyph name="nga_uSign-batak" category="Letter" script="batak" production="uni1BDD1BEE" />
 	<glyph name="la_uSign-batak" category="Letter" script="batak" production="uni1BDE1BEE" />
 	<glyph name="nya_uSign-batak" category="Letter" script="batak" production="uni1BE01BEE" />
+	<glyph unicode="11F00" name="candrabindu-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F00" description="KAWI SIGN CANDRABINDU" />
+	<glyph unicode="11F01" name="anusvara-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F01" description="KAWI SIGN ANUSVARA" />
+	<glyph unicode="11F02" name="repha-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F02" description="KAWI SIGN REPHA" />
+	<glyph unicode="11F03" name="visarga-kawi" category="Mark" subCategory="Spacing" script="kawi" production="u11F03" description="KAWI SIGN VISARGA" />
+	<glyph unicode="11F04" name="a-kawi" category="Letter" script="kawi" production="u11F04" description="KAWI LETTER A" />
+	<glyph unicode="11F05" name="aa-kawi" category="Letter" script="kawi" production="u11F05" description="KAWI LETTER AA" />
+	<glyph unicode="11F06" name="i-kawi" category="Letter" script="kawi" production="u11F06" description="KAWI LETTER I" />
+	<glyph unicode="11F07" name="ii-kawi" category="Letter" script="kawi" production="u11F07" description="KAWI LETTER II" />
+	<glyph unicode="11F08" name="u-kawi" category="Letter" script="kawi" production="u11F08" description="KAWI LETTER U" />
+	<glyph unicode="11F09" name="uu-kawi" category="Letter" script="kawi" production="u11F09" description="KAWI LETTER UU" />
+	<glyph unicode="11F0A" name="rVocalic-kawi" category="Letter" script="kawi" production="u11F0A" description="KAWI LETTER VOCALIC R" />
+	<glyph unicode="11F0B" name="rrVocalic-kawi" category="Letter" script="kawi" production="u11F0B" description="KAWI LETTER VOCALIC RR" />
+	<glyph unicode="11F0C" name="lVocalic-kawi" category="Letter" script="kawi" production="u11F0C" description="KAWI LETTER VOCALIC L" />
+	<glyph unicode="11F0D" name="llVocalic-kawi" category="Letter" script="kawi" production="u11F0D" description="KAWI LETTER VOCALIC LL" />
+	<glyph unicode="11F0E" name="e-kawi" category="Letter" script="kawi" production="u11F0E" description="KAWI LETTER E" />
+	<glyph unicode="11F0F" name="ai-kawi" category="Letter" script="kawi" production="u11F0F" description="KAWI LETTER AI" />
+	<glyph unicode="11F10" name="o-kawi" category="Letter" script="kawi" production="u11F10" description="KAWI LETTER O" />
+	<glyph unicode="11F12" name="ka-kawi" category="Letter" script="kawi" production="u11F12" description="KAWI LETTER KA" />
+	<glyph unicode="11F13" name="kha-kawi" category="Letter" script="kawi" production="u11F13" description="KAWI LETTER KHA" />
+	<glyph unicode="11F14" name="ga-kawi" category="Letter" script="kawi" production="u11F14" description="KAWI LETTER GA" />
+	<glyph unicode="11F15" name="gha-kawi" category="Letter" script="kawi" production="u11F15" description="KAWI LETTER GHA" />
+	<glyph unicode="11F16" name="nga-kawi" category="Letter" script="kawi" production="u11F16" description="KAWI LETTER NGA" />
+	<glyph unicode="11F17" name="ca-kawi" category="Letter" script="kawi" production="u11F17" description="KAWI LETTER CA" />
+	<glyph unicode="11F18" name="cha-kawi" category="Letter" script="kawi" production="u11F18" description="KAWI LETTER CHA" />
+	<glyph unicode="11F19" name="ja-kawi" category="Letter" script="kawi" production="u11F19" description="KAWI LETTER JA" />
+	<glyph unicode="11F1A" name="jha-kawi" category="Letter" script="kawi" production="u11F1A" description="KAWI LETTER JHA" />
+	<glyph unicode="11F1B" name="nya-kawi" category="Letter" script="kawi" production="u11F1B" description="KAWI LETTER NYA" />
+	<glyph unicode="11F1C" name="tta-kawi" category="Letter" script="kawi" production="u11F1C" description="KAWI LETTER TTA" />
+	<glyph unicode="11F1D" name="ttha-kawi" category="Letter" script="kawi" production="u11F1D" description="KAWI LETTER TTHA" />
+	<glyph unicode="11F1E" name="dda-kawi" category="Letter" script="kawi" production="u11F1E" description="KAWI LETTER DDA" />
+	<glyph unicode="11F1F" name="ddha-kawi" category="Letter" script="kawi" production="u11F1F" description="KAWI LETTER DDHA" />
+	<glyph unicode="11F20" name="nna-kawi" category="Letter" script="kawi" production="u11F20" description="KAWI LETTER NNA" />
+	<glyph unicode="11F21" name="ta-kawi" category="Letter" script="kawi" production="u11F21" description="KAWI LETTER TA" />
+	<glyph unicode="11F22" name="tha-kawi" category="Letter" script="kawi" production="u11F22" description="KAWI LETTER THA" />
+	<glyph unicode="11F23" name="da-kawi" category="Letter" script="kawi" production="u11F23" description="KAWI LETTER DA" />
+	<glyph unicode="11F24" name="dha-kawi" category="Letter" script="kawi" production="u11F24" description="KAWI LETTER DHA" />
+	<glyph unicode="11F25" name="na-kawi" category="Letter" script="kawi" production="u11F25" description="KAWI LETTER NA" />
+	<glyph unicode="11F26" name="pa-kawi" category="Letter" script="kawi" production="u11F26" description="KAWI LETTER PA" />
+	<glyph unicode="11F27" name="pha-kawi" category="Letter" script="kawi" production="u11F27" description="KAWI LETTER PHA" />
+	<glyph unicode="11F28" name="ba-kawi" category="Letter" script="kawi" production="u11F28" description="KAWI LETTER BA" />
+	<glyph unicode="11F29" name="bha-kawi" category="Letter" script="kawi" production="u11F29" description="KAWI LETTER BHA" />
+	<glyph unicode="11F2A" name="ma-kawi" category="Letter" script="kawi" production="u11F2A" description="KAWI LETTER MA" />
+	<glyph unicode="11F2B" name="ya-kawi" category="Letter" script="kawi" production="u11F2B" description="KAWI LETTER YA" />
+	<glyph unicode="11F2C" name="ra-kawi" category="Letter" script="kawi" production="u11F2C" description="KAWI LETTER RA" />
+	<glyph unicode="11F2D" name="la-kawi" category="Letter" script="kawi" production="u11F2D" description="KAWI LETTER LA" />
+	<glyph unicode="11F2E" name="wa-kawi" category="Letter" script="kawi" production="u11F2E" description="KAWI LETTER WA" />
+	<glyph unicode="11F2F" name="sha-kawi" category="Letter" script="kawi" production="u11F2F" description="KAWI LETTER SHA" />
+	<glyph unicode="11F30" name="ssa-kawi" category="Letter" script="kawi" production="u11F30" description="KAWI LETTER SSA" />
+	<glyph unicode="11F31" name="sa-kawi" category="Letter" script="kawi" production="u11F31" description="KAWI LETTER SA" />
+	<glyph unicode="11F32" name="ha-kawi" category="Letter" script="kawi" production="u11F32" description="KAWI LETTER HA" />
+	<glyph unicode="11F33" name="jnya-kawi" category="Letter" script="kawi" production="u11F33" description="KAWI LETTER JNYA" />
+	<glyph unicode="11F34" name="aaSign-kawi" category="Mark" subCategory="Spacing" script="kawi" production="u11F34" description="KAWI VOWEL SIGN AA" />
+	<glyph unicode="11F35" name="aaSignAlternate-kawi" category="Mark" subCategory="Spacing" script="kawi" production="u11F35" description="KAWI VOWEL SIGN ALTERNATE AA" />
+	<glyph unicode="11F36" name="iSign-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F36" description="KAWI VOWEL SIGN I" />
+	<glyph unicode="11F37" name="iiSign-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F37" description="KAWI VOWEL SIGN II" />
+	<glyph unicode="11F38" name="uSign-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F38" description="KAWI VOWEL SIGN U" />
+	<glyph unicode="11F39" name="uuSign-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F39" description="KAWI VOWEL SIGN UU" />
+	<glyph unicode="11F3A" name="rVocalicSign-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F3A" description="KAWI VOWEL SIGN VOCALIC R" />
+	<glyph unicode="11F3E" name="eSign-kawi" category="Mark" subCategory="Spacing" script="kawi" production="u11F3E" description="KAWI VOWEL SIGN E" />
+	<glyph unicode="11F3F" name="aiSign-kawi" category="Mark" subCategory="Spacing" script="kawi" production="u11F3F" description="KAWI VOWEL SIGN AI" />
+	<glyph unicode="11F40" name="euSign-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F40" description="KAWI VOWEL SIGN EU" />
+	<glyph unicode="11F41" name="killer-kawi" category="Mark" subCategory="Spacing" script="kawi" production="u11F41" description="KAWI SIGN KILLER" />
+	<glyph unicode="11F42" name="conjoiner-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F42" description="KAWI CONJOINER" />
+	<glyph unicode="11F43" name="danda-kawi" category="Punctuation" script="kawi" production="u11F43" description="KAWI DANDA" />
+	<glyph unicode="11F44" name="doubleDanda-kawi" category="Punctuation" script="kawi" production="u11F44" description="KAWI DOUBLE DANDA" />
+	<glyph unicode="11F45" name="section-kawi" category="Punctuation" script="kawi" production="u11F45" description="KAWI PUNCTUATION SECTION MARKER" />
+	<glyph unicode="11F46" name="sectionAlternate-kawi" category="Punctuation" script="kawi" production="u11F46" description="KAWI PUNCTUATION ALTERNATE SECTION MARKER" />
+	<glyph unicode="11F47" name="flower-kawi" category="Punctuation" script="kawi" production="u11F47" description="KAWI PUNCTUATION FLOWER" />
+	<glyph unicode="11F48" name="spaceFiller-kawi" category="Punctuation" script="kawi" production="u11F48" description="KAWI PUNCTUATION SPACE FILLER" />
+	<glyph unicode="11F49" name="dot-kawi" category="Punctuation" script="kawi" production="u11F49" description="KAWI PUNCTUATION DOT" />
+	<glyph unicode="11F4A" name="doubleDot-kawi" category="Punctuation" script="kawi" production="u11F4A" description="KAWI PUNCTUATION DOUBLE DOT" />
+	<glyph unicode="11F4B" name="tripleDot-kawi" category="Punctuation" script="kawi" production="u11F4B" description="KAWI PUNCTUATION TRIPLE DOT" />
+	<glyph unicode="11F4C" name="circle-kawi" category="Punctuation" script="kawi" production="u11F4C" description="KAWI PUNCTUATION CIRCLE" />
+	<glyph unicode="11F4D" name="filledCircle-kawi" category="Punctuation" script="kawi" production="u11F4D" description="KAWI PUNCTUATION FILLED CIRCLE" />
+	<glyph unicode="11F4E" name="spiral-kawi" category="Punctuation" script="kawi" production="u11F4E" description="KAWI PUNCTUATION SPIRAL" />
+	<glyph unicode="11F4F" name="closingSpiral-kawi" category="Punctuation" script="kawi" production="u11F4F" description="KAWI PUNCTUATION CLOSING SPIRAL" />
+	<glyph unicode="11F50" name="zero-kawi" category="Number" script="kawi" production="u11F50" description="KAWI DIGIT ZERO" />
+	<glyph unicode="11F51" name="one-kawi" category="Number" script="kawi" production="u11F51" description="KAWI DIGIT ONE" />
+	<glyph unicode="11F52" name="two-kawi" category="Number" script="kawi" production="u11F52" description="KAWI DIGIT TWO" />
+	<glyph unicode="11F53" name="three-kawi" category="Number" script="kawi" production="u11F53" description="KAWI DIGIT THREE" />
+	<glyph unicode="11F54" name="four-kawi" category="Number" script="kawi" production="u11F54" description="KAWI DIGIT FOUR" />
+	<glyph unicode="11F55" name="five-kawi" category="Number" script="kawi" production="u11F55" description="KAWI DIGIT FIVE" />
+	<glyph unicode="11F56" name="six-kawi" category="Number" script="kawi" production="u11F56" description="KAWI DIGIT SIX" />
+	<glyph unicode="11F57" name="seven-kawi" category="Number" script="kawi" production="u11F57" description="KAWI DIGIT SEVEN" />
+	<glyph unicode="11F58" name="eight-kawi" category="Number" script="kawi" production="u11F58" description="KAWI DIGIT EIGHT" />
+	<glyph unicode="11F59" name="nine-kawi" category="Number" script="kawi" production="u11F59" description="KAWI DIGIT NINE" />
+	<glyph name="rVocalicConj-kawi" category="Mark" subCategory="Spacing" script="kawi" production="u11F4211F0A" description="KAWI LETTER VOCALIC R CONJUNCT" />
+	<glyph name="lVocalicConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F0C" description="KAWI LETTER VOCALIC L CONJUNCT" />
+	<glyph name="kaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F12" description="KAWI LETTER KA CONJUNCT" />
+	<glyph name="khaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F13" description="KAWI LETTER KHA CONJUNCT" />
+	<glyph name="gaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F14" description="KAWI LETTER GA CONJUNCT" />
+	<glyph name="ghaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F15" description="KAWI LETTER GHA CONJUNCT" />
+	<glyph name="ngaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F16" description="KAWI LETTER NGA CONJUNCT" />
+	<glyph name="caConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F17" description="KAWI LETTER CA CONJUNCT" />
+	<glyph name="chaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F18" description="KAWI LETTER CHA CONJUNCT" />
+	<glyph name="jaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F19" description="KAWI LETTER JA CONJUNCT" />
+	<glyph name="jhaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F1A" description="KAWI LETTER JHA CONJUNCT" />
+	<glyph name="nyaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F1B" description="KAWI LETTER NYA CONJUNCT" />
+	<glyph name="ttaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F1C" description="KAWI LETTER TTA CONJUNCT" />
+	<glyph name="tthaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F1D" description="KAWI LETTER TTHA CONJUNCT" />
+	<glyph name="ddaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F1E" description="KAWI LETTER DDA CONJUNCT" />
+	<glyph name="ddhaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F1F" description="KAWI LETTER DDHA CONJUNCT" />
+	<glyph name="nnaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F20" description="KAWI LETTER NNA CONJUNCT" />
+	<glyph name="taConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F21" description="KAWI LETTER TA CONJUNCT" />
+	<glyph name="thaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F22" description="KAWI LETTER THA CONJUNCT" />
+	<glyph name="daConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F23" description="KAWI LETTER DA CONJUNCT" />
+	<glyph name="dhaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F24" description="KAWI LETTER DHA CONJUNCT" />
+	<glyph name="naConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F25" description="KAWI LETTER NA CONJUNCT" />
+	<glyph name="paConj-kawi" category="Mark" subCategory="Spacing" script="kawi" production="u11F4211F26" description="KAWI LETTER PA CONJUNCT" />
+	<glyph name="phaConj-kawi" category="Mark" subCategory="Spacing" script="kawi" production="u11F4211F27" description="KAWI LETTER PHA CONJUNCT" />
+	<glyph name="baConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F28" description="KAWI LETTER BA CONJUNCT" />
+	<glyph name="bhaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F29" description="KAWI LETTER BHA CONJUNCT" />
+	<glyph name="maConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F2A" description="KAWI LETTER MA CONJUNCT" />
+	<glyph name="yaConj-kawi" category="Mark" subCategory="Spacing" script="kawi" production="u11F4211F2B" description="KAWI LETTER YA CONJUNCT" />
+	<glyph name="raConj-kawi" category="Mark" subCategory="Spacing" script="kawi" production="u11F4211F2C" description="KAWI LETTER RA CONJUNCT" />
+	<glyph name="raConj-kawi.below" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F2C.below" description="KAWI LETTER RA CONJUNCT BELOW FORM" />
+	<glyph name="laConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F2D" description="KAWI LETTER LA CONJUNCT" />
+	<glyph name="waConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F2E" description="KAWI LETTER WA CONJUNCT" />
+	<glyph name="shaConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F2F" description="KAWI LETTER SHA CONJUNCT" />
+	<glyph name="ssaConj-kawi" category="Mark" subCategory="Spacing" script="kawi" production="u11F4211F30" description="KAWI LETTER SSA CONJUNCT" />
+	<glyph name="ssaConj-kawi.below" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F30.below" description="KAWI LETTER SSA CONJUNCT BELOW FORM" />
+	<glyph name="saConj-kawi" category="Mark" subCategory="Spacing" script="kawi" production="u11F4211F31" description="KAWI LETTER SA CONJUNCT" />
+	<glyph name="haConj-kawi" category="Mark" subCategory="Nonspacing" script="kawi" production="u11F4211F32" description="KAWI LETTER HA CONJUNCT" />
+	<glyph name="haConj-kawi.post" category="Mark" subCategory="Spacing" script="kawi" production="u11F4211F32.post" description="KAWI LETTER HA CONJUNCT POST FORM" />
+	<glyph name="repha_aaSignAlternate-kawi" category="Mark" subCategory="Spacing" script="kawi" production="u11F0211F35" />
 	<glyph unicode="0F00" name="om-tibet" category="Letter" script="tibet" production="uni0F00" description="TIBETAN SYLLABLE OM" />
 	<glyph unicode="0F01" name="gterYigMgoTruncatedA-tibet" category="Symbol" script="tibet" production="uni0F01" description="TIBETAN MARK GTER YIG MGO TRUNCATED A" />
 	<glyph unicode="0F02" name="gterYigMgoUmRnamBcadMa-tibet" category="Symbol" script="tibet" production="uni0F02" description="TIBETAN MARK GTER YIG MGO -UM RNAM BCAD MA" />
@@ -24982,6 +25196,306 @@
 	<glyph unicode="A4C4" name="zzietRadical-yi" category="Symbol" script="yi" production="uniA4C4" description="YI RADICAL ZZIET" />
 	<glyph unicode="A4C5" name="nbieRadical-yi" category="Symbol" script="yi" production="uniA4C5" description="YI RADICAL NBIE" />
 	<glyph unicode="A4C6" name="keRadical-yi" category="Symbol" script="yi" production="uniA4C6" description="YI RADICAL KE" />
+	<glyph unicode="A500" name="ee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA500" description="VAI SYLLABLE EE" />
+	<glyph unicode="A501" name="een-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA501" description="VAI SYLLABLE EEN" />
+	<glyph unicode="A502" name="hee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA502" description="VAI SYLLABLE HEE" />
+	<glyph unicode="A503" name="wee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA503" description="VAI SYLLABLE WEE" />
+	<glyph unicode="A504" name="ween-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA504" description="VAI SYLLABLE WEEN" />
+	<glyph unicode="A505" name="pee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA505" description="VAI SYLLABLE PEE" />
+	<glyph unicode="A506" name="bhee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA506" description="VAI SYLLABLE BHEE" />
+	<glyph unicode="A507" name="bee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA507" description="VAI SYLLABLE BEE" />
+	<glyph unicode="A508" name="mbee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA508" description="VAI SYLLABLE MBEE" />
+	<glyph unicode="A509" name="kpee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA509" description="VAI SYLLABLE KPEE" />
+	<glyph unicode="A50A" name="mgbee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA50A" description="VAI SYLLABLE MGBEE" />
+	<glyph unicode="A50B" name="gbee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA50B" description="VAI SYLLABLE GBEE" />
+	<glyph unicode="A50C" name="fee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA50C" description="VAI SYLLABLE FEE" />
+	<glyph unicode="A50D" name="vee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA50D" description="VAI SYLLABLE VEE" />
+	<glyph unicode="A50E" name="tee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA50E" description="VAI SYLLABLE TEE" />
+	<glyph unicode="A50F" name="thee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA50F" description="VAI SYLLABLE THEE" />
+	<glyph unicode="A510" name="dhee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA510" description="VAI SYLLABLE DHEE" />
+	<glyph unicode="A511" name="dhhee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA511" description="VAI SYLLABLE DHHEE" />
+	<glyph unicode="A512" name="lee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA512" description="VAI SYLLABLE LEE" />
+	<glyph unicode="A513" name="ree-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA513" description="VAI SYLLABLE REE" />
+	<glyph unicode="A514" name="dee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA514" description="VAI SYLLABLE DEE" />
+	<glyph unicode="A515" name="ndee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA515" description="VAI SYLLABLE NDEE" />
+	<glyph unicode="A516" name="see-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA516" description="VAI SYLLABLE SEE" />
+	<glyph unicode="A517" name="shee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA517" description="VAI SYLLABLE SHEE" />
+	<glyph unicode="A518" name="zee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA518" description="VAI SYLLABLE ZEE" />
+	<glyph unicode="A519" name="zhee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA519" description="VAI SYLLABLE ZHEE" />
+	<glyph unicode="A51A" name="cee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA51A" description="VAI SYLLABLE CEE" />
+	<glyph unicode="A51B" name="jee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA51B" description="VAI SYLLABLE JEE" />
+	<glyph unicode="A51C" name="njee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA51C" description="VAI SYLLABLE NJEE" />
+	<glyph unicode="A51D" name="yee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA51D" description="VAI SYLLABLE YEE" />
+	<glyph unicode="A51E" name="kee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA51E" description="VAI SYLLABLE KEE" />
+	<glyph unicode="A51F" name="nggee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA51F" description="VAI SYLLABLE NGGEE" />
+	<glyph unicode="A520" name="gee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA520" description="VAI SYLLABLE GEE" />
+	<glyph unicode="A521" name="mee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA521" description="VAI SYLLABLE MEE" />
+	<glyph unicode="A522" name="nee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA522" description="VAI SYLLABLE NEE" />
+	<glyph unicode="A523" name="nyee-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA523" description="VAI SYLLABLE NYEE" />
+	<glyph unicode="A524" name="i-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA524" description="VAI SYLLABLE I" />
+	<glyph unicode="A525" name="in-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA525" description="VAI SYLLABLE IN" />
+	<glyph unicode="A526" name="hi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA526" description="VAI SYLLABLE HI" />
+	<glyph unicode="A527" name="hin-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA527" description="VAI SYLLABLE HIN" />
+	<glyph unicode="A528" name="wi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA528" description="VAI SYLLABLE WI" />
+	<glyph unicode="A529" name="win-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA529" description="VAI SYLLABLE WIN" />
+	<glyph unicode="A52A" name="pi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA52A" description="VAI SYLLABLE PI" />
+	<glyph unicode="A52B" name="bhi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA52B" description="VAI SYLLABLE BHI" />
+	<glyph unicode="A52C" name="bi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA52C" description="VAI SYLLABLE BI" />
+	<glyph unicode="A52D" name="mbi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA52D" description="VAI SYLLABLE MBI" />
+	<glyph unicode="A52E" name="kpi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA52E" description="VAI SYLLABLE KPI" />
+	<glyph unicode="A52F" name="mgbi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA52F" description="VAI SYLLABLE MGBI" />
+	<glyph unicode="A530" name="gbi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA530" description="VAI SYLLABLE GBI" />
+	<glyph unicode="A531" name="fi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA531" description="VAI SYLLABLE FI" />
+	<glyph unicode="A532" name="vi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA532" description="VAI SYLLABLE VI" />
+	<glyph unicode="A533" name="ti-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA533" description="VAI SYLLABLE TI" />
+	<glyph unicode="A534" name="thi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA534" description="VAI SYLLABLE THI" />
+	<glyph unicode="A535" name="dhi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA535" description="VAI SYLLABLE DHI" />
+	<glyph unicode="A536" name="dhhi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA536" description="VAI SYLLABLE DHHI" />
+	<glyph unicode="A537" name="li-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA537" description="VAI SYLLABLE LI" />
+	<glyph unicode="A538" name="ri-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA538" description="VAI SYLLABLE RI" />
+	<glyph unicode="A539" name="di-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA539" description="VAI SYLLABLE DI" />
+	<glyph unicode="A53A" name="ndi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA53A" description="VAI SYLLABLE NDI" />
+	<glyph unicode="A53B" name="si-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA53B" description="VAI SYLLABLE SI" />
+	<glyph unicode="A53C" name="shi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA53C" description="VAI SYLLABLE SHI" />
+	<glyph unicode="A53D" name="zi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA53D" description="VAI SYLLABLE ZI" />
+	<glyph unicode="A53E" name="zhi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA53E" description="VAI SYLLABLE ZHI" />
+	<glyph unicode="A53F" name="ci-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA53F" description="VAI SYLLABLE CI" />
+	<glyph unicode="A540" name="ji-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA540" description="VAI SYLLABLE JI" />
+	<glyph unicode="A541" name="nji-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA541" description="VAI SYLLABLE NJI" />
+	<glyph unicode="A542" name="yi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA542" description="VAI SYLLABLE YI" />
+	<glyph unicode="A543" name="ki-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA543" description="VAI SYLLABLE KI" />
+	<glyph unicode="A544" name="nggi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA544" description="VAI SYLLABLE NGGI" />
+	<glyph unicode="A545" name="gi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA545" description="VAI SYLLABLE GI" />
+	<glyph unicode="A546" name="mi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA546" description="VAI SYLLABLE MI" />
+	<glyph unicode="A547" name="ni-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA547" description="VAI SYLLABLE NI" />
+	<glyph unicode="A548" name="nyi-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA548" description="VAI SYLLABLE NYI" />
+	<glyph unicode="A549" name="a-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA549" description="VAI SYLLABLE A" />
+	<glyph unicode="A54A" name="an-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA54A" description="VAI SYLLABLE AN" />
+	<glyph unicode="A54B" name="ngan-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA54B" description="VAI SYLLABLE NGAN" />
+	<glyph unicode="A54C" name="ha-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA54C" description="VAI SYLLABLE HA" />
+	<glyph unicode="A54D" name="han-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA54D" description="VAI SYLLABLE HAN" />
+	<glyph unicode="A54E" name="wa-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA54E" description="VAI SYLLABLE WA" />
+	<glyph unicode="A54F" name="wan-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA54F" description="VAI SYLLABLE WAN" />
+	<glyph unicode="A550" name="pa-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA550" description="VAI SYLLABLE PA" />
+	<glyph unicode="A551" name="bha-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA551" description="VAI SYLLABLE BHA" />
+	<glyph unicode="A552" name="ba-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA552" description="VAI SYLLABLE BA" />
+	<glyph unicode="A553" name="mba-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA553" description="VAI SYLLABLE MBA" />
+	<glyph unicode="A554" name="kpa-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA554" description="VAI SYLLABLE KPA" />
+	<glyph unicode="A555" name="kpan-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA555" description="VAI SYLLABLE KPAN" />
+	<glyph unicode="A556" name="mgba-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA556" description="VAI SYLLABLE MGBA" />
+	<glyph unicode="A557" name="gba-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA557" description="VAI SYLLABLE GBA" />
+	<glyph unicode="A558" name="fa-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA558" description="VAI SYLLABLE FA" />
+	<glyph unicode="A559" name="va-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA559" description="VAI SYLLABLE VA" />
+	<glyph unicode="A55A" name="ta-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA55A" description="VAI SYLLABLE TA" />
+	<glyph unicode="A55B" name="tha-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA55B" description="VAI SYLLABLE THA" />
+	<glyph unicode="A55C" name="dha-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA55C" description="VAI SYLLABLE DHA" />
+	<glyph unicode="A55D" name="dhha-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA55D" description="VAI SYLLABLE DHHA" />
+	<glyph unicode="A55E" name="la-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA55E" description="VAI SYLLABLE LA" />
+	<glyph unicode="A55F" name="ra-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA55F" description="VAI SYLLABLE RA" />
+	<glyph unicode="A560" name="da-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA560" description="VAI SYLLABLE DA" />
+	<glyph unicode="A561" name="nda-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA561" description="VAI SYLLABLE NDA" />
+	<glyph unicode="A562" name="sa-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA562" description="VAI SYLLABLE SA" />
+	<glyph unicode="A563" name="sha-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA563" description="VAI SYLLABLE SHA" />
+	<glyph unicode="A564" name="za-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA564" description="VAI SYLLABLE ZA" />
+	<glyph unicode="A565" name="zha-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA565" description="VAI SYLLABLE ZHA" />
+	<glyph unicode="A566" name="ca-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA566" description="VAI SYLLABLE CA" />
+	<glyph unicode="A567" name="ja-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA567" description="VAI SYLLABLE JA" />
+	<glyph unicode="A568" name="nja-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA568" description="VAI SYLLABLE NJA" />
+	<glyph unicode="A569" name="ya-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA569" description="VAI SYLLABLE YA" />
+	<glyph unicode="A56A" name="ka-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA56A" description="VAI SYLLABLE KA" />
+	<glyph unicode="A56B" name="kan-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA56B" description="VAI SYLLABLE KAN" />
+	<glyph unicode="A56C" name="ngga-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA56C" description="VAI SYLLABLE NGGA" />
+	<glyph unicode="A56D" name="ga-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA56D" description="VAI SYLLABLE GA" />
+	<glyph unicode="A56E" name="ma-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA56E" description="VAI SYLLABLE MA" />
+	<glyph unicode="A56F" name="na-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA56F" description="VAI SYLLABLE NA" />
+	<glyph unicode="A570" name="nya-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA570" description="VAI SYLLABLE NYA" />
+	<glyph unicode="A571" name="oo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA571" description="VAI SYLLABLE OO" />
+	<glyph unicode="A572" name="oon-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA572" description="VAI SYLLABLE OON" />
+	<glyph unicode="A573" name="hoo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA573" description="VAI SYLLABLE HOO" />
+	<glyph unicode="A574" name="woo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA574" description="VAI SYLLABLE WOO" />
+	<glyph unicode="A575" name="woon-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA575" description="VAI SYLLABLE WOON" />
+	<glyph unicode="A576" name="poo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA576" description="VAI SYLLABLE POO" />
+	<glyph unicode="A577" name="bhoo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA577" description="VAI SYLLABLE BHOO" />
+	<glyph unicode="A578" name="boo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA578" description="VAI SYLLABLE BOO" />
+	<glyph unicode="A579" name="mboo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA579" description="VAI SYLLABLE MBOO" />
+	<glyph unicode="A57A" name="kpoo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA57A" description="VAI SYLLABLE KPOO" />
+	<glyph unicode="A57B" name="mgboo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA57B" description="VAI SYLLABLE MGBOO" />
+	<glyph unicode="A57C" name="gboo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA57C" description="VAI SYLLABLE GBOO" />
+	<glyph unicode="A57D" name="foo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA57D" description="VAI SYLLABLE FOO" />
+	<glyph unicode="A57E" name="voo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA57E" description="VAI SYLLABLE VOO" />
+	<glyph unicode="A57F" name="too-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA57F" description="VAI SYLLABLE TOO" />
+	<glyph unicode="A580" name="thoo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA580" description="VAI SYLLABLE THOO" />
+	<glyph unicode="A581" name="dhoo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA581" description="VAI SYLLABLE DHOO" />
+	<glyph unicode="A582" name="dhhoo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA582" description="VAI SYLLABLE DHHOO" />
+	<glyph unicode="A583" name="loo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA583" description="VAI SYLLABLE LOO" />
+	<glyph unicode="A584" name="roo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA584" description="VAI SYLLABLE ROO" />
+	<glyph unicode="A585" name="doo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA585" description="VAI SYLLABLE DOO" />
+	<glyph unicode="A586" name="ndoo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA586" description="VAI SYLLABLE NDOO" />
+	<glyph unicode="A587" name="soo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA587" description="VAI SYLLABLE SOO" />
+	<glyph unicode="A588" name="shoo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA588" description="VAI SYLLABLE SHOO" />
+	<glyph unicode="A589" name="zoo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA589" description="VAI SYLLABLE ZOO" />
+	<glyph unicode="A58A" name="zhoo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA58A" description="VAI SYLLABLE ZHOO" />
+	<glyph unicode="A58B" name="coo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA58B" description="VAI SYLLABLE COO" />
+	<glyph unicode="A58C" name="joo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA58C" description="VAI SYLLABLE JOO" />
+	<glyph unicode="A58D" name="njoo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA58D" description="VAI SYLLABLE NJOO" />
+	<glyph unicode="A58E" name="yoo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA58E" description="VAI SYLLABLE YOO" />
+	<glyph unicode="A58F" name="koo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA58F" description="VAI SYLLABLE KOO" />
+	<glyph unicode="A590" name="nggoo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA590" description="VAI SYLLABLE NGGOO" />
+	<glyph unicode="A591" name="goo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA591" description="VAI SYLLABLE GOO" />
+	<glyph unicode="A592" name="moo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA592" description="VAI SYLLABLE MOO" />
+	<glyph unicode="A593" name="noo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA593" description="VAI SYLLABLE NOO" />
+	<glyph unicode="A594" name="nyoo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA594" description="VAI SYLLABLE NYOO" />
+	<glyph unicode="A595" name="u-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA595" description="VAI SYLLABLE U" />
+	<glyph unicode="A596" name="un-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA596" description="VAI SYLLABLE UN" />
+	<glyph unicode="A597" name="hu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA597" description="VAI SYLLABLE HU" />
+	<glyph unicode="A598" name="hun-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA598" description="VAI SYLLABLE HUN" />
+	<glyph unicode="A599" name="wu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA599" description="VAI SYLLABLE WU" />
+	<glyph unicode="A59A" name="wun-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA59A" description="VAI SYLLABLE WUN" />
+	<glyph unicode="A59B" name="pu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA59B" description="VAI SYLLABLE PU" />
+	<glyph unicode="A59C" name="bhu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA59C" description="VAI SYLLABLE BHU" />
+	<glyph unicode="A59D" name="bu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA59D" description="VAI SYLLABLE BU" />
+	<glyph unicode="A59E" name="mbu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA59E" description="VAI SYLLABLE MBU" />
+	<glyph unicode="A59F" name="kpu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA59F" description="VAI SYLLABLE KPU" />
+	<glyph unicode="A5A0" name="mgbu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5A0" description="VAI SYLLABLE MGBU" />
+	<glyph unicode="A5A1" name="gbu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5A1" description="VAI SYLLABLE GBU" />
+	<glyph unicode="A5A2" name="fu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5A2" description="VAI SYLLABLE FU" />
+	<glyph unicode="A5A3" name="vu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5A3" description="VAI SYLLABLE VU" />
+	<glyph unicode="A5A4" name="tu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5A4" description="VAI SYLLABLE TU" />
+	<glyph unicode="A5A5" name="thu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5A5" description="VAI SYLLABLE THU" />
+	<glyph unicode="A5A6" name="dhu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5A6" description="VAI SYLLABLE DHU" />
+	<glyph unicode="A5A7" name="dhhu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5A7" description="VAI SYLLABLE DHHU" />
+	<glyph unicode="A5A8" name="lu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5A8" description="VAI SYLLABLE LU" />
+	<glyph unicode="A5A9" name="ru-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5A9" description="VAI SYLLABLE RU" />
+	<glyph unicode="A5AA" name="du-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5AA" description="VAI SYLLABLE DU" />
+	<glyph unicode="A5AB" name="ndu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5AB" description="VAI SYLLABLE NDU" />
+	<glyph unicode="A5AC" name="su-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5AC" description="VAI SYLLABLE SU" />
+	<glyph unicode="A5AD" name="shu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5AD" description="VAI SYLLABLE SHU" />
+	<glyph unicode="A5AE" name="zu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5AE" description="VAI SYLLABLE ZU" />
+	<glyph unicode="A5AF" name="zhu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5AF" description="VAI SYLLABLE ZHU" />
+	<glyph unicode="A5B0" name="cu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5B0" description="VAI SYLLABLE CU" />
+	<glyph unicode="A5B1" name="ju-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5B1" description="VAI SYLLABLE JU" />
+	<glyph unicode="A5B2" name="nuu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5B2" description="VAI SYLLABLE NUU" />
+	<glyph unicode="A5B3" name="yu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5B3" description="VAI SYLLABLE YU" />
+	<glyph unicode="A5B4" name="ku-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5B4" description="VAI SYLLABLE KU" />
+	<glyph unicode="A5B5" name="nggu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5B5" description="VAI SYLLABLE NGGU" />
+	<glyph unicode="A5B6" name="gu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5B6" description="VAI SYLLABLE GU" />
+	<glyph unicode="A5B7" name="mu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5B7" description="VAI SYLLABLE MU" />
+	<glyph unicode="A5B8" name="nu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5B8" description="VAI SYLLABLE NU" />
+	<glyph unicode="A5B9" name="nyu-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5B9" description="VAI SYLLABLE NYU" />
+	<glyph unicode="A5BA" name="o-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5BA" description="VAI SYLLABLE O" />
+	<glyph unicode="A5BB" name="on-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5BB" description="VAI SYLLABLE ON" />
+	<glyph unicode="A5BC" name="ngon-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5BC" description="VAI SYLLABLE NGON" />
+	<glyph unicode="A5BD" name="ho-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5BD" description="VAI SYLLABLE HO" />
+	<glyph unicode="A5BE" name="hon-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5BE" description="VAI SYLLABLE HON" />
+	<glyph unicode="A5BF" name="wo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5BF" description="VAI SYLLABLE WO" />
+	<glyph unicode="A5C0" name="won-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5C0" description="VAI SYLLABLE WON" />
+	<glyph unicode="A5C1" name="po-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5C1" description="VAI SYLLABLE PO" />
+	<glyph unicode="A5C2" name="bho-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5C2" description="VAI SYLLABLE BHO" />
+	<glyph unicode="A5C3" name="bo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5C3" description="VAI SYLLABLE BO" />
+	<glyph unicode="A5C4" name="mbo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5C4" description="VAI SYLLABLE MBO" />
+	<glyph unicode="A5C5" name="kpo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5C5" description="VAI SYLLABLE KPO" />
+	<glyph unicode="A5C6" name="mgbo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5C6" description="VAI SYLLABLE MGBO" />
+	<glyph unicode="A5C7" name="gbo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5C7" description="VAI SYLLABLE GBO" />
+	<glyph unicode="A5C8" name="gbon-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5C8" description="VAI SYLLABLE GBON" />
+	<glyph unicode="A5C9" name="fo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5C9" description="VAI SYLLABLE FO" />
+	<glyph unicode="A5CA" name="vo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5CA" description="VAI SYLLABLE VO" />
+	<glyph unicode="A5CB" name="to-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5CB" description="VAI SYLLABLE TO" />
+	<glyph unicode="A5CC" name="tho-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5CC" description="VAI SYLLABLE THO" />
+	<glyph unicode="A5CD" name="dho-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5CD" description="VAI SYLLABLE DHO" />
+	<glyph unicode="A5CE" name="dhho-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5CE" description="VAI SYLLABLE DHHO" />
+	<glyph unicode="A5CF" name="lo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5CF" description="VAI SYLLABLE LO" />
+	<glyph unicode="A5D0" name="ro-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5D0" description="VAI SYLLABLE RO" />
+	<glyph unicode="A5D1" name="do-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5D1" description="VAI SYLLABLE DO" />
+	<glyph unicode="A5D2" name="ndo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5D2" description="VAI SYLLABLE NDO" />
+	<glyph unicode="A5D3" name="so-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5D3" description="VAI SYLLABLE SO" />
+	<glyph unicode="A5D4" name="sho-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5D4" description="VAI SYLLABLE SHO" />
+	<glyph unicode="A5D5" name="zo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5D5" description="VAI SYLLABLE ZO" />
+	<glyph unicode="A5D6" name="zho-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5D6" description="VAI SYLLABLE ZHO" />
+	<glyph unicode="A5D7" name="co-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5D7" description="VAI SYLLABLE CO" />
+	<glyph unicode="A5D8" name="jo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5D8" description="VAI SYLLABLE JO" />
+	<glyph unicode="A5D9" name="njo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5D9" description="VAI SYLLABLE NJO" />
+	<glyph unicode="A5DA" name="yo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5DA" description="VAI SYLLABLE YO" />
+	<glyph unicode="A5DB" name="ko-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5DB" description="VAI SYLLABLE KO" />
+	<glyph unicode="A5DC" name="nggo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5DC" description="VAI SYLLABLE NGGO" />
+	<glyph unicode="A5DD" name="go-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5DD" description="VAI SYLLABLE GO" />
+	<glyph unicode="A5DE" name="mo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5DE" description="VAI SYLLABLE MO" />
+	<glyph unicode="A5DF" name="no-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5DF" description="VAI SYLLABLE NO" />
+	<glyph unicode="A5E0" name="nyo-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5E0" description="VAI SYLLABLE NYO" />
+	<glyph unicode="A5E1" name="e-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5E1" description="VAI SYLLABLE E" />
+	<glyph unicode="A5E2" name="en-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5E2" description="VAI SYLLABLE EN" />
+	<glyph unicode="A5E3" name="ngen-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5E3" description="VAI SYLLABLE NGEN" />
+	<glyph unicode="A5E4" name="he-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5E4" description="VAI SYLLABLE HE" />
+	<glyph unicode="A5E5" name="hen-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5E5" description="VAI SYLLABLE HEN" />
+	<glyph unicode="A5E6" name="we-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5E6" description="VAI SYLLABLE WE" />
+	<glyph unicode="A5E7" name="wen-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5E7" description="VAI SYLLABLE WEN" />
+	<glyph unicode="A5E8" name="pe-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5E8" description="VAI SYLLABLE PE" />
+	<glyph unicode="A5E9" name="bhe-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5E9" description="VAI SYLLABLE BHE" />
+	<glyph unicode="A5EA" name="be-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5EA" description="VAI SYLLABLE BE" />
+	<glyph unicode="A5EB" name="mbe-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5EB" description="VAI SYLLABLE MBE" />
+	<glyph unicode="A5EC" name="kpe-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5EC" description="VAI SYLLABLE KPE" />
+	<glyph unicode="A5ED" name="kpen-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5ED" description="VAI SYLLABLE KPEN" />
+	<glyph unicode="A5EE" name="mgbe-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5EE" description="VAI SYLLABLE MGBE" />
+	<glyph unicode="A5EF" name="gbe-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5EF" description="VAI SYLLABLE GBE" />
+	<glyph unicode="A5F0" name="gben-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5F0" description="VAI SYLLABLE GBEN" />
+	<glyph unicode="A5F1" name="fe-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5F1" description="VAI SYLLABLE FE" />
+	<glyph unicode="A5F2" name="ve-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5F2" description="VAI SYLLABLE VE" />
+	<glyph unicode="A5F3" name="te-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5F3" description="VAI SYLLABLE TE" />
+	<glyph unicode="A5F4" name="the-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5F4" description="VAI SYLLABLE THE" />
+	<glyph unicode="A5F5" name="dhe-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5F5" description="VAI SYLLABLE DHE" />
+	<glyph unicode="A5F6" name="dhhe-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5F6" description="VAI SYLLABLE DHHE" />
+	<glyph unicode="A5F7" name="le-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5F7" description="VAI SYLLABLE LE" />
+	<glyph unicode="A5F8" name="re-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5F8" description="VAI SYLLABLE RE" />
+	<glyph unicode="A5F9" name="de-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5F9" description="VAI SYLLABLE DE" />
+	<glyph unicode="A5FA" name="nde-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5FA" description="VAI SYLLABLE NDE" />
+	<glyph unicode="A5FB" name="se-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5FB" description="VAI SYLLABLE SE" />
+	<glyph unicode="A5FC" name="she-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5FC" description="VAI SYLLABLE SHE" />
+	<glyph unicode="A5FD" name="ze-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5FD" description="VAI SYLLABLE ZE" />
+	<glyph unicode="A5FE" name="zhe-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5FE" description="VAI SYLLABLE ZHE" />
+	<glyph unicode="A5FF" name="ce-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA5FF" description="VAI SYLLABLE CE" />
+	<glyph unicode="A600" name="je-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA600" description="VAI SYLLABLE JE" />
+	<glyph unicode="A601" name="nje-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA601" description="VAI SYLLABLE NJE" />
+	<glyph unicode="A602" name="ye-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA602" description="VAI SYLLABLE YE" />
+	<glyph unicode="A603" name="ke-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA603" description="VAI SYLLABLE KE" />
+	<glyph unicode="A604" name="ngge-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA604" description="VAI SYLLABLE NGGE" />
+	<glyph unicode="A605" name="nggen-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA605" description="VAI SYLLABLE NGGEN" />
+	<glyph unicode="A606" name="ge-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA606" description="VAI SYLLABLE GE" />
+	<glyph unicode="A607" name="gen-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA607" description="VAI SYLLABLE GEN" />
+	<glyph unicode="A608" name="me-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA608" description="VAI SYLLABLE ME" />
+	<glyph unicode="A609" name="ne-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA609" description="VAI SYLLABLE NE" />
+	<glyph unicode="A60A" name="nye-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA60A" description="VAI SYLLABLE NYE" />
+	<glyph unicode="A60B" name="ng-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA60B" description="VAI SYLLABLE NG" />
+	<glyph unicode="A60C" name="lengthener-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA60C" description="VAI SYLLABLE LENGTHENER" />
+	<glyph unicode="A60D" name="comma-vai" category="Punctuation" script="vai" production="uniA60D" description="VAI COMMA" />
+	<glyph unicode="A60E" name="period-vai" category="Punctuation" script="vai" production="uniA60E" description="VAI FULL STOP" />
+	<glyph unicode="A60F" name="question-vai" category="Punctuation" script="vai" production="uniA60F" description="VAI QUESTION MARK" />
+	<glyph unicode="A610" name="faNdole-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA610" description="VAI SYLLABLE NDOLE FA" />
+	<glyph unicode="A611" name="kaNdole-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA611" description="VAI SYLLABLE NDOLE KA" />
+	<glyph unicode="A612" name="sooNdole-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA612" description="VAI SYLLABLE NDOLE SOO" />
+	<glyph unicode="A62A" name="maNdole-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA62A" description="VAI SYLLABLE NDOLE MA" />
+	<glyph unicode="A62B" name="doNdole-vai" category="Letter" subCategory="Syllable" script="vai" production="uniA62B" description="VAI SYLLABLE NDOLE DO" />
+	<glyph unicode="A613" name="feeng-vai" category="Symbol" script="vai" production="uniA613" description="VAI SYMBOL FEENG" />
+	<glyph unicode="A614" name="keeng-vai" category="Symbol" script="vai" production="uniA614" description="VAI SYMBOL KEENG" />
+	<glyph unicode="A615" name="ting-vai" category="Symbol" script="vai" production="uniA615" description="VAI SYMBOL TING" />
+	<glyph unicode="A616" name="nii-vai" category="Symbol" script="vai" production="uniA616" description="VAI SYMBOL NII" />
+	<glyph unicode="A617" name="bang-vai" category="Symbol" script="vai" production="uniA617" description="VAI SYMBOL BANG" />
+	<glyph unicode="A618" name="faa-vai" category="Symbol" script="vai" production="uniA618" description="VAI SYMBOL FAA" />
+	<glyph unicode="A619" name="taa-vai" category="Symbol" script="vai" production="uniA619" description="VAI SYMBOL TAA" />
+	<glyph unicode="A61A" name="dang-vai" category="Symbol" script="vai" production="uniA61A" description="VAI SYMBOL DANG" />
+	<glyph unicode="A61B" name="doong-vai" category="Symbol" script="vai" production="uniA61B" description="VAI SYMBOL DOONG" />
+	<glyph unicode="A61C" name="kung-vai" category="Symbol" script="vai" production="uniA61C" description="VAI SYMBOL KUNG" />
+	<glyph unicode="A61D" name="tong-vai" category="Symbol" script="vai" production="uniA61D" description="VAI SYMBOL TONG" />
+	<glyph unicode="A61E" name="doO-vai" category="Symbol" script="vai" production="uniA61E" description="VAI SYMBOL DO-O" />
+	<glyph unicode="A61F" name="jong-vai" category="Symbol" script="vai" production="uniA61F" description="VAI SYMBOL JONG" />
+	<glyph unicode="A620" name="zero-vai" category="Number" script="vai" production="uniA620" description="VAI DIGIT ZERO" />
+	<glyph unicode="A621" name="one-vai" category="Number" script="vai" production="uniA621" description="VAI DIGIT ONE" />
+	<glyph unicode="A622" name="two-vai" category="Number" script="vai" production="uniA622" description="VAI DIGIT TWO" />
+	<glyph unicode="A623" name="three-vai" category="Number" script="vai" production="uniA623" description="VAI DIGIT THREE" />
+	<glyph unicode="A624" name="four-vai" category="Number" script="vai" production="uniA624" description="VAI DIGIT FOUR" />
+	<glyph unicode="A625" name="five-vai" category="Number" script="vai" production="uniA625" description="VAI DIGIT FIVE" />
+	<glyph unicode="A626" name="six-vai" category="Number" script="vai" production="uniA626" description="VAI DIGIT SIX" />
+	<glyph unicode="A627" name="seven-vai" category="Number" script="vai" production="uniA627" description="VAI DIGIT SEVEN" />
+	<glyph unicode="A628" name="eight-vai" category="Number" script="vai" production="uniA628" description="VAI DIGIT EIGHT" />
+	<glyph unicode="A629" name="nine-vai" category="Number" script="vai" production="uniA629" description="VAI DIGIT NINE" />
 	<glyph unicode="A6A0" name="a-bamum" category="Letter" script="bamum" production="uniA6A0" description="BAMUM LETTER A" />
 	<glyph unicode="A6A1" name="ka-bamum" category="Letter" script="bamum" production="uniA6A1" description="BAMUM LETTER KA" />
 	<glyph unicode="A6A2" name="u-bamum" category="Letter" script="bamum" production="uniA6A2" description="BAMUM LETTER U" />
