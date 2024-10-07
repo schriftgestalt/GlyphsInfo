@@ -5941,153 +5941,68 @@
 	<glyph unicode="07AE" name="obofili-thaana" category="Mark" subCategory="Nonspacing" script="thaana" production="uni07AE" direction="RTL" description="THAANA OBOFILI" />
 	<glyph unicode="07AF" name="oaboafili-thaana" category="Mark" subCategory="Nonspacing" script="thaana" production="uni07AF" direction="RTL" description="THAANA OABOAFILI" />
 	<glyph unicode="07B0" name="sukun-thaana" category="Mark" subCategory="Nonspacing" script="thaana" production="uni07B0" direction="RTL" description="THAANA SUKUN" />
-	<glyph unicode="07C0" name="zero-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C0" description="NKO DIGIT ZERO" />
-	<glyph unicode="07C1" name="one-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C1" description="NKO DIGIT ONE" />
-	<glyph unicode="07C2" name="two-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C2" description="NKO DIGIT TWO" />
-	<glyph unicode="07C3" name="three-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C3" description="NKO DIGIT THREE" />
-	<glyph unicode="07C4" name="four-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C4" description="NKO DIGIT FOUR" />
-	<glyph unicode="07C5" name="five-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C5" description="NKO DIGIT FIVE" />
-	<glyph unicode="07C6" name="six-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C6" description="NKO DIGIT SIX" />
-	<glyph unicode="07C7" name="seven-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C7" description="NKO DIGIT SEVEN" />
-	<glyph unicode="07C8" name="eight-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C8" description="NKO DIGIT EIGHT" />
-	<glyph unicode="07C9" name="nine-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C9" description="NKO DIGIT NINE" />
-	<glyph unicode="07CA" name="a-nko" category="Letter" script="nko" production="uni07CA" description="NKO LETTER A" />
-	<glyph unicode="07CB" name="ee-nko" category="Letter" script="nko" production="uni07CB" description="NKO LETTER EE" />
-	<glyph unicode="07CC" name="i-nko" category="Letter" script="nko" production="uni07CC" description="NKO LETTER I" />
-	<glyph unicode="07CD" name="e-nko" category="Letter" script="nko" production="uni07CD" description="NKO LETTER E" />
-	<glyph unicode="07CE" name="u-nko" category="Letter" script="nko" production="uni07CE" description="NKO LETTER U" />
-	<glyph unicode="07CF" name="oo-nko" category="Letter" script="nko" production="uni07CF" description="NKO LETTER OO" />
-	<glyph unicode="07D0" name="o-nko" category="Letter" script="nko" production="uni07D0" description="NKO LETTER O" />
-	<glyph unicode="07D1" name="dagbasinna-nko" category="Letter" script="nko" production="uni07D1" description="NKO LETTER DAGBASINNA" />
-	<glyph unicode="07D2" name="n-nko" category="Letter" script="nko" production="uni07D2" description="NKO LETTER N" />
-	<glyph unicode="07D3" name="ba-nko" category="Letter" script="nko" production="uni07D3" description="NKO LETTER BA" />
-	<glyph unicode="07D4" name="pa-nko" category="Letter" script="nko" production="uni07D4" description="NKO LETTER PA" />
-	<glyph unicode="07D5" name="ta-nko" category="Letter" script="nko" production="uni07D5" description="NKO LETTER TA" />
-	<glyph unicode="07D6" name="ja-nko" category="Letter" script="nko" production="uni07D6" description="NKO LETTER JA" />
-	<glyph unicode="07D7" name="cha-nko" category="Letter" script="nko" production="uni07D7" description="NKO LETTER CHA" />
-	<glyph unicode="07D8" name="da-nko" category="Letter" script="nko" production="uni07D8" description="NKO LETTER DA" />
-	<glyph unicode="07D9" name="ra-nko" category="Letter" script="nko" production="uni07D9" description="NKO LETTER RA" />
-	<glyph unicode="07DA" name="rra-nko" category="Letter" script="nko" production="uni07DA" description="NKO LETTER RRA" />
-	<glyph unicode="07DB" name="sa-nko" category="Letter" script="nko" production="uni07DB" description="NKO LETTER SA" />
-	<glyph unicode="07DC" name="gba-nko" category="Letter" script="nko" production="uni07DC" description="NKO LETTER GBA" />
-	<glyph unicode="07DD" name="fa-nko" category="Letter" script="nko" production="uni07DD" description="NKO LETTER FA" />
-	<glyph unicode="07DE" name="ka-nko" category="Letter" script="nko" production="uni07DE" description="NKO LETTER KA" />
-	<glyph unicode="07DF" name="la-nko" category="Letter" script="nko" production="uni07DF" description="NKO LETTER LA" />
-	<glyph unicode="07E0" name="nawoloso-nko" category="Letter" script="nko" production="uni07E0" description="NKO LETTER NA WOLOSO" />
-	<glyph unicode="07E1" name="ma-nko" category="Letter" script="nko" production="uni07E1" description="NKO LETTER MA" />
-	<glyph unicode="07E2" name="nya-nko" category="Letter" script="nko" production="uni07E2" description="NKO LETTER NYA" />
-	<glyph unicode="07E3" name="na-nko" category="Letter" script="nko" production="uni07E3" description="NKO LETTER NA" />
-	<glyph unicode="07E4" name="ha-nko" category="Letter" script="nko" production="uni07E4" description="NKO LETTER HA" />
-	<glyph unicode="07E5" name="wa-nko" category="Letter" script="nko" production="uni07E5" description="NKO LETTER WA" />
-	<glyph unicode="07E6" name="ya-nko" category="Letter" script="nko" production="uni07E6" description="NKO LETTER YA" />
-	<glyph unicode="07E7" name="nyawoloso-nko" category="Letter" script="nko" production="uni07E7" description="NKO LETTER NYA WOLOSO" />
-	<glyph unicode="07E8" name="jonaja-nko" category="Letter" script="nko" production="uni07E8" description="NKO LETTER JONA JA" />
-	<glyph unicode="07E9" name="jonacha-nko" category="Letter" script="nko" production="uni07E9" description="NKO LETTER JONA CHA" />
-	<glyph unicode="07EA" name="jonara-nko" category="Letter" script="nko" production="uni07EA" description="NKO LETTER JONA RA" />
-	<glyph unicode="07EB" name="shorthightonecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07EB" description="NKO COMBINING SHORT HIGH TONE" />
-	<glyph unicode="07EC" name="shortlowtonecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07EC" description="NKO COMBINING SHORT LOW TONE" />
-	<glyph unicode="07ED" name="shortrisingtonecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07ED" description="NKO COMBINING SHORT RISING TONE" />
-	<glyph unicode="07EE" name="longdescendingtonecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07EE" description="NKO COMBINING LONG DESCENDING TONE" />
-	<glyph unicode="07EF" name="longhightonecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07EF" description="NKO COMBINING LONG HIGH TONE" />
-	<glyph unicode="07F0" name="longlowtonecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07F0" description="NKO COMBINING LONG LOW TONE" />
-	<glyph unicode="07F1" name="longrisingtonecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07F1" description="NKO COMBINING LONG RISING TONE" />
-	<glyph unicode="07F2" name="nasalizationcomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07F2" description="NKO COMBINING NASALIZATION MARK" />
-	<glyph unicode="07F3" name="doubledotabovecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07F3" description="NKO COMBINING DOUBLE DOT ABOVE" />
-	<glyph unicode="07F4" name="hightoneapostrophe-nko" category="Letter" subCategory="Modifier" script="nko" production="uni07F4" description="NKO HIGH TONE APOSTROPHE" />
-	<glyph unicode="07F5" name="lowtoneapostrophe-nko" category="Letter" subCategory="Modifier" script="nko" production="uni07F5" description="NKO LOW TONE APOSTROPHE" />
-	<glyph unicode="07F6" name="ooDennen-nko" category="Symbol" script="nko" production="uni07F6" description="NKO SYMBOL OO DENNEN" />
-	<glyph unicode="07F7" name="gbakurunen-nko" category="Punctuation" script="nko" production="uni07F7" description="NKO SYMBOL GBAKURUNEN" />
-	<glyph unicode="07F8" name="comma-nko" category="Punctuation" script="nko" production="uni07F8" description="NKO COMMA" />
-	<glyph unicode="07F9" name="exclam-nko" category="Punctuation" script="nko" production="uni07F9" description="NKO EXCLAMATION MARK" />
-	<glyph unicode="07FA" name="lajanyalan-nko" category="Letter" subCategory="Modifier" script="nko" production="uni07FA" description="NKO LAJANYALAN" />
-	<glyph unicode="1E900" name="Alif-adlam" category="Letter" case="upper" script="adlam" production="u1E900" description="ADLAM CAPITAL LETTER ALIF" />
-	<glyph unicode="1E901" name="Daali-adlam" category="Letter" case="upper" script="adlam" production="u1E901" description="ADLAM CAPITAL LETTER DAALI" />
-	<glyph unicode="1E902" name="Laam-adlam" category="Letter" case="upper" script="adlam" production="u1E902" description="ADLAM CAPITAL LETTER LAAM" />
-	<glyph unicode="1E903" name="Miim-adlam" category="Letter" case="upper" script="adlam" production="u1E903" description="ADLAM CAPITAL LETTER MIIM" />
-	<glyph unicode="1E904" name="Ba-adlam" category="Letter" case="upper" script="adlam" production="u1E904" description="ADLAM CAPITAL LETTER BA" />
-	<glyph unicode="1E905" name="Sinnyiiyhe-adlam" category="Letter" case="upper" script="adlam" production="u1E905" description="ADLAM CAPITAL LETTER SINNYIIYHE" />
-	<glyph unicode="1E906" name="Pe-adlam" category="Letter" case="upper" script="adlam" production="u1E906" description="ADLAM CAPITAL LETTER PE" />
-	<glyph unicode="1E907" name="Bhe-adlam" category="Letter" case="upper" script="adlam" production="u1E907" description="ADLAM CAPITAL LETTER BHE" />
-	<glyph unicode="1E908" name="Ra-adlam" category="Letter" case="upper" script="adlam" production="u1E908" description="ADLAM CAPITAL LETTER RA" />
-	<glyph unicode="1E909" name="E-adlam" category="Letter" case="upper" script="adlam" production="u1E909" description="ADLAM CAPITAL LETTER E" />
-	<glyph unicode="1E90A" name="Fa-adlam" category="Letter" case="upper" script="adlam" production="u1E90A" description="ADLAM CAPITAL LETTER FA" />
-	<glyph unicode="1E90B" name="I-adlam" category="Letter" case="upper" script="adlam" production="u1E90B" description="ADLAM CAPITAL LETTER I" />
-	<glyph unicode="1E90C" name="O-adlam" category="Letter" case="upper" script="adlam" production="u1E90C" description="ADLAM CAPITAL LETTER O" />
-	<glyph unicode="1E90D" name="Dha-adlam" category="Letter" case="upper" script="adlam" production="u1E90D" description="ADLAM CAPITAL LETTER DHA" />
-	<glyph unicode="1E90E" name="Yhe-adlam" category="Letter" case="upper" script="adlam" production="u1E90E" description="ADLAM CAPITAL LETTER YHE" />
-	<glyph unicode="1E90F" name="Waw-adlam" category="Letter" case="upper" script="adlam" production="u1E90F" description="ADLAM CAPITAL LETTER WAW" />
-	<glyph unicode="1E910" name="Nun-adlam" category="Letter" case="upper" script="adlam" production="u1E910" description="ADLAM CAPITAL LETTER NUN" />
-	<glyph unicode="1E911" name="Kaf-adlam" category="Letter" case="upper" script="adlam" production="u1E911" description="ADLAM CAPITAL LETTER KAF" />
-	<glyph unicode="1E912" name="Ya-adlam" category="Letter" case="upper" script="adlam" production="u1E912" description="ADLAM CAPITAL LETTER YA" />
-	<glyph unicode="1E913" name="U-adlam" category="Letter" case="upper" script="adlam" production="u1E913" description="ADLAM CAPITAL LETTER U" />
-	<glyph unicode="1E914" name="Jiim-adlam" category="Letter" case="upper" script="adlam" production="u1E914" description="ADLAM CAPITAL LETTER JIIM" />
-	<glyph unicode="1E915" name="Chi-adlam" category="Letter" case="upper" script="adlam" production="u1E915" description="ADLAM CAPITAL LETTER CHI" />
-	<glyph unicode="1E916" name="Ha-adlam" category="Letter" case="upper" script="adlam" production="u1E916" description="ADLAM CAPITAL LETTER HA" />
-	<glyph unicode="1E917" name="Qaaf-adlam" category="Letter" case="upper" script="adlam" production="u1E917" description="ADLAM CAPITAL LETTER QAAF" />
-	<glyph unicode="1E918" name="Ga-adlam" category="Letter" case="upper" script="adlam" production="u1E918" description="ADLAM CAPITAL LETTER GA" />
-	<glyph unicode="1E919" name="Nya-adlam" category="Letter" case="upper" script="adlam" production="u1E919" description="ADLAM CAPITAL LETTER NYA" />
-	<glyph unicode="1E91A" name="Tu-adlam" category="Letter" case="upper" script="adlam" production="u1E91A" description="ADLAM CAPITAL LETTER TU" />
-	<glyph unicode="1E91B" name="Nha-adlam" category="Letter" case="upper" script="adlam" production="u1E91B" description="ADLAM CAPITAL LETTER NHA" />
-	<glyph unicode="1E91C" name="Va-adlam" category="Letter" case="upper" script="adlam" production="u1E91C" description="ADLAM CAPITAL LETTER VA" />
-	<glyph unicode="1E91D" name="Kha-adlam" category="Letter" case="upper" script="adlam" production="u1E91D" description="ADLAM CAPITAL LETTER KHA" />
-	<glyph unicode="1E91E" name="Gbe-adlam" category="Letter" case="upper" script="adlam" production="u1E91E" description="ADLAM CAPITAL LETTER GBE" />
-	<glyph unicode="1E91F" name="Zal-adlam" category="Letter" case="upper" script="adlam" production="u1E91F" description="ADLAM CAPITAL LETTER ZAL" />
-	<glyph unicode="1E920" name="Kpo-adlam" category="Letter" case="upper" script="adlam" production="u1E920" description="ADLAM CAPITAL LETTER KPO" />
-	<glyph unicode="1E921" name="Sha-adlam" category="Letter" case="upper" script="adlam" production="u1E921" description="ADLAM CAPITAL LETTER SHA" />
-	<glyph unicode="1E922" name="alif-adlam" category="Letter" case="lower" script="adlam" production="u1E922" description="ADLAM SMALL LETTER ALIF" />
-	<glyph unicode="1E923" name="daali-adlam" category="Letter" case="lower" script="adlam" production="u1E923" description="ADLAM SMALL LETTER DAALI" />
-	<glyph unicode="1E924" name="laam-adlam" category="Letter" case="lower" script="adlam" production="u1E924" description="ADLAM SMALL LETTER LAAM" />
-	<glyph unicode="1E925" name="miim-adlam" category="Letter" case="lower" script="adlam" production="u1E925" description="ADLAM SMALL LETTER MIIM" />
-	<glyph unicode="1E926" name="ba-adlam" category="Letter" case="lower" script="adlam" production="u1E926" description="ADLAM SMALL LETTER BA" />
-	<glyph unicode="1E927" name="sinnyiiyhe-adlam" category="Letter" case="lower" script="adlam" production="u1E927" description="ADLAM SMALL LETTER SINNYIIYHE" />
-	<glyph unicode="1E928" name="pe-adlam" category="Letter" case="lower" script="adlam" production="u1E928" description="ADLAM SMALL LETTER PE" />
-	<glyph unicode="1E929" name="bhe-adlam" category="Letter" case="lower" script="adlam" production="u1E929" description="ADLAM SMALL LETTER BHE" />
-	<glyph unicode="1E92A" name="ra-adlam" category="Letter" case="lower" script="adlam" production="u1E92A" description="ADLAM SMALL LETTER RA" />
-	<glyph unicode="1E92B" name="e-adlam" category="Letter" case="lower" script="adlam" production="u1E92B" description="ADLAM SMALL LETTER E" />
-	<glyph unicode="1E92C" name="fa-adlam" category="Letter" case="lower" script="adlam" production="u1E92C" description="ADLAM SMALL LETTER FA" />
-	<glyph unicode="1E92D" name="i-adlam" category="Letter" case="lower" script="adlam" production="u1E92D" description="ADLAM SMALL LETTER I" />
-	<glyph unicode="1E92E" name="o-adlam" category="Letter" case="lower" script="adlam" production="u1E92E" description="ADLAM SMALL LETTER O" />
-	<glyph unicode="1E92F" name="dha-adlam" category="Letter" case="lower" script="adlam" production="u1E92F" description="ADLAM SMALL LETTER DHA" />
-	<glyph unicode="1E930" name="yhe-adlam" category="Letter" case="lower" script="adlam" production="u1E930" description="ADLAM SMALL LETTER YHE" />
-	<glyph unicode="1E931" name="waw-adlam" category="Letter" case="lower" script="adlam" production="u1E931" description="ADLAM SMALL LETTER WAW" />
-	<glyph unicode="1E932" name="nun-adlam" category="Letter" case="lower" script="adlam" production="u1E932" description="ADLAM SMALL LETTER NUN" />
-	<glyph unicode="1E933" name="kaf-adlam" category="Letter" case="lower" script="adlam" production="u1E933" description="ADLAM SMALL LETTER KAF" />
-	<glyph unicode="1E934" name="ya-adlam" category="Letter" case="lower" script="adlam" production="u1E934" description="ADLAM SMALL LETTER YA" />
-	<glyph unicode="1E935" name="u-adlam" category="Letter" case="lower" script="adlam" production="u1E935" description="ADLAM SMALL LETTER U" />
-	<glyph unicode="1E936" name="jiim-adlam" category="Letter" case="lower" script="adlam" production="u1E936" description="ADLAM SMALL LETTER JIIM" />
-	<glyph unicode="1E937" name="chi-adlam" category="Letter" case="lower" script="adlam" production="u1E937" description="ADLAM SMALL LETTER CHI" />
-	<glyph unicode="1E938" name="ha-adlam" category="Letter" case="lower" script="adlam" production="u1E938" description="ADLAM SMALL LETTER HA" />
-	<glyph unicode="1E939" name="qaaf-adlam" category="Letter" case="lower" script="adlam" production="u1E939" description="ADLAM SMALL LETTER QAAF" />
-	<glyph unicode="1E93A" name="ga-adlam" category="Letter" case="lower" script="adlam" production="u1E93A" description="ADLAM SMALL LETTER GA" />
-	<glyph unicode="1E93B" name="nya-adlam" category="Letter" case="lower" script="adlam" production="u1E93B" description="ADLAM SMALL LETTER NYA" />
-	<glyph unicode="1E93C" name="tu-adlam" category="Letter" case="lower" script="adlam" production="u1E93C" description="ADLAM SMALL LETTER TU" />
-	<glyph unicode="1E93D" name="nha-adlam" category="Letter" case="lower" script="adlam" production="u1E93D" description="ADLAM SMALL LETTER NHA" />
-	<glyph unicode="1E93E" name="va-adlam" category="Letter" case="lower" script="adlam" production="u1E93E" description="ADLAM SMALL LETTER VA" />
-	<glyph unicode="1E93F" name="kha-adlam" category="Letter" case="lower" script="adlam" production="u1E93F" description="ADLAM SMALL LETTER KHA" />
-	<glyph unicode="1E940" name="gbe-adlam" category="Letter" case="lower" script="adlam" production="u1E940" description="ADLAM SMALL LETTER GBE" />
-	<glyph unicode="1E941" name="zal-adlam" category="Letter" case="lower" script="adlam" production="u1E941" description="ADLAM SMALL LETTER ZAL" />
-	<glyph unicode="1E942" name="kpo-adlam" category="Letter" case="lower" script="adlam" production="u1E942" description="ADLAM SMALL LETTER KPO" />
-	<glyph unicode="1E943" name="sha-adlam" category="Letter" case="lower" script="adlam" production="u1E943" description="ADLAM SMALL LETTER SHA" />
-	<glyph unicode="1E950" name="zero-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E950" description="ADLAM DIGIT ZERO" />
-	<glyph unicode="1E951" name="one-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E951" description="ADLAM DIGIT ONE" />
-	<glyph unicode="1E952" name="two-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E952" description="ADLAM DIGIT TWO" />
-	<glyph unicode="1E953" name="three-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E953" description="ADLAM DIGIT THREE" />
-	<glyph unicode="1E954" name="four-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E954" description="ADLAM DIGIT FOUR" />
-	<glyph unicode="1E955" name="five-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E955" description="ADLAM DIGIT FIVE" />
-	<glyph unicode="1E956" name="six-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E956" description="ADLAM DIGIT SIX" />
-	<glyph unicode="1E957" name="seven-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E957" description="ADLAM DIGIT SEVEN" />
-	<glyph unicode="1E958" name="eight-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E958" description="ADLAM DIGIT EIGHT" />
-	<glyph unicode="1E959" name="nine-adlam" category="Number" subCategory="Decimal Digit" script="adlam" production="u1E959" description="ADLAM DIGIT NINE" />
-	<glyph unicode="1E95E" name="exclam-adlam" category="Punctuation" script="adlam" production="u1E95E" description="ADLAM INITIAL EXCLAMATION MARK" />
-	<glyph unicode="1E95F" name="question-adlam" category="Punctuation" script="adlam" production="u1E95F" description="ADLAM INITIAL QUESTION MARK" />
-	<glyph unicode="1E944" name="aliflengthencomb-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E944" description="ADLAM ALIF LENGTHENER" />
-	<glyph unicode="1E945" name="vowellengthencomb-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E945" description="ADLAM VOWEL LENGTHENER" />
-	<glyph unicode="1E946" name="gemination-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E946" description="ADLAM GEMINATION MARK" />
-	<glyph unicode="1E947" name="hamza-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E947" description="ADLAM HAMZA" />
-	<glyph unicode="1E948" name="consonantmodcomb-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E948" description="ADLAM CONSONANT MODIFIER" />
-	<glyph unicode="1E949" name="gemconsonantmodcomb-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E949" description="ADLAM GERMINATE CONSONANT MODIFIER" />
-	<glyph unicode="1E94A" name="hoortobbhere-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E94A" description="ADLAM HOORTOBBHERE" />
-	<glyph unicode="1E94B" name="lestobbhere-adlam" category="Mark" subCategory="Nonspacing" script="adlam" production="u1E94B" description="ADLAM LESTOBBHERE" />
+	<glyph unicode="07C0" name="zero-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C0" direction="RTL" description="NKO DIGIT ZERO" />
+	<glyph unicode="07C1" name="one-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C1" direction="RTL" description="NKO DIGIT ONE" />
+	<glyph unicode="07C2" name="two-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C2" direction="RTL" description="NKO DIGIT TWO" />
+	<glyph unicode="07C3" name="three-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C3" direction="RTL" description="NKO DIGIT THREE" />
+	<glyph unicode="07C4" name="four-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C4" direction="RTL" description="NKO DIGIT FOUR" />
+	<glyph unicode="07C5" name="five-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C5" direction="RTL" description="NKO DIGIT FIVE" />
+	<glyph unicode="07C6" name="six-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C6" direction="RTL" description="NKO DIGIT SIX" />
+	<glyph unicode="07C7" name="seven-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C7" direction="RTL" description="NKO DIGIT SEVEN" />
+	<glyph unicode="07C8" name="eight-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C8" direction="RTL" description="NKO DIGIT EIGHT" />
+	<glyph unicode="07C9" name="nine-nko" category="Number" subCategory="Decimal Digit" script="nko" production="uni07C9" direction="RTL" description="NKO DIGIT NINE" />
+	<glyph unicode="07CA" name="a-nko" category="Letter" script="nko" production="uni07CA" direction="RTL" description="NKO LETTER A" />
+	<glyph unicode="07CB" name="ee-nko" category="Letter" script="nko" production="uni07CB" direction="RTL" description="NKO LETTER EE" />
+	<glyph unicode="07CC" name="i-nko" category="Letter" script="nko" production="uni07CC" direction="RTL" description="NKO LETTER I" />
+	<glyph unicode="07CD" name="e-nko" category="Letter" script="nko" production="uni07CD" direction="RTL" description="NKO LETTER E" />
+	<glyph unicode="07CE" name="u-nko" category="Letter" script="nko" production="uni07CE" direction="RTL" description="NKO LETTER U" />
+	<glyph unicode="07CF" name="oo-nko" category="Letter" script="nko" production="uni07CF" direction="RTL" description="NKO LETTER OO" />
+	<glyph unicode="07D0" name="o-nko" category="Letter" script="nko" production="uni07D0" direction="RTL" description="NKO LETTER O" />
+	<glyph unicode="07D1" name="dagbasinna-nko" category="Letter" script="nko" production="uni07D1" direction="RTL" description="NKO LETTER DAGBASINNA" />
+	<glyph unicode="07D2" name="n-nko" category="Letter" script="nko" production="uni07D2" direction="RTL" description="NKO LETTER N" />
+	<glyph unicode="07D3" name="ba-nko" category="Letter" script="nko" production="uni07D3" direction="RTL" description="NKO LETTER BA" />
+	<glyph unicode="07D4" name="pa-nko" category="Letter" script="nko" production="uni07D4" direction="RTL" description="NKO LETTER PA" />
+	<glyph unicode="07D5" name="ta-nko" category="Letter" script="nko" production="uni07D5" direction="RTL" description="NKO LETTER TA" />
+	<glyph unicode="07D6" name="ja-nko" category="Letter" script="nko" production="uni07D6" direction="RTL" description="NKO LETTER JA" />
+	<glyph unicode="07D7" name="cha-nko" category="Letter" script="nko" production="uni07D7" direction="RTL" description="NKO LETTER CHA" />
+	<glyph unicode="07D8" name="da-nko" category="Letter" script="nko" production="uni07D8" direction="RTL" description="NKO LETTER DA" />
+	<glyph unicode="07D9" name="ra-nko" category="Letter" script="nko" production="uni07D9" direction="RTL" description="NKO LETTER RA" />
+	<glyph unicode="07DA" name="rra-nko" category="Letter" script="nko" production="uni07DA" direction="RTL" description="NKO LETTER RRA" />
+	<glyph unicode="07DB" name="sa-nko" category="Letter" script="nko" production="uni07DB" direction="RTL" description="NKO LETTER SA" />
+	<glyph unicode="07DC" name="gba-nko" category="Letter" script="nko" production="uni07DC" direction="RTL" description="NKO LETTER GBA" />
+	<glyph unicode="07DD" name="fa-nko" category="Letter" script="nko" production="uni07DD" direction="RTL" description="NKO LETTER FA" />
+	<glyph unicode="07DE" name="ka-nko" category="Letter" script="nko" production="uni07DE" direction="RTL" description="NKO LETTER KA" />
+	<glyph unicode="07DF" name="la-nko" category="Letter" script="nko" production="uni07DF" direction="RTL" description="NKO LETTER LA" />
+	<glyph unicode="07E0" name="nawoloso-nko" category="Letter" script="nko" production="uni07E0" direction="RTL" description="NKO LETTER NA WOLOSO" />
+	<glyph unicode="07E1" name="ma-nko" category="Letter" script="nko" production="uni07E1" direction="RTL" description="NKO LETTER MA" />
+	<glyph unicode="07E2" name="nya-nko" category="Letter" script="nko" production="uni07E2" direction="RTL" description="NKO LETTER NYA" />
+	<glyph unicode="07E3" name="na-nko" category="Letter" script="nko" production="uni07E3" direction="RTL" description="NKO LETTER NA" />
+	<glyph unicode="07E4" name="ha-nko" category="Letter" script="nko" production="uni07E4" direction="RTL" description="NKO LETTER HA" />
+	<glyph unicode="07E5" name="wa-nko" category="Letter" script="nko" production="uni07E5" direction="RTL" description="NKO LETTER WA" />
+	<glyph unicode="07E6" name="ya-nko" category="Letter" script="nko" production="uni07E6" direction="RTL" description="NKO LETTER YA" />
+	<glyph unicode="07E7" name="nyawoloso-nko" category="Letter" script="nko" production="uni07E7" direction="RTL" description="NKO LETTER NYA WOLOSO" />
+	<glyph unicode="07E8" name="jonaja-nko" category="Letter" script="nko" production="uni07E8" direction="RTL" description="NKO LETTER JONA JA" />
+	<glyph unicode="07E9" name="jonacha-nko" category="Letter" script="nko" production="uni07E9" direction="RTL" description="NKO LETTER JONA CHA" />
+	<glyph unicode="07EA" name="jonara-nko" category="Letter" script="nko" production="uni07EA" direction="RTL" description="NKO LETTER JONA RA" />
+	<glyph unicode="07EB" name="shorthightonecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07EB" direction="RTL" description="NKO COMBINING SHORT HIGH TONE" />
+	<glyph unicode="07EC" name="shortlowtonecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07EC" direction="RTL" description="NKO COMBINING SHORT LOW TONE" />
+	<glyph unicode="07ED" name="shortrisingtonecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07ED" direction="RTL" description="NKO COMBINING SHORT RISING TONE" />
+	<glyph unicode="07EE" name="longdescendingtonecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07EE" direction="RTL" description="NKO COMBINING LONG DESCENDING TONE" />
+	<glyph unicode="07EF" name="longhightonecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07EF" direction="RTL" description="NKO COMBINING LONG HIGH TONE" />
+	<glyph unicode="07F0" name="longlowtonecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07F0" direction="RTL" description="NKO COMBINING LONG LOW TONE" />
+	<glyph unicode="07F1" name="longrisingtonecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07F1" direction="RTL" description="NKO COMBINING LONG RISING TONE" />
+	<glyph unicode="07F2" name="nasalizationcomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07F2" direction="RTL" description="NKO COMBINING NASALIZATION MARK" />
+	<glyph unicode="07F3" name="doubledotabovecomb-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07F3" direction="RTL" description="NKO COMBINING DOUBLE DOT ABOVE" />
+	<glyph unicode="07F4" name="hightoneapostrophe-nko" category="Letter" subCategory="Modifier" script="nko" production="uni07F4" direction="RTL" description="NKO HIGH TONE APOSTROPHE" />
+	<glyph unicode="07F5" name="lowtoneapostrophe-nko" category="Letter" subCategory="Modifier" script="nko" production="uni07F5" direction="RTL" description="NKO LOW TONE APOSTROPHE" />
+	<glyph unicode="07F6" name="ooDennen-nko" category="Symbol" script="nko" production="uni07F6" direction="RTL" description="NKO SYMBOL OO DENNEN" />
+	<glyph unicode="07F7" name="gbakurunen-nko" category="Punctuation" script="nko" production="uni07F7" direction="RTL" description="NKO SYMBOL GBAKURUNEN" />
+	<glyph unicode="07F8" name="comma-nko" category="Punctuation" script="nko" production="uni07F8" direction="RTL" description="NKO COMMA" />
+	<glyph unicode="07F9" name="exclam-nko" category="Punctuation" script="nko" production="uni07F9" direction="RTL" description="NKO EXCLAMATION MARK" />
+	<glyph unicode="07FA" name="lajanyalan-nko" category="Letter" subCategory="Modifier" script="nko" production="uni07FA" direction="RTL" description="NKO LAJANYALAN" />
+	<glyph unicode="07FD" name="dantayalan-nko" category="Mark" subCategory="Nonspacing" script="nko" production="uni07FD" direction="RTL" description="NKO COMBINING DANTAYALAN" />
+	<glyph unicode="07FE" name="dorome-nko" category="Symbol" subCategory="Currency" script="nko" production="uni07FE" direction="RTL" description="NKO DOROME SIGN" />
+	<glyph unicode="07FF" name="taman-nko" category="Symbol" subCategory="Currency" script="nko" production="uni07FF" direction="RTL" description="NKO TAMAN SIGN" />
 	<glyph unicode="1E900" name="Alif-adlam" category="Letter" case="upper" script="adlam" production="u1E900" direction="RTL" description="ADLAM CAPITAL LETTER ALIF" />
 	<glyph unicode="1E901" name="Daali-adlam" category="Letter" case="upper" script="adlam" production="u1E901" direction="RTL" description="ADLAM CAPITAL LETTER DAALI" />
 	<glyph unicode="1E902" name="Laam-adlam" category="Letter" case="upper" script="adlam" production="u1E902" direction="RTL" description="ADLAM CAPITAL LETTER LAAM" />
