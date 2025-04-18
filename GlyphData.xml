@@ -33678,6 +33678,54 @@
 	<glyph unicode="10525" name="ghe-elbasan" category="Letter" script="elbasan" production="u10525" description="ELBASAN LETTER GHE" />
 	<glyph unicode="10526" name="ghamma-elbasan" category="Letter" script="elbasan" production="u10526" description="ELBASAN LETTER GHAMMA" />
 	<glyph unicode="10527" name="khe-elbasan" category="Letter" script="elbasan" production="u10527" description="ELBASAN LETTER KHE" />
+	<glyph unicode="10E80" name="elif-yezidi" category="Letter" script="yezidi" production="u10E80" direction="RTL" description="YEZIDI LETTER ELIF" />
+	<glyph unicode="10E81" name="be-yezidi" category="Letter" script="yezidi" production="u10E81" direction="RTL" description="YEZIDI LETTER BE" />
+	<glyph unicode="10E82" name="pe-yezidi" category="Letter" script="yezidi" production="u10E82" direction="RTL" description="YEZIDI LETTER PE" />
+	<glyph unicode="10E83" name="phe-yezidi" category="Letter" script="yezidi" production="u10E83" direction="RTL" description="YEZIDI LETTER PHE" />
+	<glyph unicode="10E84" name="the-yezidi" category="Letter" script="yezidi" production="u10E84" direction="RTL" description="YEZIDI LETTER THE" />
+	<glyph unicode="10E85" name="se-yezidi" category="Letter" script="yezidi" production="u10E85" direction="RTL" description="YEZIDI LETTER SE" />
+	<glyph unicode="10E86" name="cim-yezidi" category="Letter" script="yezidi" production="u10E86" direction="RTL" description="YEZIDI LETTER CIM" />
+	<glyph unicode="10E87" name="chim-yezidi" category="Letter" script="yezidi" production="u10E87" direction="RTL" description="YEZIDI LETTER CHIM" />
+	<glyph unicode="10E88" name="chhim-yezidi" category="Letter" script="yezidi" production="u10E88" direction="RTL" description="YEZIDI LETTER CHHIM" />
+	<glyph unicode="10E89" name="hha-yezidi" category="Letter" script="yezidi" production="u10E89" direction="RTL" description="YEZIDI LETTER HHA" />
+	<glyph unicode="10E8A" name="xa-yezidi" category="Letter" script="yezidi" production="u10E8A" direction="RTL" description="YEZIDI LETTER XA" />
+	<glyph unicode="10E8B" name="dal-yezidi" category="Letter" script="yezidi" production="u10E8B" direction="RTL" description="YEZIDI LETTER DAL" />
+	<glyph unicode="10E8C" name="zal-yezidi" category="Letter" script="yezidi" production="u10E8C" direction="RTL" description="YEZIDI LETTER ZAL" />
+	<glyph unicode="10E8D" name="ra-yezidi" category="Letter" script="yezidi" production="u10E8D" direction="RTL" description="YEZIDI LETTER RA" />
+	<glyph unicode="10E8E" name="rha-yezidi" category="Letter" script="yezidi" production="u10E8E" direction="RTL" description="YEZIDI LETTER RHA" />
+	<glyph unicode="10E8F" name="za-yezidi" category="Letter" script="yezidi" production="u10E8F" direction="RTL" description="YEZIDI LETTER ZA" />
+	<glyph unicode="10E90" name="ja-yezidi" category="Letter" script="yezidi" production="u10E90" direction="RTL" description="YEZIDI LETTER JA" />
+	<glyph unicode="10E91" name="sin-yezidi" category="Letter" script="yezidi" production="u10E91" direction="RTL" description="YEZIDI LETTER SIN" />
+	<glyph unicode="10E92" name="shin-yezidi" category="Letter" script="yezidi" production="u10E92" direction="RTL" description="YEZIDI LETTER SHIN" />
+	<glyph unicode="10E93" name="sad-yezidi" category="Letter" script="yezidi" production="u10E93" direction="RTL" description="YEZIDI LETTER SAD" />
+	<glyph unicode="10E94" name="dad-yezidi" category="Letter" script="yezidi" production="u10E94" direction="RTL" description="YEZIDI LETTER DAD" />
+	<glyph unicode="10E95" name="ta-yezidi" category="Letter" script="yezidi" production="u10E95" direction="RTL" description="YEZIDI LETTER TA" />
+	<glyph unicode="10E96" name="ze-yezidi" category="Letter" script="yezidi" production="u10E96" direction="RTL" description="YEZIDI LETTER ZE" />
+	<glyph unicode="10E97" name="eyn-yezidi" category="Letter" script="yezidi" production="u10E97" direction="RTL" description="YEZIDI LETTER EYN" />
+	<glyph unicode="10E98" name="xheyn-yezidi" category="Letter" script="yezidi" production="u10E98" direction="RTL" description="YEZIDI LETTER XHEYN" />
+	<glyph unicode="10E99" name="fa-yezidi" category="Letter" script="yezidi" production="u10E99" direction="RTL" description="YEZIDI LETTER FA" />
+	<glyph unicode="10E9A" name="va-yezidi" category="Letter" script="yezidi" production="u10E9A" direction="RTL" description="YEZIDI LETTER VA" />
+	<glyph unicode="10E9B" name="vaalternate-yezidi" category="Letter" script="yezidi" production="u10E9B" direction="RTL" description="YEZIDI LETTER VA ALTERNATE FORM" />
+	<glyph unicode="10E9C" name="qaf-yezidi" category="Letter" script="yezidi" production="u10E9C" direction="RTL" description="YEZIDI LETTER QAF" />
+	<glyph unicode="10E9D" name="kaf-yezidi" category="Letter" script="yezidi" production="u10E9D" direction="RTL" description="YEZIDI LETTER KAF" />
+	<glyph unicode="10E9E" name="khaf-yezidi" category="Letter" script="yezidi" production="u10E9E" direction="RTL" description="YEZIDI LETTER KHAF" />
+	<glyph unicode="10E9F" name="gaf-yezidi" category="Letter" script="yezidi" production="u10E9F" direction="RTL" description="YEZIDI LETTER GAF" />
+	<glyph unicode="10EA0" name="lam-yezidi" category="Letter" script="yezidi" production="u10EA0" direction="RTL" description="YEZIDI LETTER LAM" />
+	<glyph unicode="10EA1" name="mim-yezidi" category="Letter" script="yezidi" production="u10EA1" direction="RTL" description="YEZIDI LETTER MIM" />
+	<glyph unicode="10EA2" name="nun-yezidi" category="Letter" script="yezidi" production="u10EA2" direction="RTL" description="YEZIDI LETTER NUN" />
+	<glyph unicode="10EA3" name="um-yezidi" category="Letter" script="yezidi" production="u10EA3" direction="RTL" description="YEZIDI LETTER UM" />
+	<glyph unicode="10EA4" name="waw-yezidi" category="Letter" script="yezidi" production="u10EA4" direction="RTL" description="YEZIDI LETTER WAW" />
+	<glyph unicode="10EA5" name="ow-yezidi" category="Letter" script="yezidi" production="u10EA5" direction="RTL" description="YEZIDI LETTER OW" />
+	<glyph unicode="10EA6" name="ew-yezidi" category="Letter" script="yezidi" production="u10EA6" direction="RTL" description="YEZIDI LETTER EW" />
+	<glyph unicode="10EA7" name="hay-yezidi" category="Letter" script="yezidi" production="u10EA7" direction="RTL" description="YEZIDI LETTER HAY" />
+	<glyph unicode="10EA8" name="yot-yezidi" category="Letter" script="yezidi" production="u10EA8" direction="RTL" description="YEZIDI LETTER YOT" />
+	<glyph unicode="10EA9" name="et-yezidi" category="Letter" script="yezidi" production="u10EA9" direction="RTL" description="YEZIDI LETTER ET" />
+	<glyph unicode="10EAB" name="hamzacomb-yezidi" category="Mark" subCategory="Nonspacing" script="yezidi" production="u10EAB" direction="RTL" description="YEZIDI COMBINING HAMZA MARK" />
+	<glyph unicode="10EAC" name="maddacomb-yezidi" category="Mark" subCategory="Nonspacing" script="yezidi" production="u10EAC" direction="RTL" description="YEZIDI COMBINING MADDA MARK" />
+	<glyph unicode="10EAD" name="hyphenation-yezidi" category="Punctuation" subCategory="Dash" script="yezidi" production="u10EAD" direction="RTL" description="YEZIDI HYPHENATION MARK" />
+	<glyph unicode="10EB0" name="lamdotabove-yezidi" category="Letter" script="yezidi" production="u10EB0" direction="RTL" description="YEZIDI LETTER LAM WITH DOT ABOVE" />
+	<glyph unicode="10EB1" name="yotcircumflexabove-yezidi" category="Letter" script="yezidi" production="u10EB1" direction="RTL" description="YEZIDI LETTER YOT WITH CIRCUMFLEX ABOVE" />
+	<glyph name="_bar-yezidi" category="Mark" subCategory="Nonspacing" script="yezidi" direction="RTL" description="YEZIDI BAR COMPONENT" />
 	<glyph unicode="E0001" name="language.tag" category="Symbol" subCategory="Format" production="uE0001" description="LANGUAGE TAG" />
 	<glyph unicode="E0020" name="space.tag" category="Symbol" subCategory="Format" production="uE0020" description="TAG SPACE" />
 	<glyph unicode="E0021" name="exclamationmark.tag" category="Symbol" subCategory="Format" production="uE0021" description="TAG EXCLAMATION MARK" />
