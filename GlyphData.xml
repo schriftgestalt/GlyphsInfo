@@ -9986,22 +9986,22 @@
 	<glyph unicode="30FD" name="iteration-kata" category="Mark" subCategory="Modifier" script="kana" production="uni30FD" altNames="iterationkatakana" description="KATAKANA ITERATION MARK" />
 	<glyph unicode="30FE" name="voicediteration-kata" category="Mark" subCategory="Modifier" script="kana" production="uni30FE" altNames="voicediterationkatakana" description="KATAKANA VOICED ITERATION MARK" />
 	<glyph unicode="30FF" name="digraphkoto-kata" category="Letter" script="kana" production="uni30FF" description="KATAKANA DIGRAPH KOTO" />
-	<glyph unicode="3190" name="linkingAnnotaion-han" category="Symbol" script="han" production="uni3190" description="IDEOGRAPHIC ANNOTATION LINKING MARK" />
+	<glyph unicode="3190" name="linkingAnnotation-han" category="Symbol" script="han" production="uni3190" altNames="linkingAnnotaion-han" description="IDEOGRAPHIC ANNOTATION LINKING MARK" />
 	<glyph unicode="3191" name="reverseAnnotation-han" category="Symbol" script="han" production="uni3191" description="IDEOGRAPHIC ANNOTATION REVERSE MARK" />
-	<glyph unicode="3192" name="oneAnnotaion-han" category="Symbol" script="han" production="uni3192" description="IDEOGRAPHIC ANNOTATION ONE MARK" />
-	<glyph unicode="3193" name="twoAnnotaion-han" category="Symbol" script="han" production="uni3193" description="IDEOGRAPHIC ANNOTATION TWO MARK" />
-	<glyph unicode="3194" name="threeAnnotaion-han" category="Symbol" script="han" production="uni3194" description="IDEOGRAPHIC ANNOTATION THREE MARK" />
-	<glyph unicode="3195" name="fourAnnotaion-han" category="Symbol" script="han" production="uni3195" description="IDEOGRAPHIC ANNOTATION FOUR MARK" />
-	<glyph unicode="3196" name="topAnnotaion-han" category="Symbol" script="han" production="uni3196" description="IDEOGRAPHIC ANNOTATION TOP MARK" />
-	<glyph unicode="3197" name="middleAnnotaion-han" category="Symbol" script="han" production="uni3197" description="IDEOGRAPHIC ANNOTATION MIDDLE MARK" />
-	<glyph unicode="3198" name="bottomAnnotaion-han" category="Symbol" script="han" production="uni3198" description="IDEOGRAPHIC ANNOTATION BOTTOM MARK" />
-	<glyph unicode="3199" name="firstAnnotaion-han" category="Symbol" script="han" production="uni3199" description="IDEOGRAPHIC ANNOTATION FIRST MARK" />
-	<glyph unicode="319A" name="secondAnnotaion-han" category="Symbol" script="han" production="uni319A" description="IDEOGRAPHIC ANNOTATION SECOND MARK" />
-	<glyph unicode="319B" name="thirdAnnotaion-han" category="Symbol" script="han" production="uni319B" description="IDEOGRAPHIC ANNOTATION THIRD MARK" />
-	<glyph unicode="319C" name="fourthAnnotaion-han" category="Symbol" script="han" production="uni319C" description="IDEOGRAPHIC ANNOTATION FOURTH MARK" />
-	<glyph unicode="319D" name="heavenAnnotaion-han" category="Symbol" script="han" production="uni319D" description="IDEOGRAPHIC ANNOTATION HEAVEN MARK" />
-	<glyph unicode="319E" name="earthAnnotaion-han" category="Symbol" script="han" production="uni319E" description="IDEOGRAPHIC ANNOTATION EARTH MARK" />
-	<glyph unicode="319F" name="manAnnotaion-han" category="Symbol" script="han" production="uni319F" description="IDEOGRAPHIC ANNOTATION MAN MARK" />
+	<glyph unicode="3192" name="oneAnnotation-han" category="Symbol" script="han" production="uni3192" altNames="oneAnnotaion-han" description="IDEOGRAPHIC ANNOTATION ONE MARK" />
+	<glyph unicode="3193" name="twoAnnotation-han" category="Symbol" script="han" production="uni3193" altNames="twoAnnotaion-han" description="IDEOGRAPHIC ANNOTATION TWO MARK" />
+	<glyph unicode="3194" name="threeAnnotation-han" category="Symbol" script="han" production="uni3194" altNames="threeAnnotaion-han" description="IDEOGRAPHIC ANNOTATION THREE MARK" />
+	<glyph unicode="3195" name="fourAnnotation-han" category="Symbol" script="han" production="uni3195" altNames="fourAnnotaion-han" description="IDEOGRAPHIC ANNOTATION FOUR MARK" />
+	<glyph unicode="3196" name="topAnnotation-han" category="Symbol" script="han" production="uni3196" altNames="topAnnotaion-han" description="IDEOGRAPHIC ANNOTATION TOP MARK" />
+	<glyph unicode="3197" name="middleAnnotation-han" category="Symbol" script="han" production="uni3197" altNames="middleAnnotaion-han" description="IDEOGRAPHIC ANNOTATION MIDDLE MARK" />
+	<glyph unicode="3198" name="bottomAnnotation-han" category="Symbol" script="han" production="uni3198" altNames="bottomAnnotaion-han" description="IDEOGRAPHIC ANNOTATION BOTTOM MARK" />
+	<glyph unicode="3199" name="firstAnnotation-han" category="Symbol" script="han" production="uni3199" altNames="firstAnnotaion-han" description="IDEOGRAPHIC ANNOTATION FIRST MARK" />
+	<glyph unicode="319A" name="secondAnnotation-han" category="Symbol" script="han" production="uni319A" altNames="secondAnnotaion-han" description="IDEOGRAPHIC ANNOTATION SECOND MARK" />
+	<glyph unicode="319B" name="thirdAnnotation-han" category="Symbol" script="han" production="uni319B" altNames="thirdAnnotaion-han" description="IDEOGRAPHIC ANNOTATION THIRD MARK" />
+	<glyph unicode="319C" name="fourthAnnotation-han" category="Symbol" script="han" production="uni319C" altNames="fourthAnnotaion-han" description="IDEOGRAPHIC ANNOTATION FOURTH MARK" />
+	<glyph unicode="319D" name="heavenAnnotation-han" category="Symbol" script="han" production="uni319D" altNames="heavenAnnotaion-han" description="IDEOGRAPHIC ANNOTATION HEAVEN MARK" />
+	<glyph unicode="319E" name="earthAnnotation-han" category="Symbol" script="han" production="uni319E" altNames="earthAnnotaion-han" description="IDEOGRAPHIC ANNOTATION EARTH MARK" />
+	<glyph unicode="319F" name="manAnnotation-han" category="Symbol" script="han" production="uni319F" altNames="manAnnotaion-han" description="IDEOGRAPHIC ANNOTATION MAN MARK" />
 	<glyph unicode="32D0" name="a-kata.circled" category="Letter" script="kana" production="uni32D0" description="CIRCLED KATAKANA A" />
 	<glyph unicode="32D1" name="i-kata.circled" category="Letter" script="kana" production="uni32D1" description="CIRCLED KATAKANA I" />
 	<glyph unicode="32D2" name="u-kata.circled" category="Letter" script="kana" production="uni32D2" description="CIRCLED KATAKANA U" />
