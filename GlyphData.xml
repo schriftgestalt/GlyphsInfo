@@ -4755,6 +4755,46 @@
 	<glyph unicode="0632" name="zain-ar" category="Letter" script="arabic" production="uni0632" direction="RTL" altNames="afii57426, zainarabic" description="ARABIC LETTER ZAIN" />
 	<glyph unicodeLegacy="FEAF" name="zain-ar.isol" category="Letter" script="arabic" production="uni0632.isol" direction="RTL" description="ARABIC LETTER ZAIN ISOLATED FORM" />
 	<glyph unicodeLegacy="FEB0" name="zain-ar.fina" category="Letter" script="arabic" production="uni0632.fina" direction="RTL" altNames="zainfinalarabic" description="ARABIC LETTER ZAIN FINAL FORM" />
+	<glyph unicode="0870" name="alefFathaattached-ar" category="Letter" script="arabic" production="uni0870" direction="RTL" description="ARABIC LETTER ALEF WITH ATTACHED FATHA" />
+	<glyph unicode="0871" name="alefToprightfathaattached-ar" category="Letter" script="arabic" production="uni0871" direction="RTL" description="ARABIC LETTER ALEF WITH ATTACHED TOP RIGHT FATHA" />
+	<glyph unicode="0872" name="alefRightmiddlestroke-ar" category="Letter" script="arabic" production="uni0872" direction="RTL" description="ARABIC LETTER ALEF WITH RIGHT MIDDLE STROKE" />
+	<glyph unicode="0873" name="alefLeftmiddlestroke-ar" category="Letter" script="arabic" production="uni0873" direction="RTL" description="ARABIC LETTER ALEF WITH LEFT MIDDLE STROKE" />
+	<glyph unicode="0874" name="alefKasraattached-ar" category="Letter" script="arabic" production="uni0874" direction="RTL" description="ARABIC LETTER ALEF WITH ATTACHED KASRA" />
+	<glyph unicode="0875" name="alefBottomrightkasraattached-ar" category="Letter" script="arabic" production="uni0875" direction="RTL" description="ARABIC LETTER ALEF WITH ATTACHED BOTTOM RIGHT KASRA" />
+	<glyph unicode="0876" name="alefRounddotaboveattached-ar" category="Letter" script="arabic" production="uni0876" direction="RTL" description="ARABIC LETTER ALEF WITH ATTACHED ROUND DOT ABOVE" />
+	<glyph unicode="0877" name="alefRightrounddotattached-ar" category="Letter" script="arabic" production="uni0877" direction="RTL" description="ARABIC LETTER ALEF WITH ATTACHED RIGHT ROUND DOT" />
+	<glyph unicode="0878" name="alefLeftrounddotattached-ar" category="Letter" script="arabic" production="uni0878" direction="RTL" description="ARABIC LETTER ALEF WITH ATTACHED LEFT ROUND DOT" />
+	<glyph unicode="0879" name="alefRounddotbelowattached-ar" category="Letter" script="arabic" production="uni0879" direction="RTL" description="ARABIC LETTER ALEF WITH ATTACHED ROUND DOT BELOW" />
+	<glyph unicode="087A" name="alefDotabove-ar" category="Letter" script="arabic" production="uni087A" direction="RTL" description="ARABIC LETTER ALEF WITH DOT ABOVE" />
+	<glyph unicode="087B" name="alefToprightfathaattachedDotabove-ar" category="Letter" script="arabic" production="uni087B" direction="RTL" description="ARABIC LETTER ALEF WITH ATTACHED TOP RIGHT FATHA AND DOT ABOVE" />
+	<glyph unicode="087C" name="alefRightmiddlestrokeDotabove-ar" category="Letter" script="arabic" production="uni087C" direction="RTL" description="ARABIC LETTER ALEF WITH RIGHT MIDDLE STROKE AND DOT ABOVE" />
+	<glyph unicode="087D" name="alefBottomrightkasraattachedDotabove-ar" category="Letter" script="arabic" production="uni087D" direction="RTL" description="ARABIC LETTER ALEF WITH ATTACHED BOTTOM RIGHT KASRA AND DOT ABOVE" />
+	<glyph unicode="087E" name="alefToprightfathaattachedLeftring-ar" category="Letter" script="arabic" production="uni087E" direction="RTL" description="ARABIC LETTER ALEF WITH ATTACHED TOP RIGHT FATHA AND LEFT RING" />
+	<glyph unicode="087F" name="alefRightmiddlestrokeLeftring-ar" category="Letter" script="arabic" production="uni087F" direction="RTL" description="ARABIC LETTER ALEF WITH RIGHT MIDDLE STROKE AND LEFT RING" />
+	<glyph unicode="0880" name="alefBottomrightkasraattachedLeftring-ar" category="Letter" script="arabic" production="uni0880" direction="RTL" description="ARABIC LETTER ALEF WITH ATTACHED BOTTOM RIGHT KASRA AND LEFT RING" />
+	<glyph unicode="0881" name="alefRighthamzaattached-ar" category="Letter" script="arabic" production="uni0881" direction="RTL" description="ARABIC LETTER ALEF WITH ATTACHED RIGHT HAMZA" />
+	<glyph unicode="0882" name="alefLefthamzaattached-ar" category="Letter" script="arabic" production="uni0882" direction="RTL" description="ARABIC LETTER ALEF WITH ATTACHED LEFT HAMZA" />
+	<glyph unicode="0883" name="kashidaHamza-ar" category="Letter" script="arabic" production="uni0883" direction="RTL" description="ARABIC TATWEEL WITH OVERSTRUCK HAMZA" />
+	<glyph unicode="0884" name="kashidaWaw-ar" category="Letter" script="arabic" production="uni0884" direction="RTL" description="ARABIC TATWEEL WITH OVERSTRUCK WAW" />
+	<glyph unicode="0885" name="kashidaTwobelow-ar" category="Letter" script="arabic" production="uni0885" direction="RTL" description="ARABIC TATWEEL WITH TWO DOTS BELOW" />
+	<glyph unicode="0886" name="yehThin-ar" category="Letter" script="arabic" production="uni0886" direction="RTL" description="ARABIC LETTER THIN YEH" />
+	<glyph unicode="0887" name="rounddotbaseline-ar" category="Letter" script="arabic" production="uni0887" direction="RTL" description="ARABIC BASELINE ROUND DOT" />
+	<glyph unicode="0888" name="rounddotraised-ar" category="Letter" script="arabic" production="uni0888" direction="RTL" description="ARABIC RAISED ROUND DOT" />
+	<glyph unicode="0889" name="noonVinvertedabove-ar" category="Letter" script="arabic" production="uni0889" direction="RTL" description="ARABIC LETTER NOON WITH INVERTED SMALL V" />
+	<glyph unicode="088A" name="hahVinvertedbelow-ar" category="Letter" script="arabic" production="uni088A" direction="RTL" description="ARABIC LETTER HAH WITH INVERTED SMALL V BELOW" />
+	<glyph unicode="088B" name="tahDotbelow-ar" category="Letter" script="arabic" production="uni088B" direction="RTL" description="ARABIC LETTER TAH WITH DOT BELOW" />
+	<glyph unicode="088C" name="tahThreedotsbelow-ar" category="Letter" script="arabic" production="uni088C" direction="RTL" description="ARABIC LETTER TAH WITH THREE DOTS BELOW" />
+	<glyph unicode="088E" name="verticaltail-ar" category="Letter" script="arabic" production="uni088E" direction="RTL" description="ARABIC VERTICAL TAIL" />
+	<glyph unicode="0890" name="poundmarkabove-ar" category="Symbol" subCategory="Format" script="arabic" production="uni0890" direction="RTL" description="ARABIC POUND MARK ABOVE" />
+	<glyph unicode="0891" name="piastremarkabove-ar" category="Symbol" subCategory="Format" script="arabic" production="uni0891" direction="RTL" description="ARABIC PIASTRE MARK ABOVE" />
+	<glyph unicode="0898" name="aljuzabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0898" direction="RTL" description="ARABIC SMALL HIGH WORD AL-JUZ" />
+	<glyph unicode="0899" name="ishmaambelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0899" direction="RTL" description="ARABIC SMALL LOW WORD ISHMAAM" />
+	<glyph unicode="089A" name="imaalabelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni089A" direction="RTL" description="ARABIC SMALL LOW WORD IMAALA" />
+	<glyph unicode="089B" name="tasheel-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni089B" direction="RTL" description="ARABIC SMALL LOW WORD TASHEEL" />
+	<glyph unicode="089C" name="maddawaajib-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni089C" direction="RTL" description="ARABIC MADDA WAAJIB" />
+	<glyph unicode="089D" name="alefmokhassasabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni089D" direction="RTL" description="ARABIC SUPERSCRIPT ALEF MOKHASSAS" />
+	<glyph unicode="089E" name="maddadoubled-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni089E" direction="RTL" description="ARABIC DOUBLED MADDA" />
+	<glyph unicode="089F" name="halfmaddaovermadda-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni089F" direction="RTL" description="ARABIC HALF MADDA OVER MADDA" />
 	<glyph unicode="08B2" name="zainVinvertedabove-ar" category="Letter" script="arabic" production="uni08B2" direction="RTL" description="ARABIC LETTER ZAIN WITH INVERTED V ABOVE" />
 	<glyph unicode="08B3" name="ainThreedotsbelow-ar" category="Letter" script="arabic" production="uni08B3" direction="RTL" description="ARABIC LETTER AIN WITH THREE DOTS BELOW" />
 	<glyph unicode="08B4" name="kafDotbelow-ar" category="Letter" script="arabic" production="uni08B4" direction="RTL" description="ARABIC LETTER KAF WITH DOT BELOW" />
@@ -4762,9 +4802,7 @@
 	<glyph unicode="08BF" name="tehVabove-ar" category="Letter" script="arabic" production="uni08BF" direction="RTL" description="ARABIC LETTER TEH WITH SMALL V" />
 	<glyph unicode="08C0" name="ttehVabove-ar" category="Letter" script="arabic" production="uni08C0" direction="RTL" description="ARABIC LETTER TTEH WITH SMALL V" />
 	<glyph unicode="08C1" name="tchehVabove-ar" category="Letter" script="arabic" production="uni08C1" direction="RTL" description="ARABIC LETTER TCHEH WITH SMALL V" />
-	<glyph unicode="08C2" name="kehehVabove-ar" category="Letter" script="arabic" production="uni08C2" direction="RTL" description="ARABIC LETTER KEHEH WITH SMALL V" />
 	<glyph unicode="08C3" name="ghainThreedotsabove-ar" category="Letter" script="arabic" production="uni08C3" direction="RTL" description="ARABIC LETTER GHAIN WITH THREE DOTS ABOVE" />
-	<glyph unicode="08C4" name="qafThreedotsaboveAfrican-ar" category="Letter" script="arabic" production="uni08C4" direction="RTL" description="ARABIC LETTER AFRICAN QAF WITH THREE DOTS ABOVE" />
 	<glyph unicode="08C5" name="jeemThreedotsabove-ar" category="Letter" script="arabic" production="uni08C5" direction="RTL" description="ARABIC LETTER JEEM WITH THREE DOTS ABOVE" />
 	<glyph unicode="08C6" name="jeemThreedotsbelow-ar" category="Letter" script="arabic" production="uni08C6" direction="RTL" description="ARABIC LETTER JEEM WITH THREE DOTS BELOW" />
 	<glyph unicode="08C7" name="lamTahabove-ar" category="Letter" script="arabic" production="uni08C7" direction="RTL" description="ARABIC LETTER LAM WITH SMALL ARABIC LETTER TAH ABOVE" />
@@ -4901,6 +4939,9 @@
 	<glyph name="qafThreedotsabove-ar.init" category="Letter" script="arabic" production="uni06A8.init" direction="RTL" description="ARABIC LETTER QAF WITH THREE DOTS ABOVE INITIAL FORM" />
 	<glyph unicode="08A5" name="qafDotbelow-ar" category="Letter" script="arabic" production="uni08A5" direction="RTL" description="ARABIC LETTER QAF WITH DOT BELOW" />
 	<glyph unicode="08BC" name="qafAfrican-ar" category="Letter" script="arabic" production="uni08BC" direction="RTL" description="ARABIC LETTER AFRICAN QAF" />
+	<glyph unicode="08B5" name="qafDotbelowNodotsabove-ar" category="Letter" script="arabic" production="uni08B5" direction="RTL" description="ARABIC LETTER QAF WITH DOT BELOW AND NO DOTS ABOVE" />
+	<glyph unicode="08C4" name="qafThreedotsaboveAfrican-ar" category="Letter" script="arabic" production="uni08C4" direction="RTL" description="ARABIC LETTER AFRICAN QAF WITH THREE DOTS ABOVE" />
+	<glyph unicode="06D7" name="qafLamAlefMaksuraabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni06D7" direction="RTL" description="ARABIC SMALL HIGH LIGATURE QAF WITH LAM WITH ALEF MAKSURA" />
 	<glyph name="kafDotless-ar" category="Letter" script="arabic" direction="RTL" altNames="dotlesskaf-ar" description="ARABIC LETTER DOTLESS KAF" />
 	<glyph name="kafDotless-ar.fina" category="Letter" script="arabic" direction="RTL" altNames="dotlesskaf-ar.fina" description="ARABIC LETTER DOTLESS KAF FINAL FORM" />
 	<glyph unicode="0643" name="kaf-ar" category="Letter" script="arabic" production="uni0643" direction="RTL" altNames="afii57443, kafarabic" description="ARABIC LETTER KAF" />
@@ -4918,6 +4959,9 @@
 	<glyph unicode="0762" name="kehehDotabove-ar" category="Letter" script="arabic" production="uni0762" direction="RTL" description="ARABIC LETTER KEHEH WITH DOT ABOVE" />
 	<glyph unicode="0763" name="kehehThreedotsabove-ar" category="Letter" script="arabic" production="uni0763" direction="RTL" description="ARABIC LETTER KEHEH WITH THREE DOTS ABOVE" />
 	<glyph unicode="0764" name="kehehThreedotsupbelow-ar" category="Letter" script="arabic" production="uni0764" direction="RTL" description="ARABIC LETTER KEHEH WITH THREE DOTS POINTING UPWARDS BELOW" />
+	<glyph unicode="088D" name="kehehTwodotsverticalbelow-ar" category="Letter" script="arabic" production="uni088D" direction="RTL" description="ARABIC LETTER KEHEH WITH TWO DOTS VERTICALLY BELOW" />
+	<glyph unicode="08C8" name="kehehElongatedhamzaabove-ar" category="Letter" script="arabic" production="uni08C8" direction="RTL" description="ARABIC LETTER GRAF" />
+	<glyph unicode="08C2" name="kehehVabove-ar" category="Letter" script="arabic" production="uni08C2" direction="RTL" description="ARABIC LETTER KEHEH WITH SMALL V" />
 	<glyph unicode="06AF" name="gaf-ar" category="Letter" script="arabic" production="uni06AF" direction="RTL" altNames="afii57509, gafarabic" description="ARABIC LETTER GAF" />
 	<glyph unicodeLegacy="FB92" name="gaf-ar.isol" category="Letter" script="arabic" production="uni06AF.isol" direction="RTL" description="ARABIC LETTER GAF ISOLATED FORM" />
 	<glyph unicodeLegacy="FB93" name="gaf-ar.fina" category="Letter" script="arabic" production="uni06AF.fina" direction="RTL" altNames="gaffinalarabic" description="ARABIC LETTER GAF FINAL FORM" />
@@ -5081,20 +5125,21 @@
 	<glyph name="yehVabove-ar.init" category="Letter" script="arabic" production="uni06CE.init" direction="RTL" description="ARABIC LETTER YEH WITH SMALL V" />
 	<glyph unicode="08A8" name="yehTwodotsbelowHamzaabove-ar" category="Letter" script="arabic" production="uni08A8" direction="RTL" description="ARABIC LETTER YEH WITH TWO DOTS BELOW AND HAMZA ABOVE" />
 	<glyph unicode="08A9" name="yehTwodotsbelowDotabove-ar" category="Letter" script="arabic" production="uni08A9" direction="RTL" description="ARABIC LETTER YEH WITH TWO DOTS BELOW AND DOT ABOVE" />
-	<glyph unicode="063D" name="yehFarsiVinverted-ar" category="Letter" script="arabic" production="uni063D" direction="RTL" altNames="yehVinverted-farsi" description="ARABIC LETTER FARSI YEH WITH INVERTED V" />
-	<glyph name="yehFarsiVinverted-ar.fina" category="Letter" script="arabic" production="uni063D.fina" direction="RTL" altNames="yehVinverted-farsi.fina" description="ARABIC LETTER FARSI YEH WITH INVERTED V" />
-	<glyph name="yehFarsiVinverted-ar.medi" category="Letter" script="arabic" production="uni063D.medi" direction="RTL" altNames="yehVinverted-farsi.medi" description="ARABIC LETTER FARSI YEH WITH INVERTED V" />
-	<glyph name="yehFarsiVinverted-ar.init" category="Letter" script="arabic" production="uni063D.init" direction="RTL" altNames="yehVinverted-farsi.init" description="ARABIC LETTER FARSI YEH WITH INVERTED V" />
 	<glyph unicode="06CC" name="yehFarsi-ar" category="Letter" script="arabic" production="uni06CC" direction="RTL" altNames="yeh-farsi" description="ARABIC LETTER FARSI YEH" />
 	<glyph unicodeLegacy="FBFC" name="yehFarsi-ar.isol" category="Letter" script="arabic" production="uni06CC.isol" direction="RTL" altNames="yeh-farsi.isol" description="ARABIC LETTER FARSI YEH ISOLATED FORM" />
 	<glyph unicodeLegacy="FBFD" name="yehFarsi-ar.fina" category="Letter" script="arabic" production="uni06CC.fina" direction="RTL" altNames="yeh-farsi.fina" description="ARABIC LETTER FARSI YEH FINAL FORM" />
 	<glyph unicodeLegacy="FBFF" name="yehFarsi-ar.medi" category="Letter" script="arabic" production="uni06CC.medi" direction="RTL" altNames="yeh-farsi.medi" description="ARABIC LETTER FARSI YEH MEDIAL FORM" />
 	<glyph unicodeLegacy="FBFE" name="yehFarsi-ar.init" category="Letter" script="arabic" production="uni06CC.init" direction="RTL" altNames="yeh-farsi.init" description="ARABIC LETTER FARSI YEH INITIAL FORM" />
+	<glyph unicode="063D" name="yehFarsiVinverted-ar" category="Letter" script="arabic" production="uni063D" direction="RTL" altNames="yehVinverted-farsi" description="ARABIC LETTER FARSI YEH WITH INVERTED V" />
+	<glyph name="yehFarsiVinverted-ar.fina" category="Letter" script="arabic" production="uni063D.fina" direction="RTL" altNames="yehVinverted-farsi.fina" description="ARABIC LETTER FARSI YEH WITH INVERTED V" />
+	<glyph name="yehFarsiVinverted-ar.medi" category="Letter" script="arabic" production="uni063D.medi" direction="RTL" altNames="yehVinverted-farsi.medi" description="ARABIC LETTER FARSI YEH WITH INVERTED V" />
+	<glyph name="yehFarsiVinverted-ar.init" category="Letter" script="arabic" production="uni063D.init" direction="RTL" altNames="yehVinverted-farsi.init" description="ARABIC LETTER FARSI YEH WITH INVERTED V" />
 	<glyph unicode="063E" name="yehFarsiTwodotsabove-ar" category="Letter" script="arabic" production="uni063E" direction="RTL" altNames="yehTwodotsabove-farsi" description="ARABIC LETTER FARSI YEH WITH TWO DOTS ABOVE" />
 	<glyph unicode="063F" name="yehFarsiThreedotsabove-ar" category="Letter" script="arabic" production="uni063F" direction="RTL" altNames="yehThreedotsabove-farsi" description="ARABIC LETTER FARSI YEH WITH THREE DOTS ABOVE" />
 	<glyph unicode="0775" name="yehFarsiTwoabove-ar" category="Letter" script="arabic" production="uni0775" direction="RTL" altNames="yehTwoabove-farsi" description="ARABIC LETTER FARSI YEH WITH EXTENDED ARABIC-INDIC DIGIT TWO ABOVE" />
 	<glyph unicode="0776" name="yehFarsiThreeabove-ar" category="Letter" script="arabic" production="uni0776" direction="RTL" altNames="yehThreeabove-farsi" description="ARABIC LETTER FARSI YEH WITH EXTENDED ARABIC-INDIC DIGIT THREE ABOVE" />
 	<glyph unicode="0777" name="yehFarsiFourbelow-ar" category="Letter" script="arabic" production="uni0777" direction="RTL" altNames="yehFourbelow-farsi" description="ARABIC LETTER FARSI YEH WITH EXTENDED ARABIC-INDIC DIGIT FOUR BELOW" />
+	<glyph unicode="08C9" name="yehFarsiSmall-ar" category="Letter" subCategory="Modifier" script="arabic" production="uni08C9" direction="RTL" description="ARABIC SMALL FARSI YEH" />
 	<glyph unicode="06CD" name="yehTail-ar" category="Letter" script="arabic" production="uni06CD" direction="RTL" description="ARABIC LETTER YEH WITH TAIL" />
 	<glyph unicode="0620" name="yehKashmiri-ar" category="Letter" script="arabic" production="uni0620" direction="RTL" description="ARABIC LETTER KASHMIRI YEH" />
 	<glyph name="yehKashmiri-ar.medi" category="Letter" script="arabic" production="uni0620.medi" direction="RTL" description="ARABIC LETTER KASHMIRI YEH" />
@@ -5593,6 +5638,25 @@
 	<glyph unicodeLegacy="FE73" name="kashidaFina-ar" category="Letter" script="arabic" production="uniFE73" direction="RTL" description="ARABIC TAIL FRAGMENT" />
 	<glyph unicodeLegacy="FE7A" name="kasra-ar.isol" category="Mark" subCategory="Spacing" script="arabic" production="uni0650.isol" direction="RTL" description="ARABIC KASRA ISOLATED FORM" />
 	<glyph unicodeLegacy="FE7B" name="kasra-ar.medi" category="Letter" script="arabic" production="uni0650.medi" direction="RTL" description="ARABIC KASRA MEDIAL FORM" />
+	<glyph unicode="FD40" name="rahimahuAllaah-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD40" direction="RTL" description="ARABIC LIGATURE RAHIMAHU ALLAAH" />
+	<glyph unicode="FD41" name="radiAllaahuAnh-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD41" direction="RTL" description="ARABIC LIGATURE RADI ALLAAHU ANH" />
+	<glyph unicode="FD42" name="radiAllaahuAnhaa-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD42" direction="RTL" description="ARABIC LIGATURE RADI ALLAAHU ANHAA" />
+	<glyph unicode="FD43" name="radiAllaahuAnhum-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD43" direction="RTL" description="ARABIC LIGATURE RADI ALLAAHU ANHUM" />
+	<glyph unicode="FD44" name="radiAllaahuAnhumaa-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD44" direction="RTL" description="ARABIC LIGATURE RADI ALLAAHU ANHUMAA" />
+	<glyph unicode="FD45" name="radiAllaahuAnhunna-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD45" direction="RTL" description="ARABIC LIGATURE RADI ALLAAHU ANHUNNA" />
+	<glyph unicode="FD46" name="sallallaahuAlayhiWaAalih-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD46" direction="RTL" description="ARABIC LIGATURE SALLALLAAHU ALAYHI WA-AALIH" />
+	<glyph unicode="FD47" name="alayhiAsSalaam-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD47" direction="RTL" description="ARABIC LIGATURE ALAYHI AS-SALAAM" />
+	<glyph unicode="FD48" name="alayhimAsSalaam-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD48" direction="RTL" description="ARABIC LIGATURE ALAYHIM AS-SALAAM" />
+	<glyph unicode="FD49" name="alayhimaaAsSalaam-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD49" direction="RTL" description="ARABIC LIGATURE ALAYHIMAA AS-SALAAM" />
+	<glyph unicode="FD4A" name="alayhiAsSalaatuWaSalaam-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD4A" direction="RTL" description="ARABIC LIGATURE ALAYHI AS-SALAATU WAS-SALAAM" />
+	<glyph unicode="FD4B" name="quddisaSirrah-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD4B" direction="RTL" description="ARABIC LIGATURE QUDDISA SIRRAH" />
+	<glyph unicode="FD4C" name="sallallahuAlayhiWaAaliheeWaSallam-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD4C" direction="RTL" description="ARABIC LIGATURE SALLALLAHU ALAYHI WAAALIHEE WA-SALLAM" />
+	<glyph unicode="FD4D" name="alayhaaAsSalaam-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD4D" direction="RTL" description="ARABIC LIGATURE ALAYHAA AS-SALAAM" />
+	<glyph unicode="FD4E" name="tabaarakaWaTaaalaa-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD4E" direction="RTL" description="ARABIC LIGATURE TABAARAKA WA-TAAALAA" />
+	<glyph unicode="FD4F" name="rahimahumAllaah-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFD4F" direction="RTL" description="ARABIC LIGATURE RAHIMAHUM ALLAAH" />
+	<glyph unicode="FDCF" name="salaamuhuAlaynaa-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFDCF" direction="RTL" description="ARABIC LIGATURE SALAAMUHU ALAYNAA" />
+	<glyph unicode="FDFE" name="subhaanahuWaTaaalaa-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFDFE" direction="RTL" description="ARABIC LIGATURE SUBHAANAHU WA TAAALAA" />
+	<glyph unicode="FDFF" name="azzaWaJall-ar" category="Symbol" subCategory="Ligature" script="arabic" production="uniFDFF" direction="RTL" description="ARABIC LIGATURE AZZA WA JALL" />
 	<glyph unicode="0640" name="kashida-ar" category="Letter" script="arabic" production="uni0640" direction="RTL" altNames="afii57440, kashidaautoarabic, kashidaautonosidebearingarabic, tatweelarabic" description="ARABIC TATWEEL" />
 	<glyph unicode="0610" name="sallallahouAlayheWassallamcomb-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0610" direction="RTL" description="ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM" />
 	<glyph unicode="0611" name="alayheAssallamcomb-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0611" direction="RTL" description="ARABIC SIGN ALAYHE ASSALLAM" />
@@ -5710,7 +5774,6 @@
 	<glyph unicode="065D" name="dammareversed-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni065D" direction="RTL" description="ARABIC REVERSED DAMMA" />
 	<glyph unicode="065E" name="fathatwodots-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni065E" direction="RTL" description="ARABIC FATHA WITH TWO DOTS" />
 	<glyph unicode="06D6" name="sadLamAlefMaksuraabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni06D6" direction="RTL" description="ARABIC SMALL HIGH LIGATURE SAD WITH LAM WITH ALEF MAKSURA" />
-	<glyph unicode="06D7" name="qafLamAlefMaksuraabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni06D7" direction="RTL" description="ARABIC SMALL HIGH LIGATURE QAF WITH LAM WITH ALEF MAKSURA" />
 	<glyph unicode="06D8" name="meemabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni06D8" direction="RTL" description="ARABIC SMALL HIGH MEEM INITIAL FORM" />
 	<glyph unicode="06E2" name="meemStopabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni06E2" direction="RTL" description="ARABIC SMALL HIGH MEEM ISOLATED FORM" />
 	<glyph unicode="06D9" name="lamAlefabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni06D9" direction="RTL" description="ARABIC SMALL HIGH LAM ALEF" />
@@ -5754,6 +5817,7 @@
 	<glyph unicode="060C" name="comma-ar" category="Punctuation" script="arabic" production="uni060C" direction="RTL" altNames="afii57388, commaarabic" description="ARABIC COMMA" />
 	<glyph unicode="061B" name="semicolon-ar" category="Punctuation" script="arabic" production="uni061B" direction="RTL" altNames="afii57403, semicolonarabic" description="ARABIC SEMICOLON" />
 	<glyph unicode="061C" name="mark-ar" category="Symbol" subCategory="Format" script="arabic" production="uni061C" direction="RTL" description="ARABIC LETTER MARK" />
+	<glyph unicode="061D" name="endoftext-ar" category="Punctuation" script="arabic" production="uni061D" description="ARABIC END OF TEXT MARK" />
 	<glyph unicode="061F" name="question-ar" category="Punctuation" script="arabic" production="uni061F" direction="RTL" altNames="afii57407, questionarabic" description="ARABIC QUESTION MARK" />
 	<glyph unicode="066A" name="percent-ar" category="Symbol" subCategory="Math" script="arabic" production="uni066A" direction="RTL" altNames="afii57381, percentarabic" description="ARABIC PERCENT SIGN" />
 	<glyph unicode="0600" name="number-ar" category="Punctuation" script="arabic" production="uni0600" direction="RTL" description="ARABIC NUMBER SIGN" />
@@ -5814,6 +5878,15 @@
 	<glyph unicode="08B8" name="tehTehabove-ar" category="Letter" script="arabic" production="uni08B8" direction="RTL" description="ARABIC LETTER TEH WITH SMALL TEH ABOVE" />
 	<glyph unicode="08B9" name="rehNoonabove-ar" category="Letter" script="arabic" production="uni08B9" direction="RTL" description="ARABIC LETTER REH WITH SMALL NOON ABOVE" />
 	<glyph unicode="08BA" name="yehTwodotsbelowNoonabove-ar" category="Letter" script="arabic" production="uni08BA" direction="RTL" description="ARABIC LETTER YEH WITH TWO DOTS BELOW AND SMALL NOON ABOVE" />
+	<glyph unicode="08CA" name="yehFarsiabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni08CA" direction="RTL" description="ARABIC SMALL HIGH FARSI YEH" />
+	<glyph unicode="08CB" name="yehbarreeTwobelowabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni08CB" direction="RTL" description="ARABIC SMALL HIGH YEH BARREE WITH TWO DOTS BELOW" />
+	<glyph unicode="08CC" name="sahabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni08CC" direction="RTL" description="ARABIC SMALL HIGH WORD SAH" />
+	<glyph unicode="08CD" name="zahabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni08CD" direction="RTL" description="ARABIC SMALL HIGH ZAH" />
+	<glyph unicode="08CE" name="largerounddotabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni08CE" direction="RTL" description="ARABIC LARGE ROUND DOT ABOVE" />
+	<glyph unicode="08CF" name="largerounddotbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni08CF" direction="RTL" description="ARABIC LARGE ROUND DOT BELOW" />
+	<glyph unicode="08D0" name="sukunbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni08D0" direction="RTL" description="ARABIC SUKUN BELOW" />
+	<glyph unicode="08D1" name="largecirclebelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni08D1" direction="RTL" description="ARABIC LARGE CIRCLE BELOW" />
+	<glyph unicode="08D2" name="largerounddotinsidecirclebelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni08D2" direction="RTL" description="ARABIC LARGE ROUND DOT INSIDE CIRCLE BELOW" />
 	<glyph unicode="0700" name="paragraph-syriac" category="Punctuation" script="syriac" production="uni0700" description="SYRIAC END OF PARAGRAPH" />
 	<glyph unicode="0701" name="fullstopSupralinear-syriac" category="Punctuation" script="syriac" production="uni0701" description="SYRIAC SUPRALINEAR FULL STOP" />
 	<glyph unicode="0702" name="fullstopSublinear-syriac" category="Punctuation" script="syriac" production="uni0702" description="SYRIAC SUBLINEAR FULL STOP" />
