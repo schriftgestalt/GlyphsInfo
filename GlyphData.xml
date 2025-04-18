@@ -23471,7 +23471,7 @@
 	<glyph unicode="167D" name="thwaaWoodScree-canadian" category="Letter" script="canadian" production="uni167D" description="CANADIAN SYLLABICS WOODS-CREE THWAA" />
 	<glyph unicode="167E" name="thFinalWoodScree-canadian" category="Letter" subCategory="Modifier" script="canadian" production="uni167E" description="CANADIAN SYLLABICS WOODS-CREE FINAL TH" />
 	<glyph unicode="167F" name="wBlackfoot-canadian" category="Letter" script="canadian" production="uni167F" description="CANADIAN SYLLABICS BLACKFOOT W" />
-	<glyph unicode="1680" name="spaceMark-ogham" category="Space" script="ogham" production="uni1680" description="OGHAM SPACE MARK" />
+	<glyph unicode="1680" name="spaceMark-ogham" category="Separator" subCategory="Space" script="ogham" production="uni1680" description="OGHAM SPACE MARK" />
 	<glyph unicode="1681" name="beith-ogham" category="Letter" script="ogham" production="uni1681" description="OGHAM LETTER BEITH" />
 	<glyph unicode="1682" name="luis-ogham" category="Letter" script="ogham" production="uni1682" description="OGHAM LETTER LUIS" />
 	<glyph unicode="1683" name="fearn-ogham" category="Letter" script="ogham" production="uni1683" description="OGHAM LETTER FEARN" />
@@ -25521,16 +25521,16 @@
 	<glyph unicode="A6E3" name="ma-bamum" category="Letter" script="bamum" production="uniA6E3" description="BAMUM LETTER MA" />
 	<glyph unicode="A6E4" name="ti-bamum" category="Letter" script="bamum" production="uniA6E4" description="BAMUM LETTER TI" />
 	<glyph unicode="A6E5" name="ki-bamum" category="Letter" script="bamum" production="uniA6E5" description="BAMUM LETTER KI" />
-	<glyph unicode="A6E6" name="mo-bamum" category="Letter" subCategory="Number" script="bamum" production="uniA6E6" description="BAMUM LETTER MO" />
-	<glyph unicode="A6E7" name="mbaa-bamum" category="Letter" subCategory="Number" script="bamum" production="uniA6E7" description="BAMUM LETTER MBAA" />
-	<glyph unicode="A6E8" name="tet-bamum" category="Letter" subCategory="Number" script="bamum" production="uniA6E8" description="BAMUM LETTER TET" />
-	<glyph unicode="A6E9" name="kpa-bamum" category="Letter" subCategory="Number" script="bamum" production="uniA6E9" description="BAMUM LETTER KPA" />
-	<glyph unicode="A6EA" name="ten-bamum" category="Letter" subCategory="Number" script="bamum" production="uniA6EA" description="BAMUM LETTER TEN" />
-	<glyph unicode="A6EB" name="ntuu-bamum" category="Letter" subCategory="Number" script="bamum" production="uniA6EB" description="BAMUM LETTER NTUU" />
-	<glyph unicode="A6EC" name="samba-bamum" category="Letter" subCategory="Number" script="bamum" production="uniA6EC" description="BAMUM LETTER SAMBA" />
-	<glyph unicode="A6ED" name="faamae-bamum" category="Letter" subCategory="Number" script="bamum" production="uniA6ED" description="BAMUM LETTER FAAMAE" />
-	<glyph unicode="A6EE" name="kovuu-bamum" category="Letter" subCategory="Number" script="bamum" production="uniA6EE" description="BAMUM LETTER KOVUU" />
-	<glyph unicode="A6EF" name="koghom-bamum" category="Letter" subCategory="Number" script="bamum" production="uniA6EF" description="BAMUM LETTER KOGHOM" />
+	<glyph unicode="A6E6" name="mo-bamum" category="Letter" script="bamum" production="uniA6E6" description="BAMUM LETTER MO" />
+	<glyph unicode="A6E7" name="mbaa-bamum" category="Letter" script="bamum" production="uniA6E7" description="BAMUM LETTER MBAA" />
+	<glyph unicode="A6E8" name="tet-bamum" category="Letter" script="bamum" production="uniA6E8" description="BAMUM LETTER TET" />
+	<glyph unicode="A6E9" name="kpa-bamum" category="Letter" script="bamum" production="uniA6E9" description="BAMUM LETTER KPA" />
+	<glyph unicode="A6EA" name="ten-bamum" category="Letter" script="bamum" production="uniA6EA" description="BAMUM LETTER TEN" />
+	<glyph unicode="A6EB" name="ntuu-bamum" category="Letter" script="bamum" production="uniA6EB" description="BAMUM LETTER NTUU" />
+	<glyph unicode="A6EC" name="samba-bamum" category="Letter" script="bamum" production="uniA6EC" description="BAMUM LETTER SAMBA" />
+	<glyph unicode="A6ED" name="faamae-bamum" category="Letter" script="bamum" production="uniA6ED" description="BAMUM LETTER FAAMAE" />
+	<glyph unicode="A6EE" name="kovuu-bamum" category="Letter" script="bamum" production="uniA6EE" description="BAMUM LETTER KOVUU" />
+	<glyph unicode="A6EF" name="koghom-bamum" category="Letter" script="bamum" production="uniA6EF" description="BAMUM LETTER KOGHOM" />
 	<glyph unicode="A6F0" name="koqndon-bamum" category="Mark" subCategory="Nonspacing" script="bamum" production="uniA6F0" description="BAMUM COMBINING MARK KOQNDON" />
 	<glyph unicode="A6F1" name="tukwentis-bamum" category="Mark" subCategory="Nonspacing" script="bamum" production="uniA6F1" description="BAMUM COMBINING MARK TUKWENTIS" />
 	<glyph unicode="A6F2" name="njaemli-bamum" category="Punctuation" script="bamum" production="uniA6F2" description="BAMUM NJAEMLI" />
@@ -26371,9 +26371,9 @@
 	<glyph unicode="FE0D" name="VS14" category="Mark" subCategory="Nonspacing" production="uniFE0D" description="VARIATION SELECTOR-14" />
 	<glyph unicode="FE0E" name="VS15" category="Mark" subCategory="Nonspacing" production="uniFE0E" description="VARIATION SELECTOR-15" />
 	<glyph unicode="FE0F" name="VS16" category="Mark" subCategory="Nonspacing" production="uniFE0F" description="VARIATION SELECTOR-16" />
-	<glyph unicode="FFF9" name="interlinearannotationanchor" category="Other" subCategory="Format" production="uniFFF9" description="INTERLINEAR ANNOTATION ANCHOR" />
-	<glyph unicode="FFFA" name="interlinearannotationseparator" category="Other" subCategory="Format" production="uniFFFA" description="INTERLINEAR ANNOTATION SEPARATOR" />
-	<glyph unicode="FFFB" name="interlinearannotationterminator" category="Other" subCategory="Format" production="uniFFFB" description="INTERLINEAR ANNOTATION TERMINATOR" />
+	<glyph unicode="FFF9" name="interlinearAnnotationAnchor" category="Separator" subCategory="Format" production="uniFFF9" altNames="interlinearannotationanchor" description="INTERLINEAR ANNOTATION ANCHOR" />
+	<glyph unicode="FFFA" name="interlinearAnnotationSeparator" category="Separator" subCategory="Format" production="uniFFFA" altNames="interlinearannotationseparator" description="INTERLINEAR ANNOTATION SEPARATOR" />
+	<glyph unicode="FFFB" name="interlinearAnnotationTerminator" category="Separator" subCategory="Format" production="uniFFFB" altNames="interlinearannotationterminator" description="INTERLINEAR ANNOTATION TERMINATOR" />
 	<glyph unicode="FFFC" name="objectReplacementCharacter" category="Symbol" production="uniFFFC" description="OBJECT REPLACEMENT CHARACTER" />
 	<glyph unicode="FFFD" name="replacementCharacter" category="Symbol" production="uniFFFD" description="REPLACEMENT CHARACTER" />
 	<glyph unicode="2010" name="hyphentwo" category="Punctuation" subCategory="Dash" production="uni2010" description="HYPHEN" />
