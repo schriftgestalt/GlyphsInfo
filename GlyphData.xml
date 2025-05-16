@@ -11037,7 +11037,7 @@
 	<glyph unicode="1140" name="pansiosCho-ko" category="Letter" subCategory="Jamo" script="hangul" production="uni1140" description="HANGUL CHOSEONG PANSIOS" />
 	<glyph unicode="1141" name="ieungKiyeokCho-ko" category="Letter" subCategory="Jamo" script="hangul" production="uni1141" description="HANGUL CHOSEONG IEUNG-KIYEOK" />
 	<glyph unicode="1142" name="ieungTikeutCho-ko" category="Letter" subCategory="Jamo" script="hangul" production="uni1142" description="HANGUL CHOSEONG IEUNG-TIKEUT" />
-	<glyph unicode="1143" name="ieung-mieumCho-ko" category="Letter" subCategory="Jamo" script="hangul" production="uni1143" description="HANGUL CHOSEONG IEUNG-MIEUM" />
+	<glyph unicode="1143" name="ieungMieumCho-ko" category="Letter" subCategory="Jamo" script="hangul" production="uni1143" altNames="ieung-mieumCho-ko" description="HANGUL CHOSEONG IEUNG-MIEUM" />
 	<glyph unicode="1144" name="ieungPieupCho-ko" category="Letter" subCategory="Jamo" script="hangul" production="uni1144" description="HANGUL CHOSEONG IEUNG-PIEUP" />
 	<glyph unicode="1145" name="ieungSiosCho-ko" category="Letter" subCategory="Jamo" script="hangul" production="uni1145" description="HANGUL CHOSEONG IEUNG-SIOS" />
 	<glyph unicode="1146" name="ieungPansiosCho-ko" category="Letter" subCategory="Jamo" script="hangul" production="uni1146" description="HANGUL CHOSEONG IEUNG-PANSIOS" />
