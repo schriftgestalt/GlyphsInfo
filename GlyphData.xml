@@ -2218,86 +2218,86 @@
 	<glyph unicode="10FD" name="aen-georgian" category="Letter" case="lower" script="georgian" production="uni10FD" description="GEORGIAN LETTER AEN" />
 	<glyph unicode="10FE" name="hardSign-georgian" category="Letter" case="lower" script="georgian" production="uni10FE" altNames="hardsign-georgian" description="GEORGIAN LETTER HARD SIGN" />
 	<glyph unicode="10FF" name="labial-georgian" category="Letter" case="lower" script="georgian" production="uni10FF" description="GEORGIAN LETTER LABIAL SIGN" />
-	<glyph unicode="10A0" name="An-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10A0" description="Old GEORGIAN CAPITAL LETTER AN" />
-	<glyph unicode="10A1" name="Ban-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10A1" description="Old GEORGIAN CAPITAL LETTER BAN" />
-	<glyph unicode="10A2" name="Gan-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10A2" description="Old GEORGIAN CAPITAL LETTER GAN" />
-	<glyph unicode="10A3" name="Don-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10A3" description="Old GEORGIAN CAPITAL LETTER DON" />
-	<glyph unicode="10A4" name="En-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10A4" description="Old GEORGIAN CAPITAL LETTER EN" />
-	<glyph unicode="10A5" name="Vin-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10A5" description="Old GEORGIAN CAPITAL LETTER VIN" />
-	<glyph unicode="10A6" name="Zen-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10A6" description="Old GEORGIAN CAPITAL LETTER ZEN" />
-	<glyph unicode="10A7" name="Tan-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10A7" description="Old GEORGIAN CAPITAL LETTER TAN" />
-	<glyph unicode="10A8" name="In-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10A8" description="Old GEORGIAN CAPITAL LETTER IN" />
-	<glyph unicode="10A9" name="Kan-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10A9" description="Old GEORGIAN CAPITAL LETTER KAN" />
-	<glyph unicode="10AA" name="Las-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10AA" description="Old GEORGIAN CAPITAL LETTER LAS" />
-	<glyph unicode="10AB" name="Man-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10AB" description="Old GEORGIAN CAPITAL LETTER MAN" />
-	<glyph unicode="10AC" name="Nar-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10AC" description="Old GEORGIAN CAPITAL LETTER NAR" />
-	<glyph unicode="10AD" name="On-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10AD" description="Old GEORGIAN CAPITAL LETTER ON" />
-	<glyph unicode="10AE" name="Par-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10AE" description="Old GEORGIAN CAPITAL LETTER PAR" />
-	<glyph unicode="10AF" name="Zhar-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10AF" description="Old GEORGIAN CAPITAL LETTER ZHAR" />
-	<glyph unicode="10B0" name="Rae-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10B0" description="Old GEORGIAN CAPITAL LETTER RAE" />
-	<glyph unicode="10B1" name="San-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10B1" description="Old GEORGIAN CAPITAL LETTER SAN" />
-	<glyph unicode="10B2" name="Tar-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10B2" description="Old GEORGIAN CAPITAL LETTER TAR" />
-	<glyph unicode="10B3" name="Un-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10B3" description="Old GEORGIAN CAPITAL LETTER UN" />
-	<glyph unicode="10B4" name="Phar-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10B4" description="Old GEORGIAN CAPITAL LETTER PHAR" />
-	<glyph unicode="10B5" name="Khar-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10B5" description="Old GEORGIAN CAPITAL LETTER KHAR" />
-	<glyph unicode="10B6" name="Ghan-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10B6" description="Old GEORGIAN CAPITAL LETTER GHAN" />
-	<glyph unicode="10B7" name="Qar-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10B7" description="Old GEORGIAN CAPITAL LETTER QAR" />
-	<glyph unicode="10B8" name="Shin-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10B8" description="Old GEORGIAN CAPITAL LETTER SHIN" />
-	<glyph unicode="10B9" name="Chin-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10B9" description="Old GEORGIAN CAPITAL LETTER CHIN" />
-	<glyph unicode="10BA" name="Can-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10BA" description="Old GEORGIAN CAPITAL LETTER CAN" />
-	<glyph unicode="10BB" name="Jil-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10BB" description="Old GEORGIAN CAPITAL LETTER JIL" />
-	<glyph unicode="10BC" name="Cil-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10BC" description="Old GEORGIAN CAPITAL LETTER CIL" />
-	<glyph unicode="10BD" name="Char-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10BD" description="Old GEORGIAN CAPITAL LETTER CHAR" />
-	<glyph unicode="10BE" name="Xan-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10BE" description="Old GEORGIAN CAPITAL LETTER XAN" />
-	<glyph unicode="10BF" name="Jhan-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10BF" description="Old GEORGIAN CAPITAL LETTER JHAN" />
-	<glyph unicode="10C0" name="Hae-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10C0" description="Old GEORGIAN CAPITAL LETTER HAE" />
-	<glyph unicode="10C1" name="He-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10C1" description="Old GEORGIAN CAPITAL LETTER HE" />
-	<glyph unicode="10C2" name="Hie-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10C2" description="Old GEORGIAN CAPITAL LETTER HIE" />
-	<glyph unicode="10C3" name="We-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10C3" description="Old GEORGIAN CAPITAL LETTER WE" />
-	<glyph unicode="10C4" name="Har-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10C4" description="Old GEORGIAN CAPITAL LETTER HAR" />
-	<glyph unicode="10C5" name="Hoe-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10C5" description="Old GEORGIAN CAPITAL LETTER HOE" />
-	<glyph unicode="10C7" name="Yn-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10C7" description="Old GEORGIAN CAPITAL LETTER YN" />
-	<glyph unicode="10CD" name="Aen-oldgeorgian" category="Letter" case="upper" script="georgian" production="uni10CD" description="Old GEORGIAN CAPITAL LETTER AEN" />
-	<glyph unicode="2D00" name="an-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D00" description="Old GEORGIAN LETTER AN" />
-	<glyph unicode="2D01" name="ban-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D01" description="Old GEORGIAN LETTER BAN" />
-	<glyph unicode="2D02" name="gan-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D02" description="Old GEORGIAN LETTER GAN" />
-	<glyph unicode="2D03" name="don-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D03" description="Old GEORGIAN LETTER DON" />
-	<glyph unicode="2D04" name="en-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D04" description="Old GEORGIAN LETTER EN" />
-	<glyph unicode="2D05" name="vin-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D05" description="Old GEORGIAN LETTER VIN" />
-	<glyph unicode="2D06" name="zen-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D06" description="Old GEORGIAN LETTER ZEN" />
-	<glyph unicode="2D07" name="tan-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D07" description="Old GEORGIAN LETTER TAN" />
-	<glyph unicode="2D08" name="in-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D08" description="Old GEORGIAN LETTER IN" />
-	<glyph unicode="2D09" name="kan-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D09" description="Old GEORGIAN LETTER KAN" />
-	<glyph unicode="2D0A" name="las-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D0A" description="Old GEORGIAN LETTER LAS" />
-	<glyph unicode="2D0B" name="man-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D0B" description="Old GEORGIAN LETTER MAN" />
-	<glyph unicode="2D0C" name="nar-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D0C" description="Old GEORGIAN LETTER NAR" />
-	<glyph unicode="2D0D" name="on-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D0D" description="Old GEORGIAN LETTER ON" />
-	<glyph unicode="2D0E" name="par-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D0E" description="Old GEORGIAN LETTER PAR" />
-	<glyph unicode="2D0F" name="zhar-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D0F" description="Old GEORGIAN LETTER ZHAR" />
-	<glyph unicode="2D10" name="rae-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D10" description="Old GEORGIAN LETTER RAE" />
-	<glyph unicode="2D11" name="san-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D11" description="Old GEORGIAN LETTER SAN" />
-	<glyph unicode="2D12" name="tar-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D12" description="Old GEORGIAN LETTER TAR" />
-	<glyph unicode="2D13" name="un-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D13" description="Old GEORGIAN LETTER UN" />
-	<glyph unicode="2D14" name="phar-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D14" description="Old GEORGIAN LETTER PHAR" />
-	<glyph unicode="2D15" name="khar-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D15" description="Old GEORGIAN LETTER KHAR" />
-	<glyph unicode="2D16" name="ghan-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D16" description="Old GEORGIAN LETTER GHAN" />
-	<glyph unicode="2D17" name="qar-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D17" description="Old GEORGIAN LETTER QAR" />
-	<glyph unicode="2D18" name="shin-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D18" description="Old GEORGIAN LETTER SHIN" />
-	<glyph unicode="2D19" name="chin-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D19" description="Old GEORGIAN LETTER CHIN" />
-	<glyph unicode="2D1A" name="can-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D1A" description="Old GEORGIAN LETTER CAN" />
-	<glyph unicode="2D1B" name="jil-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D1B" description="Old GEORGIAN LETTER JIL" />
-	<glyph unicode="2D1C" name="cil-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D1C" description="Old GEORGIAN LETTER CIL" />
-	<glyph unicode="2D1D" name="char-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D1D" description="Old GEORGIAN LETTER CHAR" />
-	<glyph unicode="2D1E" name="xan-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D1E" description="Old GEORGIAN LETTER XAN" />
-	<glyph unicode="2D1F" name="jhan-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D1F" description="Old GEORGIAN LETTER JHAN" />
-	<glyph unicode="2D20" name="hae-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D20" description="Old GEORGIAN LETTER HAE" />
-	<glyph unicode="2D21" name="he-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D21" description="Old GEORGIAN LETTER HE" />
-	<glyph unicode="2D22" name="hie-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D22" description="Old GEORGIAN LETTER HIE" />
-	<glyph unicode="2D23" name="we-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D23" description="Old GEORGIAN LETTER WE" />
-	<glyph unicode="2D24" name="har-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D24" description="Old GEORGIAN LETTER HAR" />
-	<glyph unicode="2D25" name="hoe-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D25" description="Old GEORGIAN LETTER HOE" />
-	<glyph unicode="2D27" name="yn-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D27" description="Old GEORGIAN LETTER YN" />
-	<glyph unicode="2D2D" name="aen-oldgeorgian" category="Letter" case="lower" script="georgian" production="uni2D2D" description="Old GEORGIAN LETTER AEN" />
+	<glyph unicode="10A0" name="An-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10A0" description="Old GEORGIAN CAPITAL LETTER AN" />
+	<glyph unicode="10A1" name="Ban-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10A1" description="Old GEORGIAN CAPITAL LETTER BAN" />
+	<glyph unicode="10A2" name="Gan-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10A2" description="Old GEORGIAN CAPITAL LETTER GAN" />
+	<glyph unicode="10A3" name="Don-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10A3" description="Old GEORGIAN CAPITAL LETTER DON" />
+	<glyph unicode="10A4" name="En-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10A4" description="Old GEORGIAN CAPITAL LETTER EN" />
+	<glyph unicode="10A5" name="Vin-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10A5" description="Old GEORGIAN CAPITAL LETTER VIN" />
+	<glyph unicode="10A6" name="Zen-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10A6" description="Old GEORGIAN CAPITAL LETTER ZEN" />
+	<glyph unicode="10A7" name="Tan-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10A7" description="Old GEORGIAN CAPITAL LETTER TAN" />
+	<glyph unicode="10A8" name="In-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10A8" description="Old GEORGIAN CAPITAL LETTER IN" />
+	<glyph unicode="10A9" name="Kan-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10A9" description="Old GEORGIAN CAPITAL LETTER KAN" />
+	<glyph unicode="10AA" name="Las-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10AA" description="Old GEORGIAN CAPITAL LETTER LAS" />
+	<glyph unicode="10AB" name="Man-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10AB" description="Old GEORGIAN CAPITAL LETTER MAN" />
+	<glyph unicode="10AC" name="Nar-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10AC" description="Old GEORGIAN CAPITAL LETTER NAR" />
+	<glyph unicode="10AD" name="On-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10AD" description="Old GEORGIAN CAPITAL LETTER ON" />
+	<glyph unicode="10AE" name="Par-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10AE" description="Old GEORGIAN CAPITAL LETTER PAR" />
+	<glyph unicode="10AF" name="Zhar-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10AF" description="Old GEORGIAN CAPITAL LETTER ZHAR" />
+	<glyph unicode="10B0" name="Rae-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10B0" description="Old GEORGIAN CAPITAL LETTER RAE" />
+	<glyph unicode="10B1" name="San-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10B1" description="Old GEORGIAN CAPITAL LETTER SAN" />
+	<glyph unicode="10B2" name="Tar-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10B2" description="Old GEORGIAN CAPITAL LETTER TAR" />
+	<glyph unicode="10B3" name="Un-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10B3" description="Old GEORGIAN CAPITAL LETTER UN" />
+	<glyph unicode="10B4" name="Phar-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10B4" description="Old GEORGIAN CAPITAL LETTER PHAR" />
+	<glyph unicode="10B5" name="Khar-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10B5" description="Old GEORGIAN CAPITAL LETTER KHAR" />
+	<glyph unicode="10B6" name="Ghan-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10B6" description="Old GEORGIAN CAPITAL LETTER GHAN" />
+	<glyph unicode="10B7" name="Qar-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10B7" description="Old GEORGIAN CAPITAL LETTER QAR" />
+	<glyph unicode="10B8" name="Shin-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10B8" description="Old GEORGIAN CAPITAL LETTER SHIN" />
+	<glyph unicode="10B9" name="Chin-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10B9" description="Old GEORGIAN CAPITAL LETTER CHIN" />
+	<glyph unicode="10BA" name="Can-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10BA" description="Old GEORGIAN CAPITAL LETTER CAN" />
+	<glyph unicode="10BB" name="Jil-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10BB" description="Old GEORGIAN CAPITAL LETTER JIL" />
+	<glyph unicode="10BC" name="Cil-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10BC" description="Old GEORGIAN CAPITAL LETTER CIL" />
+	<glyph unicode="10BD" name="Char-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10BD" description="Old GEORGIAN CAPITAL LETTER CHAR" />
+	<glyph unicode="10BE" name="Xan-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10BE" description="Old GEORGIAN CAPITAL LETTER XAN" />
+	<glyph unicode="10BF" name="Jhan-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10BF" description="Old GEORGIAN CAPITAL LETTER JHAN" />
+	<glyph unicode="10C0" name="Hae-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10C0" description="Old GEORGIAN CAPITAL LETTER HAE" />
+	<glyph unicode="10C1" name="He-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10C1" description="Old GEORGIAN CAPITAL LETTER HE" />
+	<glyph unicode="10C2" name="Hie-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10C2" description="Old GEORGIAN CAPITAL LETTER HIE" />
+	<glyph unicode="10C3" name="We-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10C3" description="Old GEORGIAN CAPITAL LETTER WE" />
+	<glyph unicode="10C4" name="Har-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10C4" description="Old GEORGIAN CAPITAL LETTER HAR" />
+	<glyph unicode="10C5" name="Hoe-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10C5" description="Old GEORGIAN CAPITAL LETTER HOE" />
+	<glyph unicode="10C7" name="Yn-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10C7" description="Old GEORGIAN CAPITAL LETTER YN" />
+	<glyph unicode="10CD" name="Aen-oldgeorgian" category="Letter" case="upper" script="old georgian" production="uni10CD" description="Old GEORGIAN CAPITAL LETTER AEN" />
+	<glyph unicode="2D00" name="an-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D00" description="Old GEORGIAN LETTER AN" />
+	<glyph unicode="2D01" name="ban-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D01" description="Old GEORGIAN LETTER BAN" />
+	<glyph unicode="2D02" name="gan-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D02" description="Old GEORGIAN LETTER GAN" />
+	<glyph unicode="2D03" name="don-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D03" description="Old GEORGIAN LETTER DON" />
+	<glyph unicode="2D04" name="en-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D04" description="Old GEORGIAN LETTER EN" />
+	<glyph unicode="2D05" name="vin-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D05" description="Old GEORGIAN LETTER VIN" />
+	<glyph unicode="2D06" name="zen-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D06" description="Old GEORGIAN LETTER ZEN" />
+	<glyph unicode="2D07" name="tan-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D07" description="Old GEORGIAN LETTER TAN" />
+	<glyph unicode="2D08" name="in-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D08" description="Old GEORGIAN LETTER IN" />
+	<glyph unicode="2D09" name="kan-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D09" description="Old GEORGIAN LETTER KAN" />
+	<glyph unicode="2D0A" name="las-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D0A" description="Old GEORGIAN LETTER LAS" />
+	<glyph unicode="2D0B" name="man-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D0B" description="Old GEORGIAN LETTER MAN" />
+	<glyph unicode="2D0C" name="nar-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D0C" description="Old GEORGIAN LETTER NAR" />
+	<glyph unicode="2D0D" name="on-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D0D" description="Old GEORGIAN LETTER ON" />
+	<glyph unicode="2D0E" name="par-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D0E" description="Old GEORGIAN LETTER PAR" />
+	<glyph unicode="2D0F" name="zhar-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D0F" description="Old GEORGIAN LETTER ZHAR" />
+	<glyph unicode="2D10" name="rae-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D10" description="Old GEORGIAN LETTER RAE" />
+	<glyph unicode="2D11" name="san-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D11" description="Old GEORGIAN LETTER SAN" />
+	<glyph unicode="2D12" name="tar-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D12" description="Old GEORGIAN LETTER TAR" />
+	<glyph unicode="2D13" name="un-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D13" description="Old GEORGIAN LETTER UN" />
+	<glyph unicode="2D14" name="phar-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D14" description="Old GEORGIAN LETTER PHAR" />
+	<glyph unicode="2D15" name="khar-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D15" description="Old GEORGIAN LETTER KHAR" />
+	<glyph unicode="2D16" name="ghan-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D16" description="Old GEORGIAN LETTER GHAN" />
+	<glyph unicode="2D17" name="qar-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D17" description="Old GEORGIAN LETTER QAR" />
+	<glyph unicode="2D18" name="shin-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D18" description="Old GEORGIAN LETTER SHIN" />
+	<glyph unicode="2D19" name="chin-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D19" description="Old GEORGIAN LETTER CHIN" />
+	<glyph unicode="2D1A" name="can-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D1A" description="Old GEORGIAN LETTER CAN" />
+	<glyph unicode="2D1B" name="jil-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D1B" description="Old GEORGIAN LETTER JIL" />
+	<glyph unicode="2D1C" name="cil-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D1C" description="Old GEORGIAN LETTER CIL" />
+	<glyph unicode="2D1D" name="char-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D1D" description="Old GEORGIAN LETTER CHAR" />
+	<glyph unicode="2D1E" name="xan-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D1E" description="Old GEORGIAN LETTER XAN" />
+	<glyph unicode="2D1F" name="jhan-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D1F" description="Old GEORGIAN LETTER JHAN" />
+	<glyph unicode="2D20" name="hae-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D20" description="Old GEORGIAN LETTER HAE" />
+	<glyph unicode="2D21" name="he-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D21" description="Old GEORGIAN LETTER HE" />
+	<glyph unicode="2D22" name="hie-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D22" description="Old GEORGIAN LETTER HIE" />
+	<glyph unicode="2D23" name="we-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D23" description="Old GEORGIAN LETTER WE" />
+	<glyph unicode="2D24" name="har-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D24" description="Old GEORGIAN LETTER HAR" />
+	<glyph unicode="2D25" name="hoe-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D25" description="Old GEORGIAN LETTER HOE" />
+	<glyph unicode="2D27" name="yn-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D27" description="Old GEORGIAN LETTER YN" />
+	<glyph unicode="2D2D" name="aen-oldgeorgian" category="Letter" case="lower" script="old georgian" production="uni2D2D" description="Old GEORGIAN LETTER AEN" />
 	<glyph unicode="10FB" name="paragraph-georgian" category="Punctuation" script="georgian" production="uni10FB" description="GEORGIAN PARAGRAPH SEPARATOR" />
 	<glyph unicode="10FC" name="narMod-georgian" category="Letter" subCategory="Modifier" script="georgian" production="uni10FC" description="MODIFIER LETTER GEORGIAN NAR" />
 	<glyph unicode="10C80" name="A-rovas" category="Letter" case="upper" script="rovas" production="u10C80" direction="RTL" description="OLD HUNGARIAN CAPITAL LETTER A" />
@@ -8586,11 +8586,11 @@
 	<glyph unicode="1099" name="nine-shan" category="Number" subCategory="Decimal Digit" script="myanmar" production="uni1099" description="MYANMAR SHAN DIGIT NINE" />
 	<glyph unicode="109A" name="tone1-khamti" category="Mark" subCategory="Spacing Combining" script="myanmar" production="uni109A" description="MYANMAR SIGN KHAMTI TONE-1" />
 	<glyph unicode="109B" name="tone3-khamti" category="Mark" subCategory="Spacing Combining" script="myanmar" production="uni109B" description="MYANMAR SIGN KHAMTI TONE-3" />
-	<glyph unicode="109C" name="a-aiton" category="Mark" subCategory="Spacing Combining" script="myanmar" production="uni109C" description="MYANMAR VOWEL SIGN AITON A" />
-	<glyph unicode="109D" name="aiMark-aiton" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni109D" description="MYANMAR VOWEL SIGN AITON AI" />
+	<glyph unicode="109C" name="aAiton-myanmar" category="Mark" subCategory="Spacing Combining" script="myanmar" production="uni109C" altNames="a-aiton" description="MYANMAR VOWEL SIGN AITON A" />
+	<glyph unicode="109D" name="aiAitonMark-myanmar" category="Mark" subCategory="Nonspacing" script="myanmar" production="uni109D" altNames="aiMark-aiton" description="MYANMAR VOWEL SIGN AITON AI" />
 	<glyph unicode="109E" name="oneSymbol-shan" category="Symbol" script="myanmar" production="uni109E" description="MYANMAR SYMBOL SHAN ONE" />
 	<glyph unicode="109F" name="exclam-shan" category="Symbol" script="myanmar" production="uni109F" description="MYANMAR SYMBOL SHAN EXCLAMATION" />
-	<glyph unicode="AA77" name="exclam-aiton" category="Symbol" script="myanmar" production="uniAA77" description="MYANMAR SYMBOL AITON EXCLAMATION" />
+	<glyph unicode="AA77" name="exclamAiton-myanmar" category="Symbol" script="myanmar" production="uniAA77" altNames="exclam-aiton" description="MYANMAR SYMBOL AITON EXCLAMATION" />
 	<glyph unicode="AA60" name="ga-khamti" category="Letter" script="myanmar" production="uniAA60" description="MYANMAR LETTER KHAMTI GA" />
 	<glyph unicode="AA61" name="ca-khamti" category="Letter" script="myanmar" production="uniAA61" description="MYANMAR LETTER KHAMTI CA" />
 	<glyph unicode="AA62" name="cha-khamti" category="Letter" script="myanmar" production="uniAA62" description="MYANMAR LETTER KHAMTI CHA" />
@@ -8614,9 +8614,9 @@
 	<glyph unicode="AA74" name="oay-khamti" category="Letter" script="myanmar" production="uniAA74" description="MYANMAR LOGOGRAM KHAMTI OAY" />
 	<glyph unicode="AA75" name="qn-khamti" category="Letter" script="myanmar" production="uniAA75" description="MYANMAR LOGOGRAM KHAMTI QN" />
 	<glyph unicode="AA76" name="hm-khamti" category="Letter" script="myanmar" production="uniAA76" description="MYANMAR LOGOGRAM KHAMTI HM" />
-	<glyph unicode="AA78" name="oneSymbol-aiton" category="Symbol" script="myanmar" production="uniAA78" description="MYANMAR SYMBOL AITON ONE" />
-	<glyph unicode="AA79" name="twoSymbol-aiton" category="Symbol" script="myanmar" production="uniAA79" description="MYANMAR SYMBOL AITON TWO" />
-	<glyph unicode="AA7A" name="ra-aiton" category="Letter" script="myanmar" production="uniAA7A" description="MYANMAR LETTER AITON RA" />
+	<glyph unicode="AA78" name="oneAitonSymbol-myanmar" category="Symbol" script="myanmar" production="uniAA78" altNames="oneSymbol-aiton" description="MYANMAR SYMBOL AITON ONE" />
+	<glyph unicode="AA79" name="twoAitonSymbol-myanmar" category="Symbol" script="myanmar" production="uniAA79" altNames="twoSymbol-aiton" description="MYANMAR SYMBOL AITON TWO" />
+	<glyph unicode="AA7A" name="raAiton-myanmar" category="Letter" script="myanmar" production="uniAA7A" altNames="ra-aiton" description="MYANMAR LETTER AITON RA" />
 	<glyph unicode="AA7B" name="tone-paokaren" category="Mark" subCategory="Spacing Combining" script="myanmar" production="uniAA7B" description="MYANMAR SIGN PAO KAREN TONE" />
 	<glyph unicode="AA7C" name="tone2-tailaing" category="Mark" subCategory="Nonspacing" script="myanmar" production="uniAA7C" description="MYANMAR SIGN TAI LAING TONE-2" />
 	<glyph unicode="AA7D" name="tone5-tailaing" category="Mark" subCategory="Spacing Combining" script="myanmar" production="uniAA7D" description="MYANMAR SIGN TAI LAING TONE-5" />
@@ -9739,15 +9739,15 @@
 	<glyph unicode="301E" name="quotedoubleprime" category="Punctuation" subCategory="Quote" production="uni301E" altNames="quotedblprime" description="DOUBLE PRIME QUOTATION MARK" />
 	<glyph unicode="301F" name="lowquotedoubleprime" category="Punctuation" subCategory="Quote" production="uni301F" description="LOW DOUBLE PRIME QUOTATION MARK" />
 	<glyph unicode="3020" name="postalmarkface" category="Symbol" production="uni3020" description="POSTAL MARK FACE" />
-	<glyph unicode="3021" name="one-hangzhou" category="Number" script="han" production="uni3021" altNames="onehangzhou" description="HANGZHOU NUMERAL ONE" />
-	<glyph unicode="3022" name="two-hangzhou" category="Number" script="han" production="uni3022" altNames="twohangzhou" description="HANGZHOU NUMERAL TWO" />
-	<glyph unicode="3023" name="three-hangzhou" category="Number" script="han" production="uni3023" altNames="threehangzhou" description="HANGZHOU NUMERAL THREE" />
-	<glyph unicode="3024" name="four-hangzhou" category="Number" script="han" production="uni3024" altNames="fourhangzhou" description="HANGZHOU NUMERAL FOUR" />
-	<glyph unicode="3025" name="five-hangzhou" category="Number" script="han" production="uni3025" altNames="fivehangzhou" description="HANGZHOU NUMERAL FIVE" />
-	<glyph unicode="3026" name="six-hangzhou" category="Number" script="han" production="uni3026" altNames="sixhangzhou" description="HANGZHOU NUMERAL SIX" />
-	<glyph unicode="3027" name="seven-hangzhou" category="Number" script="han" production="uni3027" altNames="sevenhangzhou" description="HANGZHOU NUMERAL SEVEN" />
-	<glyph unicode="3028" name="eight-hangzhou" category="Number" script="han" production="uni3028" altNames="eighthangzhou" description="HANGZHOU NUMERAL EIGHT" />
-	<glyph unicode="3029" name="nine-hangzhou" category="Number" script="han" production="uni3029" altNames="ninehangzhou" description="HANGZHOU NUMERAL NINE" />
+	<glyph unicode="3021" name="one-han" category="Number" script="han" production="uni3021" altNames="onehangzhou, one-hangzhou" description="HANGZHOU NUMERAL ONE" />
+	<glyph unicode="3022" name="two-han" category="Number" script="han" production="uni3022" altNames="twohangzhou, two-hangzhou" description="HANGZHOU NUMERAL TWO" />
+	<glyph unicode="3023" name="three-han" category="Number" script="han" production="uni3023" altNames="threehangzhou, three-hangzhou" description="HANGZHOU NUMERAL THREE" />
+	<glyph unicode="3024" name="four-han" category="Number" script="han" production="uni3024" altNames="fourhangzhou, four-hangzhou" description="HANGZHOU NUMERAL FOUR" />
+	<glyph unicode="3025" name="five-han" category="Number" script="han" production="uni3025" altNames="fivehangzhou, five-hangzhou" description="HANGZHOU NUMERAL FIVE" />
+	<glyph unicode="3026" name="six-han" category="Number" script="han" production="uni3026" altNames="sixhangzhou, six-hangzhou" description="HANGZHOU NUMERAL SIX" />
+	<glyph unicode="3027" name="seven-han" category="Number" script="han" production="uni3027" altNames="sevenhangzhou, seven-hangzhou" description="HANGZHOU NUMERAL SEVEN" />
+	<glyph unicode="3028" name="eight-han" category="Number" script="han" production="uni3028" altNames="eighthangzhou, eight-hangzhou" description="HANGZHOU NUMERAL EIGHT" />
+	<glyph unicode="3029" name="nine-han" category="Number" script="han" production="uni3029" altNames="ninehangzhou, nine-hangzhou" description="HANGZHOU NUMERAL NINE" />
 	<glyph unicode="302A" name="leveltone-han" category="Mark" subCategory="Nonspacing" script="han" production="uni302A" description="IDEOGRAPHIC LEVEL TONE MARK" />
 	<glyph unicode="302B" name="risingtone-han" category="Mark" subCategory="Nonspacing" script="han" production="uni302B" description="IDEOGRAPHIC RISING TONE MARK" />
 	<glyph unicode="302C" name="departingtone-han" category="Mark" subCategory="Nonspacing" script="han" production="uni302C" description="IDEOGRAPHIC DEPARTING TONE MARK" />
@@ -9762,9 +9762,9 @@
 	<glyph unicode="3035" name="repeatLowerhalf-kana" category="Letter" subCategory="Modifier" script="kana" production="uni3035" description="VERTICAL KANA REPEAT MARK LOWER HALF" />
 	<glyph unicode="3036" name="postalmark.circled" category="Symbol" production="uni3036" altNames="circlepostalmark" description="CIRCLED POSTAL MARK" />
 	<glyph unicode="3037" name="telegraphLineFeed-han" category="Symbol" script="han" production="uni3037" description="IDEOGRAPHIC TELEGRAPH LINE FEED SEPARATOR SYMBOL" />
-	<glyph unicode="3038" name="ten-hangzhou" category="Number" script="han" production="uni3038" description="HANGZHOU NUMERAL TEN" />
-	<glyph unicode="3039" name="twenty-hangzhou" category="Number" script="han" production="uni3039" description="HANGZHOU NUMERAL TWENTY" />
-	<glyph unicode="303A" name="thirty-hangzhou" category="Number" script="han" production="uni303A" description="HANGZHOU NUMERAL THIRTY" />
+	<glyph unicode="3038" name="ten-han" category="Number" script="han" production="uni3038" altNames="ten-hangzhou" description="HANGZHOU NUMERAL TEN" />
+	<glyph unicode="3039" name="twenty-han" category="Number" script="han" production="uni3039" altNames="twenty-hangzhou" description="HANGZHOU NUMERAL TWENTY" />
+	<glyph unicode="303A" name="thirty-han" category="Number" script="han" production="uni303A" altNames="thirty-hangzhou" description="HANGZHOU NUMERAL THIRTY" />
 	<glyph unicode="303B" name="ninojiten-han" category="Letter" subCategory="Modifier" script="han" production="uni303B" description="VERTICAL IDEOGRAPHIC ITERATION MARK" />
 	<glyph unicode="303C" name="masumark" category="Letter" production="uni303C" description="MASU MARK" />
 	<glyph unicode="303D" name="partalternationmark" category="Punctuation" production="uni303D" description="PART ALTERNATION MARK" />
@@ -23755,6 +23755,31 @@
 	<glyph unicode="16EE" name="arlaug-runic" category="Symbol" script="runic" production="uni16EE" description="RUNIC ARLAUG SYMBOL" />
 	<glyph unicode="16EF" name="tvimadur-runic" category="Symbol" script="runic" production="uni16EF" description="RUNIC TVIMADUR SYMBOL" />
 	<glyph unicode="16F0" name="belgthor-runic" category="Symbol" script="runic" production="uni16F0" description="RUNIC BELGTHOR SYMBOL" />
+	<glyph unicode="1700" name="a-baybayin" category="Letter" script="tagalog" production="uni1700" description="TAGALOG LETTER A" />
+	<glyph unicode="1701" name="i-baybayin" category="Letter" script="tagalog" production="uni1701" description="TAGALOG LETTER I" />
+	<glyph unicode="1702" name="u-baybayin" category="Letter" script="tagalog" production="uni1702" description="TAGALOG LETTER U" />
+	<glyph unicode="170A" name="ba-baybayin" category="Letter" script="tagalog" production="uni170A" description="TAGALOG LETTER BA" />
+	<glyph unicode="1703" name="ka-baybayin" category="Letter" script="tagalog" production="uni1703" description="TAGALOG LETTER KA" />
+	<glyph unicode="1707" name="da-baybayin" category="Letter" script="tagalog" production="uni1707" description="TAGALOG LETTER DA" />
+	<glyph unicode="1704" name="ga-baybayin" category="Letter" script="tagalog" production="uni1704" description="TAGALOG LETTER GA" />
+	<glyph unicode="1711" name="ha-baybayin" category="Letter" script="tagalog" production="uni1711" description="TAGALOG LETTER HA" />
+	<glyph unicode="170E" name="la-baybayin" category="Letter" script="tagalog" production="uni170E" description="TAGALOG LETTER LA" />
+	<glyph unicode="170B" name="ma-baybayin" category="Letter" script="tagalog" production="uni170B" description="TAGALOG LETTER MA" />
+	<glyph unicode="1708" name="na-baybayin" category="Letter" script="tagalog" production="uni1708" description="TAGALOG LETTER NA" />
+	<glyph unicode="1705" name="nga-baybayin" category="Letter" script="tagalog" production="uni1705" description="TAGALOG LETTER NGA" />
+	<glyph unicode="1709" name="pa-baybayin" category="Letter" script="tagalog" production="uni1709" description="TAGALOG LETTER PA" />
+	<glyph unicode="170D" name="ra-baybayin" category="Letter" script="tagalog" production="uni170D" description="TAGALOG LETTER RA" />
+	<glyph unicode="1710" name="sa-baybayin" category="Letter" script="tagalog" production="uni1710" description="TAGALOG LETTER SA" />
+	<glyph unicode="1706" name="ta-baybayin" category="Letter" script="tagalog" production="uni1706" description="TAGALOG LETTER TA" />
+	<glyph unicode="170F" name="wa-baybayin" category="Letter" script="tagalog" production="uni170F" description="TAGALOG LETTER WA" />
+	<glyph unicode="170C" name="ya-baybayin" category="Letter" script="tagalog" production="uni170C" description="TAGALOG LETTER YA" />
+	<glyph unicode="171F" name="raArchaic-baybayin" category="Letter" script="tagalog" production="uni171F" description="TAGALOG LETTER ARCHAIC RA" />
+	<glyph unicode="1712" name="iPatinig-baybayin" category="Mark" subCategory="Nonspacing" script="tagalog" production="uni1712" description="TAGALOG VOWEL SIGN I" />
+	<glyph unicode="1713" name="uPatinig-baybayin" category="Mark" subCategory="Nonspacing" script="tagalog" production="uni1713" description="TAGALOG VOWEL SIGN U" />
+	<glyph unicode="1714" name="virama-baybayin" category="Mark" subCategory="Nonspacing" script="tagalog" production="uni1714" description="TAGALOG SIGN VIRAMA" />
+	<glyph unicode="1715" name="pamudpod-baybayin" category="Mark" subCategory="Spacing" script="tagalog" production="uni1715" description="TAGALOG SIGN PAMUDPOD" />
+	<glyph unicode="1735" name="isabantas-baybayin" category="Punctuation" script="tagalog" production="uni1735" description="PHILIPPINE SINGLE PUNCTUATION" />
+	<glyph unicode="1736" name="dalawabantas-baybayin" category="Punctuation" script="tagalog" production="uni1736" description="PHILIPPINE DOUBLE PUNCTUATION" />
 	<glyph unicode="18B0" name="oy-canadian" category="Letter" script="canadian" production="uni18B0" description="CANADIAN SYLLABICS OY" />
 	<glyph unicode="18B1" name="ay-canadian" category="Letter" script="canadian" production="uni18B1" description="CANADIAN SYLLABICS AY" />
 	<glyph unicode="18B2" name="aay-canadian" category="Letter" script="canadian" production="uni18B2" description="CANADIAN SYLLABICS AAY" />
