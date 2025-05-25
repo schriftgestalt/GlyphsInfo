@@ -1,14 +1,19 @@
-#MenuTitle: write simple GlyphData
+# MenuTitle: write simple GlyphData
 # -*- coding: utf-8 -*-
 
 import codecs
+from GlyphsApp import GSGlyphsInfo, GSGlyphInfo, GSRTL
+
+
 print(">>Start")
+
 infos = GSGlyphsInfo.sharedManager().glyphInfos()
 # or:
 # infos = GSGlyphsInfo.alloc().initWithLocalFile_(NSURL.fileURLWithPath_("path to custom GlyphData.xml file"))
 
 f = codecs.open("GlyphData.xml", "w", "utf-8")
 fIdeo = codecs.open("GlyphData_Ideographs.xml", "w", "utf-8")
+
 
 def writeHeader(f):
 	f.write('<?xml version="1.0" encoding="UTF-8" ?>\n\
@@ -32,21 +37,24 @@ def writeHeader(f):
 ]>\n\
 <glyphData>\n')
 
+
 writeHeader(f)
 writeHeader(fIdeo)
 
-disabledGlyphs = ["brevecomb_acutecomb",
-				"brevecomb_gravecomb",
-				"brevecomb_hookabovecomb",
-				"brevecomb_tildecomb",
-				"circumflexcomb_acutecomb",
-				"circumflexcomb_gravecomb",
-				"circumflexcomb_hookabovecomb", 
-				"circumflexcomb_tildecomb",
-				"idotaccent.sc", 
-				"i.sc",
-				]
+disabledGlyphs = [
+	"brevecomb_acutecomb",
+	"brevecomb_gravecomb",
+	"brevecomb_hookabovecomb",
+	"brevecomb_tildecomb",
+	"circumflexcomb_acutecomb",
+	"circumflexcomb_gravecomb",
+	"circumflexcomb_hookabovecomb",
+	"circumflexcomb_tildecomb",
+	"idotaccent.sc",
+	"i.sc",
+]
 forcedGlyphs = ["ringcenter-ar"]
+
 
 def printInfo(info):
 	string = '	<glyph '
@@ -62,7 +70,7 @@ def printInfo(info):
 	if info.subCategory and info.subCategory != "Other":
 		string += 'subCategory="' + info.subCategory + '" '
 	if info.case > 0:
-		string += 'case="'+GSGlyphInfo.stringFromCase_(info.case) + '" '
+		string += 'case="' + GSGlyphInfo.stringFromCase_(info.case) + '" '
 	if info.script:
 		string += 'script="' + info.script + '" '
 	if info.productionName:
@@ -73,13 +81,15 @@ def printInfo(info):
 		string += 'altNames="' + ", ".join(info.altNames) + '" '
 	if info.desc:
 		string += 'description="' + info.desc + '" '
-	
+
 	string += '/>\n'
 	return string
+
+
 ideoInfos = []
 count = 0
 for info in infos:
-	name = info.name;
+	name = info.name
 	isUniName = False
 	try:
 		if name.startswith("uni"):
