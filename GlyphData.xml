@@ -24,19 +24,19 @@
 	<glyph unicode="000D" name="CR" category="Separator" altNames="controlCR" description="CARRIAGE RETURN" />
 	<glyph unicode="007F" name="DEL" category="Separator" altNames="controlDEL" description="DELETE" />
 	<glyph unicode="0020" name="space" category="Separator" subCategory="Space" description="SPACE" />
-	<glyph unicode="0021" name="exclam" category="Punctuation" case="upper" description="EXCLAMATION MARK" />
-	<glyph unicode="0022" name="quotedbl" category="Punctuation" subCategory="Quote" description="QUOTATION MARK" />
+	<glyph unicode="0021" name="exclam" category="Punctuation" case="upper" direction="BIDI" description="EXCLAMATION MARK" />
+	<glyph unicode="0022" name="quotedbl" category="Punctuation" subCategory="Quote" direction="BIDI" description="QUOTATION MARK" />
 	<glyph unicode="0023" name="numbersign" category="Punctuation" description="NUMBER SIGN" />
 	<glyph unicode="0024" name="dollar" category="Symbol" subCategory="Currency" description="DOLLAR SIGN" />
 	<glyph unicode="0025" name="percent" category="Symbol" subCategory="Math" description="PERCENT SIGN" />
 	<glyph unicode="0026" name="ampersand" category="Symbol" description="AMPERSAND" />
-	<glyph unicode="0027" name="quotesingle" category="Punctuation" subCategory="Quote" description="APOSTROPHE" />
-	<glyph unicode="0028" name="parenleft" category="Punctuation" subCategory="Parenthesis" description="LEFT PARENTHESIS" />
-	<glyph unicode="0029" name="parenright" category="Punctuation" subCategory="Parenthesis" description="RIGHT PARENTHESIS" />
-	<glyph unicode="002A" name="asterisk" category="Punctuation" description="ASTERISK" />
+	<glyph unicode="0027" name="quotesingle" category="Punctuation" subCategory="Quote" direction="BIDI" description="APOSTROPHE" />
+	<glyph unicode="0028" name="parenleft" category="Punctuation" subCategory="Parenthesis" direction="BIDI" description="LEFT PARENTHESIS" />
+	<glyph unicode="0029" name="parenright" category="Punctuation" subCategory="Parenthesis" direction="BIDI" description="RIGHT PARENTHESIS" />
+	<glyph unicode="002A" name="asterisk" category="Punctuation" direction="BIDI" description="ASTERISK" />
 	<glyph unicode="002B" name="plus" category="Symbol" subCategory="Math" description="PLUS SIGN" />
-	<glyph unicode="002C" name="comma" category="Punctuation" description="COMMA" />
-	<glyph unicode="002D" name="hyphen" category="Punctuation" subCategory="Dash" description="HYPHEN-MINUS" />
+	<glyph unicode="002C" name="comma" category="Punctuation" direction="BIDI" description="COMMA" />
+	<glyph unicode="002D" name="hyphen" category="Punctuation" subCategory="Dash" direction="BIDI" description="HYPHEN-MINUS" />
 	<glyph unicode="002E" name="period" category="Punctuation" description="FULL STOP" />
 	<glyph unicode="002F" name="slash" category="Punctuation" description="SOLIDUS" />
 	<glyph unicode="0030" name="zero" category="Number" subCategory="Decimal Digit" description="DIGIT ZERO" />
@@ -50,11 +50,11 @@
 	<glyph unicode="0038" name="eight" category="Number" subCategory="Decimal Digit" description="DIGIT EIGHT" />
 	<glyph unicode="0039" name="nine" category="Number" subCategory="Decimal Digit" description="DIGIT NINE" />
 	<glyph unicode="003A" name="colon" category="Punctuation" description="COLON" />
-	<glyph unicode="003B" name="semicolon" category="Punctuation" description="SEMICOLON" />
+	<glyph unicode="003B" name="semicolon" category="Punctuation" direction="BIDI" description="SEMICOLON" />
 	<glyph unicode="003C" name="less" category="Symbol" subCategory="Math" case="lower" description="LESS-THAN SIGN" />
 	<glyph unicode="003D" name="equal" category="Symbol" subCategory="Math" description="EQUALS SIGN" />
 	<glyph unicode="003E" name="greater" category="Symbol" subCategory="Math" case="lower" description="GREATER-THAN SIGN" />
-	<glyph unicode="003F" name="question" category="Punctuation" case="upper" description="QUESTION MARK" />
+	<glyph unicode="003F" name="question" category="Punctuation" case="upper" direction="BIDI" description="QUESTION MARK" />
 	<glyph unicode="0040" name="at" category="Symbol" description="COMMERCIAL AT" />
 	<glyph unicode="0041" name="A" category="Letter" case="upper" script="latin" description="LATIN CAPITAL LETTER A" />
 	<glyph unicode="0042" name="B" category="Letter" case="upper" script="latin" description="LATIN CAPITAL LETTER B" />
@@ -82,10 +82,10 @@
 	<glyph unicode="0058" name="X" category="Letter" case="upper" script="latin" description="LATIN CAPITAL LETTER X" />
 	<glyph unicode="0059" name="Y" category="Letter" case="upper" script="latin" description="LATIN CAPITAL LETTER Y" />
 	<glyph unicode="005A" name="Z" category="Letter" case="upper" script="latin" description="LATIN CAPITAL LETTER Z" />
-	<glyph unicode="005B" name="bracketleft" category="Punctuation" subCategory="Parenthesis" description="LEFT SQUARE BRACKET" />
-	<glyph unicode="005D" name="bracketright" category="Punctuation" subCategory="Parenthesis" description="RIGHT SQUARE BRACKET" />
-	<glyph unicode="005C" name="backslash" category="Punctuation" description="REVERSE SOLIDUS" />
-	<glyph unicode="005F" name="underscore" category="Punctuation" subCategory="Dash" description="LOW LINE" />
+	<glyph unicode="005B" name="bracketleft" category="Punctuation" subCategory="Parenthesis" direction="BIDI" description="LEFT SQUARE BRACKET" />
+	<glyph unicode="005D" name="bracketright" category="Punctuation" subCategory="Parenthesis" direction="BIDI" description="RIGHT SQUARE BRACKET" />
+	<glyph unicode="005C" name="backslash" category="Punctuation" direction="BIDI" description="REVERSE SOLIDUS" />
+	<glyph unicode="005F" name="underscore" category="Punctuation" subCategory="Dash" direction="BIDI" description="LOW LINE" />
 	<glyph unicode="0061" name="a" category="Letter" case="lower" script="latin" description="LATIN SMALL LETTER A" />
 	<glyph unicode="0062" name="b" category="Letter" case="lower" script="latin" description="LATIN SMALL LETTER B" />
 	<glyph unicode="0063" name="c" category="Letter" case="lower" script="latin" description="LATIN SMALL LETTER C" />
@@ -112,12 +112,12 @@
 	<glyph unicode="0078" name="x" category="Letter" case="lower" script="latin" description="LATIN SMALL LETTER X" />
 	<glyph unicode="0079" name="y" category="Letter" case="lower" script="latin" description="LATIN SMALL LETTER Y" />
 	<glyph unicode="007A" name="z" category="Letter" case="lower" script="latin" description="LATIN SMALL LETTER Z" />
-	<glyph unicode="007B" name="braceleft" category="Punctuation" subCategory="Parenthesis" description="LEFT CURLY BRACKET" />
-	<glyph unicode="007D" name="braceright" category="Punctuation" subCategory="Parenthesis" description="RIGHT CURLY BRACKET" />
+	<glyph unicode="007B" name="braceleft" category="Punctuation" subCategory="Parenthesis" direction="BIDI" description="LEFT CURLY BRACKET" />
+	<glyph unicode="007D" name="braceright" category="Punctuation" subCategory="Parenthesis" direction="BIDI" description="RIGHT CURLY BRACKET" />
 	<glyph unicode="007C" name="bar" category="Symbol" altNames="verticalbar" description="VERTICAL LINE" />
 	<glyph unicode="007E" name="asciitilde" category="Symbol" subCategory="Math" description="TILDE" />
 	<glyph unicode="00A0" name="nbspace" category="Separator" subCategory="Space" production="uni00A0" altNames="nonbreakingspace" description="NO-BREAK SPACE" />
-	<glyph unicode="00A1" name="exclamdown" category="Punctuation" case="lower" description="INVERTED EXCLAMATION MARK" />
+	<glyph unicode="00A1" name="exclamdown" category="Punctuation" case="lower" direction="BIDI" description="INVERTED EXCLAMATION MARK" />
 	<glyph unicode="00A2" name="cent" category="Symbol" subCategory="Currency" description="CENT SIGN" />
 	<glyph unicode="00A3" name="sterling" category="Symbol" subCategory="Currency" description="POUND SIGN" />
 	<glyph unicode="00A4" name="currency" category="Symbol" subCategory="Currency" description="CURRENCY SIGN" />
@@ -1913,7 +1913,7 @@
 	<glyph unicode="A670" name="tenmillionscomb-cy" category="Mark" subCategory="Enclosing" script="cyrillic" production="uniA670" description="COMBINING CYRILLIC TEN MILLIONS SIGN" />
 	<glyph unicode="A671" name="hundredmillionscomb-cy" category="Mark" subCategory="Enclosing" script="cyrillic" production="uniA671" description="COMBINING CYRILLIC HUNDRED MILLIONS SIGN" />
 	<glyph unicode="A672" name="thousandmillionscomb-cy" category="Mark" subCategory="Enclosing" script="cyrillic" production="uniA672" description="COMBINING CYRILLIC THOUSAND MILLIONS SIGN" />
-	<glyph unicode="A673" name="asterisk-cy" category="Punctuation" script="cyrillic" production="uniA673" altNames="asterisk-slavonic" description="SLAVONIC ASTERISK" />
+	<glyph unicode="A673" name="asterisk-cy" category="Punctuation" script="cyrillic" production="uniA673" direction="BIDI" altNames="asterisk-slavonic" description="SLAVONIC ASTERISK" />
 	<glyph unicode="A674" name="ieukrainiancomb-cy" category="Mark" subCategory="Nonspacing" script="cyrillic" production="uniA674" description="COMBINING CYRILLIC LETTER UKRAINIAN IE" />
 	<glyph unicode="A675" name="icomb-cy" category="Mark" subCategory="Nonspacing" script="cyrillic" production="uniA675" description="COMBINING CYRILLIC LETTER I" />
 	<glyph unicode="A676" name="yicomb-cy" category="Mark" subCategory="Nonspacing" script="cyrillic" production="uniA676" description="COMBINING CYRILLIC LETTER YI" />
@@ -1924,8 +1924,8 @@
 	<glyph unicode="A67B" name="omegacomb-cy" category="Mark" subCategory="Nonspacing" script="cyrillic" production="uniA67B" description="COMBINING CYRILLIC LETTER OMEGA" />
 	<glyph unicode="A67C" name="kavykacomb-cy" category="Mark" subCategory="Nonspacing" script="cyrillic" production="uniA67C" description="COMBINING CYRILLIC KAVYKA" />
 	<glyph unicode="A67D" name="payerokcomb-cy" category="Mark" subCategory="Nonspacing" script="cyrillic" production="uniA67D" description="COMBINING CYRILLIC PAYEROK" />
-	<glyph unicode="A67E" name="kavyka-cy" category="Punctuation" script="cyrillic" production="uniA67E" description="CYRILLIC KAVYKA" />
-	<glyph unicode="A67F" name="payerok-cy" category="Letter" subCategory="Modifier" script="cyrillic" production="uniA67F" description="CYRILLIC PAYEROK" />
+	<glyph unicode="A67E" name="kavyka-cy" category="Punctuation" script="cyrillic" production="uniA67E" direction="BIDI" description="CYRILLIC KAVYKA" />
+	<glyph unicode="A67F" name="payerok-cy" category="Letter" subCategory="Modifier" script="cyrillic" production="uniA67F" direction="BIDI" description="CYRILLIC PAYEROK" />
 	<glyph unicode="A680" name="Dwe-cy" category="Letter" case="upper" script="cyrillic" production="uniA680" description="CYRILLIC CAPITAL LETTER DWE" />
 	<glyph unicode="A681" name="dwe-cy" category="Letter" case="lower" script="cyrillic" production="uniA681" description="CYRILLIC SMALL LETTER DWE" />
 	<glyph unicode="A682" name="Dzwe-cy" category="Letter" case="upper" script="cyrillic" production="uniA682" description="CYRILLIC CAPITAL LETTER DZWE" />
@@ -5788,7 +5788,7 @@
 	<glyph unicode="06E4" name="maddalong-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni06E4" direction="RTL" description="ARABIC SMALL HIGH MADDA" />
 	<glyph unicode="06E7" name="yehabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni06E7" direction="RTL" description="ARABIC SMALL HIGH YEH" />
 	<glyph unicode="06E8" name="noonabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni06E8" direction="RTL" description="ARABIC SMALL HIGH NOON" />
-	<glyph unicode="06E9" name="sajdah-ar" category="Symbol" script="arabic" production="uni06E9" description="ARABIC PLACE OF SAJDAH" />
+	<glyph unicode="06E9" name="sajdah-ar" category="Symbol" script="arabic" production="uni06E9" direction="BIDI" description="ARABIC PLACE OF SAJDAH" />
 	<glyph unicode="06EA" name="rhombusStopbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni06EA" direction="RTL" description="ARABIC EMPTY CENTRE LOW STOP" />
 	<glyph unicode="06EB" name="rhombusStopabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni06EB" direction="RTL" description="ARABIC EMPTY CENTRE HIGH STOP" />
 	<glyph unicode="06EC" name="dotStopabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni06EC" direction="RTL" description="ARABIC ROUNDED HIGH STOP WITH FILLED CENTRE" />
@@ -5824,8 +5824,8 @@
 	<glyph unicode="066B" name="decimalseparator-ar" category="Number" script="arabic" production="uni066B" altNames="decimalseparatorarabic, decimalseparatorpersian" description="ARABIC DECIMAL SEPARATOR" />
 	<glyph unicode="066C" name="thousandseparator-ar" category="Number" script="arabic" production="uni066C" altNames="thousandsseparatorarabic, thousandsseparatorpersian" description="ARABIC THOUSANDS SEPARATOR" />
 	<glyph unicode="066D" name="asterisk-ar" category="Punctuation" script="arabic" production="uni066D" direction="RTL" altNames="afii63167, asteriskaltonearabic, asteriskarabic" description="ARABIC FIVE POINTED STAR" />
-	<glyph unicode="FD3E" name="parenleft-ar" category="Punctuation" subCategory="Parenthesis" script="arabic" production="uniFD3E" altNames="parenleftaltonearabic" description="ORNATE LEFT PARENTHESIS" />
-	<glyph unicode="FD3F" name="parenright-ar" category="Punctuation" subCategory="Parenthesis" script="arabic" production="uniFD3F" altNames="parenrightaltonearabic" description="ORNATE RIGHT PARENTHESIS" />
+	<glyph unicode="FD3E" name="parenleft-ar" category="Punctuation" subCategory="Parenthesis" script="arabic" production="uniFD3E" direction="BIDI" altNames="parenleftaltonearabic" description="ORNATE LEFT PARENTHESIS" />
+	<glyph unicode="FD3F" name="parenright-ar" category="Punctuation" subCategory="Parenthesis" script="arabic" production="uniFD3F" direction="BIDI" altNames="parenrightaltonearabic" description="ORNATE RIGHT PARENTHESIS" />
 	<glyph unicode="0601" name="year-ar" category="Punctuation" script="arabic" production="uni0601" direction="RTL" description="ARABIC SIGN SANAH" />
 	<glyph unicode="0602" name="footnotemarker-ar" category="Punctuation" script="arabic" production="uni0602" direction="RTL" description="ARABIC FOOTNOTE MARKER" />
 	<glyph unicode="0603" name="pagenumber-ar" category="Punctuation" script="arabic" production="uni0603" direction="RTL" description="ARABIC SIGN SAFHA" />

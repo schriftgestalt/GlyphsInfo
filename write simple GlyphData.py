@@ -75,7 +75,7 @@ def printInfo(info):
 		string += 'script="' + info.script + '" '
 	if info.productionName:
 		string += 'production="' + info.productionName + '" '
-	if info.direction == GSRTL:
+	if info.direction and info.direction != GSLTR:
 		string += 'direction="%s" ' % GSGlyphInfo.stringFromDirection_(info.direction)
 	if info.altNames:
 		string += 'altNames="' + ", ".join(info.altNames) + '" '
