@@ -3693,6 +3693,86 @@
 	<glyph unicode="11141" name="danda-chakma" category="Punctuation" script="chakma" production="u11141" description="CHAKMA DANDA" />
 	<glyph unicode="11142" name="dandaDouble-chakma" category="Punctuation" script="chakma" production="u11142" altNames="doubledanda-chakma" description="CHAKMA DOUBLE DANDA" />
 	<glyph unicode="11143" name="question-chakma" category="Punctuation" script="chakma" production="u11143" description="CHAKMA QUESTION MARK" />
+	<glyph unicode="11380" name="a-tutg" category="Letter" script="tulu tigalari" production="u11380" description="TULU-TIGALARI LETTER A" />
+	<glyph unicode="11381" name="aa-tutg" category="Letter" script="tulu tigalari" production="u11381" description="TULU-TIGALARI LETTER AA" />
+	<glyph unicode="11382" name="i-tutg" category="Letter" script="tulu tigalari" production="u11382" description="TULU-TIGALARI LETTER I" />
+	<glyph unicode="11383" name="ii-tutg" category="Letter" script="tulu tigalari" production="u11383" description="TULU-TIGALARI LETTER II" />
+	<glyph unicode="11384" name="u-tutg" category="Letter" script="tulu tigalari" production="u11384" description="TULU-TIGALARI LETTER U" />
+	<glyph unicode="11385" name="uu-tutg" category="Letter" script="tulu tigalari" production="u11385" description="TULU-TIGALARI LETTER UU" />
+	<glyph unicode="11386" name="rVocalic-tutg" category="Letter" script="tulu tigalari" production="u11386" description="TULU-TIGALARI LETTER VOCALIC R" />
+	<glyph unicode="11387" name="rrVocalic-tutg" category="Letter" script="tulu tigalari" production="u11387" description="TULU-TIGALARI LETTER VOCALIC RR" />
+	<glyph unicode="11388" name="lVocalic-tutg" category="Letter" script="tulu tigalari" production="u11388" description="TULU-TIGALARI LETTER VOCALIC L" />
+	<glyph unicode="11389" name="llVocalic-tutg" category="Letter" script="tulu tigalari" production="u11389" description="TULU-TIGALARI LETTER VOCALIC LL" />
+	<glyph unicode="1138B" name="ee-tutg" category="Letter" script="tulu tigalari" production="u1138B" description="TULU-TIGALARI LETTER EE" />
+	<glyph unicode="1138E" name="ai-tutg" category="Letter" script="tulu tigalari" production="u1138E" description="TULU-TIGALARI LETTER AI" />
+	<glyph unicode="11390" name="oo-tutg" category="Letter" script="tulu tigalari" production="u11390" description="TULU-TIGALARI LETTER OO" />
+	<glyph unicode="11391" name="au-tutg" category="Letter" script="tulu tigalari" production="u11391" description="TULU-TIGALARI LETTER AU" />
+	<glyph unicode="11392" name="ka-tutg" category="Letter" script="tulu tigalari" production="u11392" description="TULU-TIGALARI LETTER KA" />
+	<glyph unicode="11393" name="kha-tutg" category="Letter" script="tulu tigalari" production="u11393" description="TULU-TIGALARI LETTER KHA" />
+	<glyph unicode="11394" name="ga-tutg" category="Letter" script="tulu tigalari" production="u11394" description="TULU-TIGALARI LETTER GA" />
+	<glyph unicode="11395" name="gha-tutg" category="Letter" script="tulu tigalari" production="u11395" description="TULU-TIGALARI LETTER GHA" />
+	<glyph unicode="11396" name="nga-tutg" category="Letter" script="tulu tigalari" production="u11396" description="TULU-TIGALARI LETTER NGA" />
+	<glyph unicode="11397" name="ca-tutg" category="Letter" script="tulu tigalari" production="u11397" description="TULU-TIGALARI LETTER CA" />
+	<glyph unicode="11398" name="cha-tutg" category="Letter" script="tulu tigalari" production="u11398" description="TULU-TIGALARI LETTER CHA" />
+	<glyph unicode="11399" name="ja-tutg" category="Letter" script="tulu tigalari" production="u11399" description="TULU-TIGALARI LETTER JA" />
+	<glyph unicode="1139A" name="jha-tutg" category="Letter" script="tulu tigalari" production="u1139A" description="TULU-TIGALARI LETTER JHA" />
+	<glyph unicode="1139B" name="nya-tutg" category="Letter" script="tulu tigalari" production="u1139B" description="TULU-TIGALARI LETTER NYA" />
+	<glyph unicode="1139C" name="tta-tutg" category="Letter" script="tulu tigalari" production="u1139C" description="TULU-TIGALARI LETTER TTA" />
+	<glyph unicode="1139D" name="ttha-tutg" category="Letter" script="tulu tigalari" production="u1139D" description="TULU-TIGALARI LETTER TTHA" />
+	<glyph unicode="1139E" name="dda-tutg" category="Letter" script="tulu tigalari" production="u1139E" description="TULU-TIGALARI LETTER DDA" />
+	<glyph unicode="1139F" name="ddha-tutg" category="Letter" script="tulu tigalari" production="u1139F" description="TULU-TIGALARI LETTER DDHA" />
+	<glyph unicode="113A0" name="nna-tutg" category="Letter" script="tulu tigalari" production="u113A0" description="TULU-TIGALARI LETTER NNA" />
+	<glyph unicode="113A1" name="ta-tutg" category="Letter" script="tulu tigalari" production="u113A1" description="TULU-TIGALARI LETTER TA" />
+	<glyph unicode="113A2" name="tha-tutg" category="Letter" script="tulu tigalari" production="u113A2" description="TULU-TIGALARI LETTER THA" />
+	<glyph unicode="113A3" name="da-tutg" category="Letter" script="tulu tigalari" production="u113A3" description="TULU-TIGALARI LETTER DA" />
+	<glyph unicode="113A4" name="dha-tutg" category="Letter" script="tulu tigalari" production="u113A4" description="TULU-TIGALARI LETTER DHA" />
+	<glyph unicode="113A5" name="na-tutg" category="Letter" script="tulu tigalari" production="u113A5" description="TULU-TIGALARI LETTER NA" />
+	<glyph unicode="113A6" name="pa-tutg" category="Letter" script="tulu tigalari" production="u113A6" description="TULU-TIGALARI LETTER PA" />
+	<glyph unicode="113A7" name="pha-tutg" category="Letter" script="tulu tigalari" production="u113A7" description="TULU-TIGALARI LETTER PHA" />
+	<glyph unicode="113A8" name="ba-tutg" category="Letter" script="tulu tigalari" production="u113A8" description="TULU-TIGALARI LETTER BA" />
+	<glyph unicode="113A9" name="bha-tutg" category="Letter" script="tulu tigalari" production="u113A9" description="TULU-TIGALARI LETTER BHA" />
+	<glyph unicode="113AA" name="ma-tutg" category="Letter" script="tulu tigalari" production="u113AA" description="TULU-TIGALARI LETTER MA" />
+	<glyph unicode="113AB" name="ya-tutg" category="Letter" script="tulu tigalari" production="u113AB" description="TULU-TIGALARI LETTER YA" />
+	<glyph unicode="113AC" name="ra-tutg" category="Letter" script="tulu tigalari" production="u113AC" description="TULU-TIGALARI LETTER RA" />
+	<glyph unicode="113AD" name="la-tutg" category="Letter" script="tulu tigalari" production="u113AD" description="TULU-TIGALARI LETTER LA" />
+	<glyph unicode="113AE" name="va-tutg" category="Letter" script="tulu tigalari" production="u113AE" description="TULU-TIGALARI LETTER VA" />
+	<glyph unicode="113AF" name="sha-tutg" category="Letter" script="tulu tigalari" production="u113AF" description="TULU-TIGALARI LETTER SHA" />
+	<glyph unicode="113B0" name="ssa-tutg" category="Letter" script="tulu tigalari" production="u113B0" description="TULU-TIGALARI LETTER SSA" />
+	<glyph unicode="113B1" name="sa-tutg" category="Letter" script="tulu tigalari" production="u113B1" description="TULU-TIGALARI LETTER SA" />
+	<glyph unicode="113B2" name="ha-tutg" category="Letter" script="tulu tigalari" production="u113B2" description="TULU-TIGALARI LETTER HA" />
+	<glyph unicode="113B3" name="lla-tutg" category="Letter" script="tulu tigalari" production="u113B3" description="TULU-TIGALARI LETTER LLA" />
+	<glyph unicode="113B4" name="rra-tutg" category="Letter" script="tulu tigalari" production="u113B4" description="TULU-TIGALARI LETTER RRA" />
+	<glyph unicode="113B5" name="llla-tutg" category="Letter" script="tulu tigalari" production="u113B5" description="TULU-TIGALARI LETTER LLLA" />
+	<glyph unicode="113B7" name="avagraha-tutg" category="Letter" script="tulu tigalari" production="u113B7" description="TULU-TIGALARI SIGN AVAGRAHA" />
+	<glyph unicode="113B8" name="aaMatra-tutg" category="Mark" subCategory="Spacing" script="tulu tigalari" production="u113B8" description="TULU-TIGALARI VOWEL SIGN AA" />
+	<glyph unicode="113B9" name="iMatra-tutg" category="Mark" subCategory="Spacing" script="tulu tigalari" production="u113B9" description="TULU-TIGALARI VOWEL SIGN I" />
+	<glyph unicode="113BA" name="iiMatra-tutg" category="Mark" subCategory="Spacing" script="tulu tigalari" production="u113BA" description="TULU-TIGALARI VOWEL SIGN II" />
+	<glyph unicode="113BB" name="uMatra-tutg" category="Mark" subCategory="Nonspacing" script="tulu tigalari" production="u113BB" description="TULU-TIGALARI VOWEL SIGN U" />
+	<glyph unicode="113BC" name="uuMatra-tutg" category="Mark" subCategory="Nonspacing" script="tulu tigalari" production="u113BC" description="TULU-TIGALARI VOWEL SIGN UU" />
+	<glyph unicode="113BD" name="rVocalicMatra-tutg" category="Mark" subCategory="Nonspacing" script="tulu tigalari" production="u113BD" description="TULU-TIGALARI VOWEL SIGN VOCALIC R" />
+	<glyph unicode="113BE" name="rrVocalicMatra-tutg" category="Mark" subCategory="Nonspacing" script="tulu tigalari" production="u113BE" description="TULU-TIGALARI VOWEL SIGN VOCALIC RR" />
+	<glyph unicode="113BF" name="lVocalicMatra-tutg" category="Mark" subCategory="Nonspacing" script="tulu tigalari" production="u113BF" description="TULU-TIGALARI VOWEL SIGN VOCALIC L" />
+	<glyph unicode="113C0" name="llVocalicMatra-tutg" category="Mark" subCategory="Nonspacing" script="tulu tigalari" production="u113C0" description="TULU-TIGALARI VOWEL SIGN VOCALIC LL" />
+	<glyph unicode="113C2" name="eeMatra-tutg" category="Mark" subCategory="Spacing" script="tulu tigalari" production="u113C2" description="TULU-TIGALARI VOWEL SIGN EE" />
+	<glyph unicode="113C5" name="aiMatra-tutg" category="Mark" subCategory="Spacing" script="tulu tigalari" production="u113C5" description="TULU-TIGALARI VOWEL SIGN AI" />
+	<glyph unicode="113C7" name="ooMatra-tutg" category="Mark" subCategory="Spacing" script="tulu tigalari" production="u113C7" description="TULU-TIGALARI VOWEL SIGN OO" />
+	<glyph unicode="113C8" name="auMatra-tutg" category="Mark" subCategory="Spacing" script="tulu tigalari" production="u113C8" description="TULU-TIGALARI VOWEL SIGN AU" />
+	<glyph unicode="113C9" name="auLength-tutg" category="Mark" subCategory="Spacing" script="tulu tigalari" production="u113C9" description="TULU-TIGALARI AU LENGTH MARK" />
+	<glyph unicode="113CA" name="candraAnunasika-tutg" category="Mark" subCategory="Spacing" script="tulu tigalari" production="u113CA" description="TULU-TIGALARI SIGN CANDRA ANUNASIKA" />
+	<glyph unicode="113CC" name="anusvara-tutg" category="Mark" subCategory="Spacing" script="tulu tigalari" production="u113CC" description="TULU-TIGALARI SIGN ANUSVARA" />
+	<glyph unicode="113CD" name="visarga-tutg" category="Mark" subCategory="Spacing" script="tulu tigalari" production="u113CD" description="TULU-TIGALARI SIGN VISARGA" />
+	<glyph unicode="113CE" name="virama-tutg" category="Mark" subCategory="Nonspacing" script="tulu tigalari" production="u113CE" description="TULU-TIGALARI SIGN VIRAMA" />
+	<glyph unicode="113CF" name="loopedVirama-tutg" category="Mark" subCategory="Spacing" script="tulu tigalari" production="u113CF" description="TULU-TIGALARI SIGN LOOPED VIRAMA" />
+	<glyph unicode="113D0" name="conjoiner-tutg" category="Mark" subCategory="Nonspacing" script="tulu tigalari" production="u113D0" description="TULU-TIGALARI CONJOINER" />
+	<glyph unicode="113D1" name="repha-tutg" category="Letter" script="tulu tigalari" production="u113D1" description="TULU-TIGALARI REPHA" />
+	<glyph unicode="113D2" name="gemination-tutg" category="Mark" subCategory="Nonspacing" script="tulu tigalari" production="u113D2" description="TULU-TIGALARI GEMINATION MARK" />
+	<glyph unicode="113D3" name="pluta-tutg" category="Letter" script="tulu tigalari" production="u113D3" description="TULU-TIGALARI SIGN PLUTA" />
+	<glyph unicode="113D4" name="danda-tutg" category="Punctuation" script="tulu tigalari" production="u113D4" description="TULU-TIGALARI DANDA" />
+	<glyph unicode="113D5" name="dbldanda-tutg" category="Punctuation" script="tulu tigalari" production="u113D5" description="TULU-TIGALARI DOUBLE DANDA" />
+	<glyph unicode="113D7" name="omPushpika-tutg" category="Punctuation" script="tulu tigalari" production="u113D7" description="TULU-TIGALARI SIGN OM PUSHPIKA" />
+	<glyph unicode="113D8" name="shriiPushpika-tutg" category="Punctuation" script="tulu tigalari" production="u113D8" description="TULU-TIGALARI SIGN SHRII PUSHPIKA" />
+	<glyph unicode="113E1" name="svarita-tutg" category="Mark" subCategory="Nonspacing" script="tulu tigalari" production="u113E1" description="TULU-TIGALARI VEDIC TONE SVARITA" />
+	<glyph unicode="113E2" name="anudatta-tutg" category="Mark" subCategory="Nonspacing" script="tulu tigalari" production="u113E2" description="TULU-TIGALARI VEDIC TONE ANUDATTA" />
 	<glyph unicode="11900" name="a-divesakuru" category="Letter" script="divesakuru" production="u11900" description="DIVES AKURU LETTER A" />
 	<glyph unicode="11901" name="aa-divesakuru" category="Letter" script="divesakuru" production="u11901" description="DIVES AKURU LETTER AA" />
 	<glyph unicode="11902" name="i-divesakuru" category="Letter" script="divesakuru" production="u11902" description="DIVES AKURU LETTER I" />
